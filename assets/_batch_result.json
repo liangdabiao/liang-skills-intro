@@ -1,0 +1,122 @@
+[
+  {
+    "project": "edu-analytic-geometry",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-analytic-geometry/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-analytic-geometry\\01.png err="
+  },
+  {
+    "project": "edu-analytic-geometry",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-analytic-geometry/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-analytic-geometry\\02.png err="
+  },
+  {
+    "project": "edu-chem-reaction",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-chem-reaction/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-chem-reaction\\01.png err="
+  },
+  {
+    "project": "edu-chem-reaction",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-chem-reaction/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-chem-reaction\\02.png err="
+  },
+  {
+    "project": "edu-chem-tutorial",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-chem-tutorial/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-chem-tutorial\\01.png err="
+  },
+  {
+    "project": "edu-chem-tutorial",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-chem-tutorial/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-chem-tutorial\\02.png err="
+  },
+  {
+    "project": "edu-physics",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-physics/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-physics\\01.png err="
+  },
+  {
+    "project": "edu-physics",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-physics/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-physics\\02.png err="
+  },
+  {
+    "project": "edu-physics-3d",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-physics-3d/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-physics-3d\\01.png err="
+  },
+  {
+    "project": "edu-physics-3d",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-physics-3d/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-physics-3d\\02.png err="
+  },
+  {
+    "project": "edu-plane-geometry",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-plane-geometry/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-plane-geometry\\01.png err="
+  },
+  {
+    "project": "edu-plane-geometry",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-plane-geometry/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-plane-geometry\\02.png err="
+  },
+  {
+    "project": "edu-sci-viz",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-sci-viz/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-sci-viz\\01.png err="
+  },
+  {
+    "project": "edu-sci-viz",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-sci-viz/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-sci-viz\\02.png err="
+  },
+  {
+    "project": "edu-solid-geometry",
+    "idx": "01",
+    "ok": true,
+    "line": "[edu-solid-geometry/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-solid-geometry\\01.png err="
+  },
+  {
+    "project": "edu-solid-geometry",
+    "idx": "02",
+    "ok": true,
+    "line": "[edu-solid-geometry/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\edu-solid-geometry\\02.png err="
+  },
+  {
+    "project": "mathigon-skill",
+    "idx": "01",
+    "ok": true,
+    "line": "[mathigon-skill/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\mathigon-skill\\01.png err="
+  },
+  {
+    "project": "mathigon-skill",
+    "idx": "02",
+    "ok": true,
+    "line": "[mathigon-skill/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\mathigon-skill\\02.png err="
+  },
+  {
+    "project": "stem-illustration",
+    "idx": "01",
+    "ok": true,
+    "line": "[stem-illustration/01] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\stem-illustration\\01.png err="
+  },
+  {
+    "project": "stem-illustration",
+    "idx": "02",
+    "ok": true,
+    "line": "[stem-illustration/02] ok=True rc=0 out=OK:E:/all-skill-t0/skill-intros/assets\\stem-illustration\\02.png err="
+  }
+]
