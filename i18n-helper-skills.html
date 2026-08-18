@@ -12,42 +12,37 @@
   <header class="post-head"><h1>想把网站或代码做成多语言？这两个助手一个管网页、一个管源码 —— i18n-helper-skills 介绍</h1></header>
   <div class="content">
 <p>你的网站或产品想出海、想做繁体或日文版，可面对一堆 HTML 页面或几千行源码里的"保存成功""欢迎使用"，整个人都麻了：到底哪些要翻、怎么翻、翻完怎么不破版？手动改既慢又容易漏。</p>
-<p><strong>i18n-helper-skills 就是来解决这件事的。</strong></p>
-<p>它其实是一套"翻译助手合集"，里面有两个分工明确的 skill：<strong>html-i18n</strong> 管纯静态网页，<strong>i18n-helper</strong> 管编程框架的源码。你给它一个站点或一段代码，它还你一套整理好的多语言版本或翻译文件，而且会跳过代码、URL 这些不该翻的东西。</p>
-<hr />
+<p><strong>i18n-helper-skills 就是来解决这件事的。</strong> 它其实是一套"翻译助手合集"，里面有两个分工明确的技能：<strong>html-i18n</strong> 管纯静态网页，<strong>i18n-helper</strong> 管编程框架的源码。你给它一个站点或一段代码，它还你一套整理好的多语言版本或翻译文件，而且会跳过代码、链接这些不该翻的东西。</p>
 <p><img alt="配图：网页与源码各有翻译助手" src="assets/i18n-helper-skills/01.png" /></p>
 <h2>它到底能做什么</h2>
 <ul>
-<li><strong>html-i18n（静态网页翻译）</strong>：扫描你的 .html 文件，提取出可翻译的文字，生成各语言的独立目录（如 <code>en/</code>、<code>ja/</code>、<code>zh-TW/</code>）。原中文版一个字都不动，译文输出到新目录，CSS 和图片全站共享，对搜索引擎友好。</li>
-<li>提取时会自动跳过代码块、链接地址、CSS 类名，避免把"技术零件"也翻成外文。</li>
-<li>简体转繁体可以直接用自带的 <code>zhconv.py</code> 做字形+术语映射，不用逐字手改。</li>
-<li><strong>i18n-helper（源码国际化）</strong>：扫描 React / Vue / Laravel / WordPress / Python / Java / Go 等源码里的"硬编码"中文，把它们换成翻译函数（如 <code>t()</code>、<code>__()</code>、<code>trans()</code>），并生成对应语言文件（JSON / YAML / PO / XLIFF / PHP 数组等）。</li>
-<li>配套 Python 脚本只依赖标准库，不用额外装包；翻译那一步由 AI 按术语表统一译法完成。</li>
+<li><strong>html-i18n（静态网页翻译）</strong>：扫描你的 .html 文件，提取出可翻译的文字，生成各语言的独立目录（如 <code>en/</code>、<code>ja/</code>、<code>zh-TW/</code>）。原中文版一个字都不动，译文输出到新目录，样式和图片全站共享，对搜索引擎友好。</li>
+<li>提取时会自动跳过代码块、链接地址、样式类名，避免把"技术零件"也翻成外文。</li>
+<li>简体转繁体可以直接做字形+术语映射，不用逐字手改。</li>
+<li><strong>i18n-helper（源码国际化）</strong>：扫描 React / Vue / Laravel / WordPress / Python / Java / Go 等源码里"写死"的中文，把它们换成框架通用的翻译函数调用，并生成对应语言文件（支持 JSON / YAML / PO / XLIFF / PHP 数组等格式）。</li>
+<li>翻译那一步由 AI 按统一的术语表来译，保证同一词前后译法一致。</li>
 <li>最后做完整性检查，告诉你每种语言翻了多少、漏了哪些。</li>
 </ul>
-<h2>一个具体例子</h2>
-<p>静态网页翻译（html-i18n）：</p>
-<pre><code class="language-bash"># 1. 提取可翻译文本，生成 locales/zh-CN.json
-python skills/html-i18n/scripts/extract.py 你的站点/
-
-# 2. 复制 zh-CN.json 改名成 en-US.json，把值换成英文
-
-# 3. 用译文回填，生成英文站目录
-python skills/html-i18n/scripts/apply.py 你的站点/ 你的站点/locales/en-US.json 你的站点/en --lang en
-
-# 4. 检查翻译完整度
-python skills/html-i18n/scripts/check.py 你的站点/locales
-</code></pre>
-<p>源码国际化（i18n-helper）则多为 AI Agent 在识别项目框架后自动跑扫描、替换和生成语言文件。</p>
 <p><img alt="配图：只翻文字跳过代码" src="assets/i18n-helper-skills/02.png" /></p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 i18n-helper-skills 里的对应技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：纯 HTML 小站想出英文版</strong>
+你：我有个纯 HTML 做的小站，帮我出一份英文版，中文原版一个字都别动。
+AI：它扫描所有页面、抽出可翻译文字，自动跳过代码和链接，生成英文目录和译文，原站保持不动，样式图片照常共用。</p>
+<p><strong>场景 2：React 项目要加多语言</strong>
+你：我们这个 React 项目里中文都写死在代码里了，帮我改成支持中英文，别破版。
+AI：它识别项目框架，把写死的中文换成通用翻译函数调用，生成中英文语言文件，并做完整性检查告诉你漏了哪些。</p>
+<p><strong>场景 3：先看看翻得全不全</strong>
+你：刚才翻完一轮，帮我检查一下各语言都翻全了没有，有没有漏的。
+AI：它逐语言统计翻译完成度，把没翻到的条目列出来给你补，避免发布后才发现缺字。</p>
 <h2>谁适合用</h2>
 <ul>
 <li>个人站长、文档站/博客作者，想给纯 HTML 站点做多语言版。</li>
-<li>开发者，要给 React / Vue / Laravel / WordPress 等项目加 i18n 支持。</li>
+<li>开发者，要给 React / Vue / Laravel / WordPress 等项目加多语言支持。</li>
 <li>小团队，没有专业本地化流程，想低成本把产品"出海"或做繁体。</li>
 </ul>
-<h2>一点说明 / 小提示</h2>
-<p>怎么选是关键：项目里<strong>只有 .html/.css/图片、没源码</strong> → 用 html-i18n；<strong>有 .js/.vue/.php 等源码</strong> → 用 i18n-helper，两者互补不重叠，别用错。它不是全自动翻译机——脚本负责提取/回填/检查，真正"翻译"那一步要由 AI 或你来完成，长正文建议逐段精译而非纯机器映射。这是给"会用 AI Agent 或命令行的人"用的 skill 合集，不是图形界面软件；具体支持的语言和框架以项目 README / SKILL.md 为准。</p>
+<h2>一点说明</h2>
+<p>怎么选是关键：项目里<strong>只有 .html / 样式 / 图片、没源码</strong> → 用 html-i18n；<strong>有 .js / .vue / .php 等源码</strong> → 用 i18n-helper，两者互补不重叠，别用错。它不是全自动翻译机——提取、回填、检查由技能完成，"翻译"那一步要由 AI 或你来定稿，长正文建议逐段精译而非纯机器映射。它是装在 AI agent 里的技能合集（不是图形界面软件）；具体支持的语言和框架以项目说明文档为准。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="course-site-skill.html">&larr; 攒了一堆课程笔记却没地方展示？把它一键变成能看的课程网站</a></span>

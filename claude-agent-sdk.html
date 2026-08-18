@@ -3,54 +3,47 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>想自己做个会&quot;动手干活&quot;的 AI 应用？这个工具包把底层都铺好了 —— claude-agent-sdk 介绍</title>
+<title>想做一个会自己干活的 AI 应用？这个技能把底层都铺好了 —— claude-agent-sdk 介绍</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <article class="post">
   <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
-  <header class="post-head"><h1>想自己做个会&quot;动手干活&quot;的 AI 应用？这个工具包把底层都铺好了 —— claude-agent-sdk 介绍</h1></header>
+  <header class="post-head"><h1>想做一个会自己干活的 AI 应用？这个技能把底层都铺好了 —— claude-agent-sdk 介绍</h1></header>
   <div class="content">
 <p>很多人想做一个 AI 应用：不只是聊天，而是能自己读写文件、上网搜资料、调用你的接口、把活干完。但一上手就发现，光是"让 AI 在程序里跑起来、还能中途插话、管理多轮对话、控制它能用哪些工具"这些事，就够折腾好几天。</p>
-<p><strong>claude-agent-sdk 就是来解决这件事的。</strong></p>
-<p>你给它一段代码（一个提示词 + 配置），它还你一个能自主干活的 AI 智能体（Agent，可以理解为被你程序驱动、会自己调用工具的 AI 助手）。它把"怎么运行 Claude、怎么流式返回结果、怎么管会话、怎么加自定义工具"这些脏活累活全封装好了。</p>
+<p><strong>claude-agent-sdk 就是来解决这件事的。</strong> 你告诉它想要什么样的 AI 应用，它还你一个能自主干活的 AI 智能体（可以理解为被你程序驱动、会自己调用工具的 AI 助手）。它把"怎么运行 Claude、怎么流式返回结果、怎么管会话、怎么加自定义工具"这些脏活累活全封装好了。</p>
 <p><img alt="配图：给段代码，盒子 agent 自己长手脚干活" src="assets/claude-agent-sdk/01.png" /></p>
 <hr />
 <h2>它到底能做什么</h2>
 <ul>
-<li>在你的程序里启动一个 AI 智能体，直接复用 Claude 的能力：读写文件、联网搜索、执行命令、调用自定义工具，全程自主决策。</li>
-<li>支持流式返回：AI 思考到哪、调了什么工具、产出什么结果，都能实时推给你的前端，方便做打字机效果或进度展示。</li>
-<li>管理多轮对话和会话：可以续上之前的聊天（靠 session_id 恢复上下文），也支持交互式多轮问答。</li>
-<li>让你注册自定义工具（用 MCP 协议，可以理解为"给 AI 接上你自己的功能"，比如查天气、读数据库），AI 需要时就自己调用。</li>
-<li>支持子智能体（subagent，让一个主 AI 把任务派给多个专门的 AI 分头做，比如一个负责搜索、一个负责写报告）。</li>
-<li>提供权限控制、钩子（hooks，在 AI 调工具前后做拦截校验）、结构化输出（强制返回固定格式的 JSON）等，方便做生产级应用。</li>
+<li>在你的程序里启动一个 AI 智能体，直接复用 Claude 的能力：读写文件、联网搜索、调用你的接口、把活自主干完。</li>
+<li>支持流式返回：AI 思考到哪、调了什么工具、产出什么，都能实时推给你的前端，方便做打字机效果或进度展示。</li>
+<li>管理多轮对话和会话：能续上之前的聊天（靠会话编号恢复上下文），也支持交互式多轮问答。</li>
+<li>让你接上自定义工具（用 MCP 协议，可以理解为"给 AI 连上你自己的功能"，比如查天气、读数据库），AI 需要时就自己调用。</li>
+<li>支持子智能体：让一个主 AI 把任务派给多个专门的 AI 分头做，比如一个负责搜索、一个负责写报告。</li>
+<li>提供权限控制、钩子（在 AI 调工具前后做拦截校验）、结构化输出（强制返回固定格式）等，方便做生产级应用。</li>
 </ul>
-<h2>一个具体例子</h2>
-<p>TypeScript 里最简单的用法：</p>
-<pre><code class="language-ts">import { query } from '@anthropic-ai/claude-agent-sdk';
-
-for await (const message of query({
-  prompt: 'Analyze the code in src/',
-  options: {
-    maxTurns: 30,
-    model: 'sonnet',
-    cwd: process.cwd(),
-    allowedTools: ['Read', 'Glob', 'Grep', 'Bash'],
-  }
-})) {
-  // 处理流式返回的消息（文字、工具调用、结果）
-}
-</code></pre>
-<p>装包很简单：<code>npm install @anthropic-ai/claude-agent-sdk</code>（Python 版是 <code>pip install claude-agent-sdk</code>），需要配置好 API Key。</p>
 <p><img alt="配图：流式返回打字机，主 agent 派出子智能体" src="assets/claude-agent-sdk/02.png" /></p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 claude-agent-sdk 技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：你想做个能读代码库的助手</strong>
+你：帮我用 Claude 做一个 AI 应用，能读取我项目里 src 目录的代码、分析一下结构
+AI：它借助这套能力启动一个会干活的 AI 智能体，复用 Claude 的能力读写文件，自主把分析跑完，并把进度实时推给你看。</p>
+<p><strong>场景 2：你想要一个能查资料的客服</strong>
+你：给我做一个客服机器人，能连上我们的数据库查订单、还能调天气接口
+AI：它用 MCP 协议帮你接上自定义工具，AI 需要查订单或天气时自己调用，并支持多轮对话和会话续接。</p>
+<p><strong>场景 3：你想要多 AI 协作</strong>
+你：我想让一个主 AI 分派任务，一个去搜索、一个去写报告
+AI：它用子智能体机制帮你搭好协作结构，主 AI 派活、专门的 AI 分头完成，再汇总给你。</p>
 <h2>谁适合用</h2>
 <ul>
-<li>想用 Claude 的能力搭建自己的 AI 产品、内部工具或自动化流程的开发者。</li>
+<li>想用 Claude 的能力搭建自己的 AI 产品、内部工具或自动化流程的人（让 AI 按这套能力帮你搭）。</li>
 <li>做聊天机器人、客服系统、研究助手等需要"AI 真去干活"的团队。</li>
-<li>需要多智能体协作、自定义工具集成、流式交互体验的应用工程师。</li>
+<li>需要多智能体协作、自定义工具集成、流式交互体验的应用构建者。</li>
 </ul>
-<h2>一点说明 / 小提示</h2>
-<p>这是给开发者用的 SDK（软件开发工具包），不是给普通人双击打开的 App——你得会写 TypeScript 或 Python、有自己的运行环境，它才帮得上忙。它的定位是"底层框架"：文档很全（含官方文档全文和二十多条常见坑），但真正把它变成某个产品，还得你自己写业务逻辑。具体 API 与能力以项目引用文档为准。</p>
+<h2>一点说明</h2>
+<p>它是装在 codex / workbuddy 这类 AI 助手里的技能，不是普通人双击打开的 App——你得先有能加载技能、连得上模型的 AI 环境，它才帮得上忙。它的定位是"底层能力包"：文档很全（含官方文档全文和二十多条常见坑），但真正把它变成某个产品，还得你把业务逻辑说清楚、让 AI 帮你写。具体 API 与能力以项目引用文档为准。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="stock-deep-research.html">&larr; 说一句&quot;帮我研究下茅台&quot;，它像投研团队一样给你出尽调报告</a></span>

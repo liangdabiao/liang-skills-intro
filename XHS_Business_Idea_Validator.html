@@ -11,10 +11,8 @@
   <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 市场与选题调研类</nav>
   <header class="post-head"><h1>那个最早的小红书生意验证器原版 —— XHS_Business_Idea_Validator 介绍</h1></header>
   <div class="content">
-<p>你有个生意点子，比如"在深圳卖陈皮"，想知道小红书上的人买不买账。前面那篇 <code>xhs-business-validator</code> 其实是从一个更早的"原版"项目改出来的技能版。这个 <code>XHS_Business_Idea_Validator</code> 就是那个原版——一个独立的小红书商业创意验证器。</p>
-<p><strong>XHS_Business_Idea_Validator 就是来解决这件事的。</strong></p>
-<p>你给它一个生意想法，它去小红书里搜相关笔记和评论，分析用户痛点和市场信号，最后给你一份带评分的验证报告，告诉你这个点子值不值得做。</p>
-<hr />
+<p>你有个生意点子，比如"在深圳卖陈皮"，想知道小红书上的人买不买账。前面那篇 xhs-business-validator 其实是从一个更早的"原版"项目改出来的技能版。这个 XHS_Business_Idea_Validator 就是那个原版——一个独立的小红书商业创意验证器。</p>
+<p><strong>XHS_Business_Idea_Validator 就是来解决这件事的。</strong> 你给它一个生意想法，它去小红书里搜相关笔记和评论，分析用户痛点和市场信号，最后给你一份带评分的验证报告，告诉你这个点子值不值得做。</p>
 <p><img alt="配图：小黑在网页应用窗口输入想法，吐出评分报告" src="assets/XHS_Business_Idea_Validator/01.png" /></p>
 <h2>它到底能做什么</h2>
 <ul>
@@ -24,20 +22,26 @@
 <li>生成验证报告：输出关键痛点、现有解决方案、市场机会和行动建议。</li>
 <li>支持不同模式：轻量快速看和较完整的深度分析两套节奏可选。</li>
 </ul>
-<h2>一个具体例子</h2>
-<p>它的同门技能版（<code>xhs-business-validator</code>）在对话里这么用：</p>
-<pre><code>帮我验证一下在深圳卖陈皮这个想法
-</code></pre>
-<p>本原版作为"web 应用"形态，思路一致：输入想法 → 拉取小红书数据 → AI 分析 → 出评分和报告。不过具体入口和命令以原项目（github.com/liangdabiao/XHS_Business_Idea_Validator）为准。</p>
 <p><img alt="配图：四步管道，输入想法到评分报告依次相连" src="assets/XHS_Business_Idea_Validator/02.png" /></p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 XHS_Business_Idea_Validator 技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：验证一个点子</strong>
+你：帮我验证一下在深圳卖陈皮这个想法。
+AI：它去小红书里拉相关笔记和评论，分析用户痛点和市场信号，最后给你一份带 0–100 评分的验证报告——关键痛点、现有方案、市场机会和行动建议都写清楚。</p>
+<p><strong>场景 2：给品类找方向</strong>
+你：我想做针对宝妈的收纳内容，先看看小红书上有没有人需要。
+AI：它搜一圈相关讨论，把真实需求和没被满足的空档挖出来，再打个分，帮你判断这个方向值不值得投入。</p>
+<p><strong>场景 3：快速看个大概</strong>
+你：我有个小想法，先随手看看热度。
+AI：它用轻量模式快速扫一遍，给你一个大致分数和几条关键讨论，帮你低成本试水温。</p>
 <h2>谁适合用</h2>
 <ul>
 <li>想在国内（小红书受众）试水小生意的人：先验证需求再投入。</li>
 <li>做选品、账号定位、内容创作的人：看品类声量和真实痛点。</li>
 <li>品牌方：快速摸清楚某个方向在小红书上的反馈。</li>
 </ul>
-<h2>一点说明 / 小提示</h2>
-<p>本批次里这个目录是空的，拿不到它自己的 SKILL.md / README，所以上面内容是根据同仓库的 <code>xhs-business-validator</code> 和 README 中指向的原版链接（github.com/liangdabiao/XHS_Business_Idea_Validator，标注为"web 应用原版"）推断的，具体能力以项目原文档为准。两者高度同源：<code>XHS_Business_Idea_Validator</code> 是更早的网页应用原版，而 <code>xhs-business-validator</code> 是把同一套思路做成、能直接在 AI 助手对话里调用的"技能版"。注意它只覆盖小红书这一个平台的数据，评分是方向性判断，不代表真实成交结果。</p>
+<h2>一点说明</h2>
+<p>XHS_Business_Idea_Validator 是更早的网页应用原版，而 xhs-business-validator 是把同一套思路做成、能直接在 AI 助手对话里调用的"技能版"，两者高度同源。注意它只覆盖小红书这一个平台的数据，评分是方向性判断，不代表真实成交结果。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="xhs-business-validator.html">&larr; 有个生意点子？先丢到小红书里看看大家买不买账</a></span>

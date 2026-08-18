@@ -11,10 +11,9 @@
   <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 电商与广告类</nav>
   <header class="post-head"><h1>做 TikTok 电商想抄爆款、盯达人？它把榜单数据一键搬下来 —— fastmoss-rpa 介绍</h1></header>
   <div class="content">
-<p>你在做 TikTok 小店（TikTok Shop），想知道最近什么商品突然爆了、哪些达人带货最猛、对手在投什么广告关键词。FastMoss 这个网站能看这些数据，但手动一页页翻、一条条抄进表格，几十页下来人都要麻了。fastmoss-rpa 用一条命令，就把 FastMoss 上 7 大榜单的数据自动抓成表格，还能顺手生成一份带洞察的分析报告。</p>
+<p>你在做 TikTok 小店（TikTok Shop），想知道最近什么商品突然爆了、哪些达人带货最猛、对手在投什么广告关键词。FastMoss 这个网站能看这些数据，但手动一页页翻、一条条抄进表格，几十页下来人都要麻了。fastmoss-rpa 帮你把 FastMoss 上 7 大榜单的数据自动抓成表格，还能顺手生成一份带洞察的分析报告。</p>
 <p><strong>fastmoss-rpa 就是来解决这件事的。</strong></p>
 <p>你给它一个榜单名称加筛选条件（比如"美国站、涨粉榜"），它还你一份 CSV 数据表，以及一份人话版的分析报告。</p>
-<hr />
 <p><img alt="配图：一键抓取七大榜单" src="assets/fastmoss-rpa/01.png" /></p>
 <h2>它到底能做什么</h2>
 <ul>
@@ -27,19 +26,18 @@
 <li>抓品类大盘（market）：看行业格局、市场总览、日销趋势，支持多国对比。</li>
 <li>按国家 / 品类 / 时间筛选：比如"美国 + 印度尼西亚 + 泰国"一键多市场抓，自动切分。</li>
 </ul>
-<h2>一个具体例子</h2>
-<p>在技能的 scripts 目录里运行，把路径换成你想存的就行：</p>
-<pre><code class="language-bash"># 抓美国站达人&quot;涨粉&quot;榜前 5 页
-python fastmoss_rpa.py scrape --section creators --ranking fans --pages 5 --out out/fans.csv
-
-# 按国家筛选商品榜
-python fastmoss_rpa.py filter --section products --country 美国,印度尼西亚 --pages 3 --out out/by_country.csv
-
-# 把抓到的 CSV 变成分析报告
-python fastmoss_rpa.py analyze creators --fans out/fans.csv --out-md report/creators_report.md
-</code></pre>
-<p><code>--section</code> 选榜单，<code>--ranking</code> 选子榜单（商品榜不用填），<code>--pages</code> 是抓几页，<code>--out</code> 是存哪。</p>
 <p><img alt="配图：七类榜单一图覆盖" src="assets/fastmoss-rpa/02.png" /></p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 fastmoss-rpa 技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：想找最近爆了的商品</strong>
+你：帮我看看美国站 TikTok 最近上了哪些新爆品。
+AI：它会自动打开 FastMoss、抓下商品榜里美国站的新品和热推商品，整理成一份表格给你，方便你找潜力款。</p>
+<p><strong>场景 2：想找涨粉最快的达人合作</strong>
+你：印尼最近涨粉最快的带货达人是谁？给我列一下。
+AI：它会抓取达人榜里印尼站的涨粉榜，排出涨粉最快的一批账号，你挑合适的去谈合作。</p>
+<p><strong>场景 3：想出一份多市场对比报告</strong>
+你：把美国、印度尼西亚、泰国三个市场的品类大盘都拉出来，做个对比。
+AI：它会按国家分别抓数据再自动切分合并，最后给你一份带洞察的多市场对比分析报告。</p>
 <h2>谁适合用</h2>
 <ul>
 <li>做 TikTok Shop 的卖家、选品人员、直播团队。</li>
@@ -47,7 +45,7 @@ python fastmoss_rpa.py analyze creators --fans out/fans.csv --out-md report/crea
 <li>需要把多国 TikTok 数据做成对比报告的调研者。</li>
 </ul>
 <h2>一点说明</h2>
-<p>它不是普通能双击打开的软件，而是一个给 AI 助手用的"技能包"加一套 Python 脚本。它靠 BrowserSkill 这个浏览器自动化工具，驱动你电脑上已经登录 FastMoss 的真实浏览器去抓数据——所以你得先装好 BrowserSkill 插件、用 Chrome/Edge 登录 FastMoss，并确认 <code>bsk status</code> 显示已连接。没登录或没连上浏览器，就抓不到。具体支持的榜单和字段以项目 SKILL.md / references 为准。</p>
+<p>它不是普通能双击打开的软件，而是一个给 AI 助手（如 codex / workbuddy）用的"技能包"。它靠浏览器自动化工具（RPA，让 AI 自动操作网页的工具）驱动你电脑上已经登录 FastMoss 的真实浏览器去抓数据——所以你先在 agent 里装好对应的浏览器自动化技能、用 Chrome 或 Edge 登录 FastMoss 就行。没登录或没连上浏览器，就抓不到。具体支持的榜单和字段以项目 SKILL.md / references 为准。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="facebook-ads-analyzer.html">&larr; 投了 Facebook 广告却看不懂数据？它帮你一眼分清好坏</a></span>

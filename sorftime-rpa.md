@@ -1,12 +1,10 @@
 # 想用 Sorftime 挖亚马逊数据，又不想一页页手抄？它一个入口抓 11 类 —— sorftime-rpa 介绍
 
-你用 Sorftime（sorftime.com）做亚马逊卖家分析，它家榜单很多：畅销榜、产品选品、关键词、品牌、卖家，还有各种"反查"工具。手动在网页上点、复制、粘贴，光一个类目就能耗掉一下午。sorftime-rpa 把原来 11 个分散的技能合并成了一个入口，一条命令抓数据，一条命令出报告，覆盖选品和"查竞品/品牌/市场/关键词"两大块。
+你用 Sorftime（sorftime.com）做亚马逊卖家分析，它家榜单很多：畅销榜、产品选品、关键词、品牌、卖家，还有各种"反查"工具。手动在网页上点、复制、粘贴，光一个类目就能耗掉一下午。sorftime-rpa 把原来 11 个分散的技能合并成了一个入口，让你一句话抓数据、一句话出报告，覆盖选品和"查竞品/品牌/市场/关键词"两大块。
 
 **sorftime-rpa 就是来解决这件事的。**
 
 你给它一个板块名加站点（比如"美国站、查品牌 Anker"），它还你一份 CSV 数据表，以及一份分析报告。
-
----
 
 ![配图：十一个入口合成一个](assets/sorftime-rpa/01.png)
 
@@ -28,34 +26,30 @@
 
 它还支持 14 个亚马逊站点（美国、日本、英国、德国等），并能把 CSV 自动生成中文 Markdown 报告。
 
-## 一个具体例子
-
-在技能 scripts 目录下运行，统一用 `--section` 选板块：
-
-```bash
-# 抓品牌榜（美国 + 日本）
-python sorftime_rpa.py scrape --section brand --station US,JP --out data/brands.csv
-
-# 查一个品牌在各站的情况
-python sorftime_rpa.py scrape --section checkbrand --station US --mode brand --queries Anker --out data/anker.csv
-
-# 批量查几个 ASIN
-python sorftime_rpa.py scrape --section checkproduct --station US --queries B0CHX1W1XY,B0BDHZ8Q63 --out data/asins.csv
-
-# 把 CSV 变成报告
-python sorftime_rpa.py analyze --section brand --input data/brands.csv --out-md reports/brand.md
-```
-
-`--station` 可跟多个站点，`--queries` 是你要查的词或编号。
-
 ![配图：选板块跨十四站出数据](assets/sorftime-rpa/02.png)
+
+## 怎么用
+
+你不需要记任何命令。在 codex / workbuddy 等 agent 装好 sorftime-rpa 技能后，直接对 AI 说话就行：
+
+**场景 1：想看品牌榜**
+你：帮我看美国站和日本站的品牌榜。
+AI：它会打开 Sorftime、按站点抓下品牌榜数据，整理成表格给你。
+
+**场景 2：想查某个品牌在各站的情况**
+你：帮我查一下 Anker 在美国站各个类目里表现怎么样。
+AI：它会按品牌跨站反查，把 Anker 在各站的数据整理出来，让你一眼看清它的布局。
+
+**场景 3：想批量查几个商品**
+你：帮我查这几个 ASIN 的价格、销量和评价排名。
+AI：它会批量查商品详情，把每个编号的价格、销量、评价、排名整理成表，还能生成一份中文分析报告。
 
 ## 谁适合用
 
 - 用 Sorftime 做亚马逊选品、竞品监控的卖家和运营。
 - 需要跨 14 个站点批量拉品牌、卖家、市场数据的研究人员。
-- 想把这些手工活变成可复用脚本、定期跑的人。
+- 想把这些手工活变成可复用流程、定期跑的人。
 
 ## 一点说明
 
-它不是双击即用的软件，而是给 AI 助手用的"技能包"加 Python 脚本，靠 BrowserSkill 驱动你已登录 Sorftime 的真实浏览器去读数据（Sorftime 接口全程加密，所以只能"看"页面解密后的内容，不用配密钥）。因此要先装好 BrowserSkill、登录 Sorftime，并确认 `bsk status` 已连接。免费会员部分数据会被遮蔽，属于平台限制。查关键词模块标注为实验性，可能不稳定。具体板块和字段以项目 SKILL.md / references 为准。
+它不是双击即用的软件，而是给 AI 助手（如 codex / workbuddy）用的"技能包"。它靠浏览器自动化工具（RPA，让 AI 自动操作网页的工具）驱动你已登录 Sorftime 的真实浏览器去读数据（Sorftime 接口全程加密，所以只能"看"页面解密后的内容，不用配密钥）。因此你先在 agent 里装好对应的浏览器自动化技能、登录 Sorftime 就行。免费会员部分数据会被遮蔽，属于平台限制。查关键词模块标注为实验性，可能不稳定。具体板块和字段以项目 SKILL.md / references 为准。

@@ -45,7 +45,7 @@
 ## 四、视频与动画类（9 篇）
 
 - [把数学证明做成动画视频，让公式自己"长"出来](geometry-math-proof-remotion.md) — geometry-math-proof-remotion
-- [拍视频前脑袋一团乱？它帮你把想法聊成一份可执行脚本](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
+- [拍视频前脑袋一团乱？它帮你把想法聊成一份能直接开拍的方案](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
 - [想用 AI 生成短视频，但不会写提示词？它帮你写出能用的分镜](make-prompt-seedance2.md) — make-prompt-seedance2
 - [想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层](paper-cutout-remotion.md) — paper-cutout-remotion
 - [有一段播客音频，想快速变成竖屏短视频？它帮你秒出字幕版](podcast-shorts-remotion.md) — podcast-shorts-remotion

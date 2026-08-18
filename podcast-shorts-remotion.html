@@ -25,20 +25,25 @@
 <li>预览片（540×960 半高清）就是默认交付物，确认满意再决定是否要 1080p 高清版。</li>
 </ul>
 <p><img alt="配图：主打快，预览片即交付" src="assets/podcast-shorts-remotion/02.png" /></p>
-<h2>一个具体例子</h2>
-<p>一条命令搭好工程骨架：</p>
-<pre><code class="language-bash">python3 ./skills/podcast-shorts-remotion/scripts/scaffold_podcast_shorts_project.py \
-  --project-dir &quot;./hf&quot; --audio &quot;音频.mp3&quot; --script &quot;播客脚本.md&quot; --title &quot;视频标题&quot;
-</code></pre>
-<p>接着并行跑转写，填好字幕和章节，最后 <code>npm run render:preview</code> 出预览片。</p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 podcast-shorts-remotion 技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：把播客变成短视频</strong>
+你：我录了一期 20 分钟的播客，帮我剪一条带字幕的竖屏短视频发出去。
+AI：它会自动转写音频、按内容切章节、加上居中字幕和顶部进度条，再配一套合适的主题配色，给你一条 1080×1920 的竖屏短片。</p>
+<p><strong>场景 2：口播也能用</strong>
+你：我有一段口播录音，想快速出字幕版视频，越省事越好。
+AI：它会以音频为基准转写并校正字幕，关键词高亮，直接出预览片，你确认满意后再要高清版。</p>
+<p><strong>场景 3：赶时间</strong>
+你：我这音频就 5 分钟，想尽快拿到能发的版本。
+AI：它主打一个"快"，会并行处理、跳过冗余检查，几分钟音频大约十分钟量级就能渲染出预览片，你确认就能发。</p>
 <h2>谁适合用</h2>
 <ul>
 <li>播客主、口播博主，想把手头音频快速变成可发的短视频。</li>
 <li>做知识分享、行业解读，需要稳定出字幕版竖屏视频的人。</li>
 <li>追求效率、不想在渲染校验上耗时间的内容生产者。</li>
 </ul>
-<h2>一点说明 / 小提示</h2>
-<p>它是跑在 AI 助手里的技能，产出一套 Remotion 工程，不是独立 App。渲染靠本机 Chrome，长音频会比较吃时间（这是硬件地板，不是卡住）。具体能力以项目文档为准。</p>
+<h2>一点说明</h2>
+<p>它是跑在 AI 助手里的技能，不是独立 App。渲染靠本机浏览器环境，长音频会比较吃时间（这是硬件地板，不是卡住）。它产出的是一段 Remotion（一个用代码做视频的开源框架，但你不用写，AI 帮你写）视频。具体能力以项目文档为准。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="paper-cutout-remotion.html">&larr; 想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层</a></span>

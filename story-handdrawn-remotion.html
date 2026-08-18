@@ -21,25 +21,29 @@
 <li>把故事按句号拆成"一句一拍"，每句配一张图，节奏清晰不堆砌。</li>
 <li>每句做"文字 → 黑白线稿 → 彩色插画"三次横向擦除揭示，像有人在你面前一笔笔画出来，很有韵味。</li>
 <li>可选右下角翻书转场，像翻一本手绘日记。</li>
-<li>默认免费生成图片（agnes 接口）和免费配音（微软 edge 中文女声），也能升级到更高质量的付费方案。</li>
+<li>默认免费生成图片和免费配音（微软 edge 中文女声），也能升级到更高质量的付费方案。</li>
 <li>额外支持英文教学闪卡模式：顶部英文句子、下方插画加关键词音标，适合中小学英语教学。</li>
 </ul>
 <p><img alt="配图：翻书转场的手绘日记，免费出图配音" src="assets/story-handdrawn-remotion/02.png" /></p>
-<h2>一个具体例子</h2>
-<p>写一段故事存成 <code>story.txt</code>，一句一行，然后：</p>
-<pre><code class="language-bash">python scripts/gen_story_images.py examples/story.txt --title &quot;世上最美味的泡面&quot;
-python scripts/gen_tts.py narration.yaml --out-dir public/audio/narration
-npm run render:preview
-</code></pre>
-<p>预览片（720×960）就是默认成片，确认要高清再跑 <code>npm run render</code>。</p>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 story-handdrawn-remotion 技能后，直接对 AI 说话就行：</p>
+<p><strong>场景 1：把日记做成治愈系视频</strong>
+你：帮我把手写的这周日记做成一段手绘风短视频，要蜡笔涂色、治愈一点。
+AI：它会把日记按句拆成一拍一图，每句都做"文字→线稿→彩图"的擦除动画，配上中文女声配音和翻书转场，给你一段 3:4 竖屏的手绘日记视频。</p>
+<p><strong>场景 2：做童话短片</strong>
+你：我想给女儿讲一个自编的小童话，做成动画。
+AI：它会把故事一句句画出来、配上温柔的旁白，产出一段像绘本翻页的温情小动画。</p>
+<p><strong>场景 3：做英文教学卡</strong>
+你：帮我做一套英文故事教学卡，要带音标和释义。
+AI：它会切到英文教学闪卡模式，每句英文配插画和关键词音标、释义、例句，适合中小学英语课堂。</p>
 <h2>谁适合用</h2>
 <ul>
 <li>写日记、童话、亲情故事的作者，想做成治愈系短视频。</li>
 <li>老师做教学小品、步骤插画。</li>
-<li>想做英文故事教学卡的人（用 <code>--lang en</code>）。</li>
+<li>想做英文故事教学卡的人。</li>
 </ul>
-<h2>一点说明 / 小提示</h2>
-<p>它是跑在 AI 助手里的技能，产出一套 Remotion 工程。默认"70% 质量就交付"，不追求每张图完美——目标是几小时出片。它是静帧擦除风格，不是会动的视频片段（那要看 story-handdrawn-video）。具体能力以项目文档为准。</p>
+<h2>一点说明</h2>
+<p>它是跑在 AI 助手里的技能，产出一段手绘动画。默认"70% 质量就交付"，不追求每张图完美——目标是几小时出片。它是静帧擦除风格，不是会动的视频片段（那要看 story-handdrawn-video）。它依赖 Remotion（一个用代码做视频的开源框架，但你不用写，AI 帮你写）来生成画面。具体能力以项目文档为准。</p>
   </div>
   <footer class="pager">
     <span class="prev"><a href="podcast-shorts-remotion.html">&larr; 有一段播客音频，想快速变成竖屏短视频？它帮你秒出字幕版</a></span>
