@@ -1,14 +1,14 @@
-# 想把网站或代码做成多语言？这两个助手一个管网页、一个管源码 —— i18n-helper-skills-main 介绍
+# 想把网站或代码做成多语言？这两个助手一个管网页、一个管源码 —— i18n-helper-skills 介绍
 
 你的网站或产品想出海、想做繁体或日文版，可面对一堆 HTML 页面或几千行源码里的"保存成功""欢迎使用"，整个人都麻了：到底哪些要翻、怎么翻、翻完怎么不破版？手动改既慢又容易漏。
 
-**i18n-helper-skills-main 就是来解决这件事的。**
+**i18n-helper-skills 就是来解决这件事的。**
 
 它其实是一套"翻译助手合集"，里面有两个分工明确的 skill：**html-i18n** 管纯静态网页，**i18n-helper** 管编程框架的源码。你给它一个站点或一段代码，它还你一套整理好的多语言版本或翻译文件，而且会跳过代码、URL 这些不该翻的东西。
 
 ---
 
-![配图：网页与源码各有翻译助手](assets/i18n-helper-skills-main/01.png)
+![配图：网页与源码各有翻译助手](assets/i18n-helper-skills/01.png)
 
 ## 它到底能做什么
 
@@ -38,7 +38,7 @@ python skills/html-i18n/scripts/check.py 你的站点/locales
 
 源码国际化（i18n-helper）则多为 AI Agent 在识别项目框架后自动跑扫描、替换和生成语言文件。
 
-![配图：只翻文字跳过代码](assets/i18n-helper-skills-main/02.png)
+![配图：只翻文字跳过代码](assets/i18n-helper-skills/02.png)
 
 ## 谁适合用
 

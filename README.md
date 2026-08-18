@@ -46,7 +46,7 @@
 
 - [把数学证明做成动画视频，让公式自己"长"出来](geometry-math-proof-remotion.md) — geometry-math-proof-remotion
 - [拍视频前脑袋一团乱？它帮你把想法聊成一份可执行脚本](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
-- [想用 AI 生成短视频，但不会写提示词？它帮你写出能用的分镜](make-prompt-seedance2-main.md) — make-prompt-seedance2-main
+- [想用 AI 生成短视频，但不会写提示词？它帮你写出能用的分镜](make-prompt-seedance2.md) — make-prompt-seedance2
 - [想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层](paper-cutout-remotion.md) — paper-cutout-remotion
 - [有一段播客音频，想快速变成竖屏短视频？它帮你秒出字幕版](podcast-shorts-remotion.md) — podcast-shorts-remotion
 - [有段故事想变成手绘风视频？它让每句话被"画"三次](story-handdrawn-remotion.md) — story-handdrawn-remotion
@@ -59,7 +59,7 @@
 - [想写出"刘润式"有洞察的商业长文？让这个助手替你搭好骨架](liurun-bookwriter.md) — liurun-bookwriter
 - [想写出"罗振宇式"有启发的好文章？这个助手帮你把金句和故事安排明白](luozhenyu-bookwriter.md) — luozhenyu-bookwriter
 - [攒了一堆课程笔记却没地方展示？把它一键变成能看的课程网站](course-site-skill.md) — course-site-skill
-- [想把网站或代码做成多语言？这两个助手一个管网页、一个管源码](i18n-helper-skills-main.md) — i18n-helper-skills-main
+- [想把网站或代码做成多语言？这两个助手一个管网页、一个管源码](i18n-helper-skills.md) — i18n-helper-skills
 - [想认真运营公众号却卡在"写+配图"？这个助手从选题一路帮你写到出图](wechat-writer.md) — wechat-writer
 - [文章写好了却愁配图？让"小黑"把你的观点画成清爽怪诞的手绘图](ian-xiaohei-illustrations.md) — ian-xiaohei-illustrations
 
@@ -73,7 +73,7 @@
 
 ## 七、工具与杂项类（11 篇）
 
-- [想把照片变成乐高像素画？交给它出拼搭说明书和零件清单](brickMosaic-main.md) — brickMosaic-main
+- [想把照片变成乐高像素画？交给它出拼搭说明书和零件清单](brickMosaic.md) — brickMosaic
 - [想自己做一款棋牌或桌游？它帮你把规则写成能跑的游戏](boardgame-io.md) — boardgame-io
 - [想抓抖音、小红书、TikTok 的数据？它帮你查接口、调接口](tikhub-api-helper.md) — tikhub-api-helper
 - [想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按"AI 口味"改内容](geo-optimizer.md) — geo-optimizer
