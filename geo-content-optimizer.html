@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>给一个网址，它告诉你这页内容怎么改才容易被 AI 推荐 —— geo-content-optimizer 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 工具与杂项类</nav>
+  <header class="post-head"><h1>给一个网址，它告诉你这页内容怎么改才容易被 AI 推荐 —— geo-content-optimizer 介绍</h1></header>
+  <div class="content">
+<p>你写好了官网某一页，心里没底：用户用 AI 助手问相关问题时，这页会不会被引用？它跟 Google 的"AI 概览"里那段总结比，缺了啥、多说了啥？光靠自己读，很难看出差距在哪。</p>
+<p><strong>geo-content-optimizer 就是来解决这件事的。</strong></p>
+<p>它专门干一件事：你给它一个网页网址，它会自动去抓取这页内容、在 Google 上做相关查询扩展、把 Google 的"AI 概览"那段答案抓回来，然后拿"AI 概览说的"和"你这页写的"做对比，最后给你一份中文的优化建议报告。你给它一个网址，它还你一份"差在哪、该补啥"的诊断书。</p>
+<hr />
+<p><img alt="配图：你的页面 vs Google AI 概览" src="assets/geo-content-optimizer/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>抓取页面标题：自动打开网页，提取它的主标题（这决定了后面查什么）。</li>
+<li>做查询扩展（query fan-out）：围绕这个页面主题，在搜索引擎上搜一圈相关的子话题，把覆盖面铺开。</li>
+<li>抓取 Google AI 概览：把 Google 在相关问题上给出的那段"AI 总结"拿回来做对比基准。</li>
+<li>生成对比摘要：把扩展开来的搜索结果和 AI 概览分别小结，方便对照。</li>
+<li>出优化报告：逐条指出"两边都提到的""只有 AI 概览提了的（你的内容缺口）"，并给可执行的修改建议，报告全是中文。</li>
+</ul>
+<h2>一个具体例子</h2>
+<p>它是以"技能"形式被触发的，你只需要提供网址，例如对它说：</p>
+<pre><code>优化这个页面：https://你的网站.com/某篇文章
+</code></pre>
+<p>它会按自己的流程一步步跑完（抓取 → 查询扩展 → 取 AI 概览 → 对比 → 报告），把结果存到 <code>output/&lt;域名&gt;/report.md</code>。报告结构包含：摘要对比表、共性与差异、内容缺口、以及一条条优化建议。</p>
+<p><img alt="配图：一份中文优化诊断报告" src="assets/geo-content-optimizer/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>写官网 / 博客内容，想知道"AI 会不会引用我这页"的运营或作者。</li>
+<li>帮客户做内容优化、需要快速出诊断报告的从业者。</li>
+<li>做 AI 工具、要把"单页内容优化"做成标准动作的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是一个"AI 技能"（给带它的 AI 助手用的），不是普通人能直接双击打开的网页应用。它依赖搜索和浏览器能力去实时抓 Google 的 AI 概览；如果某些地区或某些查询抓不到实时 AI 概览，它会基于搜索结果生成一版并明确标注"非实时"。注意它做的是"内容优化分析"，不替你改网站代码、也不保证 AI 一定引用。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="geo-optimizer.html">&larr; 想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按&quot;AI 口味&quot;改内容</a></span>
+    <span class="next"><a href="geolook.html">做 GEO（让 AI 推荐你的产品）从诊断到交付，它一条龙包了 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

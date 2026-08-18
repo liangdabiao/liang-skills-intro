@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想做个生意但怕没人买单？让 Reddit 上的真人帮你投票 —— reddit-business-idea-validator 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 市场与选题调研类</nav>
+  <header class="post-head"><h1>想做个生意但怕没人买单？让 Reddit 上的真人帮你投票 —— reddit-business-idea-validator 介绍</h1></header>
+  <div class="content">
+<p>你想做个产品，比如"给独居老人做智能药盒"，但心里没底：美国人真有这需求吗？大家都在抱怨啥？现在有没有人已经在做了？你当然可以去 Reddit 翻，但几百万帖子里找信号，等于大海捞针，还容易只看得到自己想看的。</p>
+<p><strong>reddit-business-idea-validator 就是来解决这件事的。</strong></p>
+<p>你给它一个想法，它自动去 Reddit 抓相关帖子和评论，让多个 AI  agent 一起分析，最后还你一份带 0–100 评分的 HTML 报告，直说这个方向值不值得做。</p>
+<hr />
+<p><img alt="配图：小黑把想法丢进Reddit箱子，多分身分析出评分报告" src="assets/reddit-business-idea-validator/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>验证想法：把你的创意当关键词，去 Reddit 找真人讨论，看有没有人关心。</li>
+<li>挖痛点：从帖子和评论里提炼用户真正在抱怨什么、需要什么。</li>
+<li>看竞品：现在大家都在用什么替代方案，市场饱不饱和。</li>
+<li>找机会：哪些需求没被满足，你可以做差异化。</li>
+<li>打分定性：给出 0–100 综合分（≥75 强、50–74 有潜力、30–49 弱、&lt;30 不建议），一眼看懂。</li>
+<li>出报告：HTML 报告含数据统计、核心痛点、现有方案、市场机会、行动建议、四象限评论标签分析和用户画像。</li>
+</ul>
+<h2>一个具体例子</h2>
+<p>它自带一套可命令行跑的流水线，最常用的是：</p>
+<pre><code class="language-bash"># 先检查环境（.env、依赖、API 是否就绪，约 5 秒）
+python scripts/preflight.py
+
+# 跑验证，standard 是默认档（约 10–15 分钟）
+python scripts/run_pipeline.py &quot;给独居老人做智能药盒&quot; --profile standard
+</code></pre>
+<p>跑完用 <code>scripts/extract_report.py --run-id &lt;run_id&gt;</code> 提取评分和摘要。三档可选：fast（2–4 分钟试水）、standard（默认）、deep（25–35 分钟，重要决策用）。中途崩了还能用 <code>recover.py --resume-last</code> 续跑，不用重来。</p>
+<p><img alt="配图：小黑看0-100评分仪表盘，一眼懂值不值得做" src="assets/reddit-business-idea-validator/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>想做海外/英文市场生意的人：Reddit 用户以欧美为主，最适合验证英文市场需求。</li>
+<li>独立开发者和内容创业者：低成本验证"这个点子有没有人买单"。</li>
+<li>做跨境电商、SaaS 的人：先看海外真实声音再决定投不投入。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>这是一个需要一点技术配置的"技能"：要装 Python 依赖，并在 <code>.env</code> 里填 Reddit API 凭证（应用类型必须选 "script"）和兼容 OpenAI 的 LLM 密钥。另外，Reddit 在中国大陆访问受限，需要代理才能抓数据。它只覆盖 Reddit 这一个数据源、主要面向英文市场，不擅长小红书/抖音类国内数据，也不做纯关键词 SEO 那种事。分数是 AI 基于真实讨论打的，低分也是有用的负面信号，别只盯着高分看。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="market-insight.html">&larr; 搞不清用户到底要啥？让它十分钟帮你把人看透</a></span>
+    <span class="next"><a href="xhs-business-validator.html">有个生意点子？先丢到小红书里看看大家买不买账 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

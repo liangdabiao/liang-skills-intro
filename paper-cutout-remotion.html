@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层 —— paper-cutout-remotion 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 视频与动画类</nav>
+  <header class="post-head"><h1>想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层 —— paper-cutout-remotion 介绍</h1></header>
+  <div class="content">
+<p>你想做个讲历史、讲品牌故事的小动画，但平面的图太单薄，真去做 3D 又太难。有没有一种办法，让画面有前后纵深、像纸片一层层叠起来那种味道，还不用你亲手画？</p>
+<p><strong>paper-cutout-remotion 就是来解决这件事的。</strong></p>
+<p>你给它一份分镜脚本，它还你一段纸片分层风格的动画视频，背景、主角、配角、前景各动各的，靠前后遮挡做出立体感。</p>
+<hr />
+<p><img alt="配图：分镜拆成四层剪纸，前后遮挡出立体感" src="assets/paper-cutout-remotion/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>把每个镜头拆成四层：背景、后排、主角、前景，每层是独立的 PNG 图片（带透明背景的图），分别运动、互不干扰。</li>
+<li>图片由 AI 生成（apiz 绘图接口），角色用绿幕方式生成方便抠成透明图，再分层摆放。</li>
+<li>主角先出场、配角跟上、后排填充，错峰出现，画面有节奏不乱。</li>
+<li>配上 AI 配音（MiniMax 或免费的微软 edge 配音）和字幕，宣纸米白的底色调，朱砂红、墨黑这类中国风配色。</li>
+<li>适合历史叙事、知识科普、商业故事、人物关系这类"能分出主次"的内容。</li>
+</ul>
+<p><img alt="配图：错峰出场，中国风配色有主次" src="assets/paper-cutout-remotion/02.png" /></p>
+<h2>一个具体例子</h2>
+<p>先生成无人物的背景底板，再生成角色素材并抠图：</p>
+<pre><code class="language-bash">python scripts/gen_plates.py &quot;唐代长安宫殿全景，水墨远山，宣纸纹理&quot; public/assets/plates/01-bg.png
+python scripts/gen_characters.py assets_spec.yaml public/assets/source/
+</code></pre>
+<p>随后在场景文件里摆好每层的位置和出场顺序，最后生成配音、渲染成片。</p>
+<h2>谁适合用</h2>
+<ul>
+<li>做历史、文化、品牌故事类视频的作者。</li>
+<li>知识科普、商业案例讲解，需要画面有主次和纵深。</li>
+<li>喜欢剪纸/拼贴质感，但不想自己一张张画图的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是跑在 AI 助手里的技能，产出一套 Remotion 视频工程，不是开箱即用的 App。核心是"分层"思维：先定镜头、再画图，否则人物比例和主次容易返工。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="make-prompt-seedance2-main.html">&larr; 想用 AI 生成短视频，但不会写提示词？它帮你写出能用的分镜</a></span>
+    <span class="next"><a href="podcast-shorts-remotion.html">有一段播客音频，想快速变成竖屏短视频？它帮你秒出字幕版 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

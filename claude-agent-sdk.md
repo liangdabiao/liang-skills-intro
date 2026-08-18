@@ -41,6 +41,8 @@ for await (const message of query({
 
 装包很简单：`npm install @anthropic-ai/claude-agent-sdk`（Python 版是 `pip install claude-agent-sdk`），需要配置好 API Key。
 
+![配图：流式返回打字机，主 agent 派出子智能体](assets/claude-agent-sdk/02.png)
+
 ## 谁适合用
 
 - 想用 Claude 的能力搭建自己的 AI 产品、内部工具或自动化流程的开发者。
@@ -49,4 +51,4 @@ for await (const message of query({
 
 ## 一点说明 / 小提示
 
-这是给开发者用的 SDK（软件开发工具包），不是给普通人双击打开的 App——你得会写 TypeScript 或 Python、有自己的运行环境，它才帮得上忙。它的定位是"底层框架"：文档很全（含官方文档全文和二十多条常见坑），但真正把它变成某�
+这是给开发者用的 SDK（软件开发工具包），不是给普通人双击打开的 App——你得会写 TypeScript 或 Python、有自己的运行环境，它才帮得上忙。它的定位是"底层框架"：文档很全（含官方文档全文和二十多条常见坑），但真正把它变成某个产品，还得你自己写业务逻辑。具体 API 与能力以项目引用文档为准。

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>投了 Facebook 广告却看不懂数据？它帮你一眼分清好坏 —— facebook-ads-analyzer 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 电商与广告类</nav>
+  <header class="post-head"><h1>投了 Facebook 广告却看不懂数据？它帮你一眼分清好坏 —— facebook-ads-analyzer 介绍</h1></header>
+  <div class="content">
+<p>你花真金白银在 Facebook 上投广告，月底从后台导出一张几百行的 CSV 数据表，密密麻麻全是展示量、花费、点击这些数字。哪个广告真正带来订单、哪个广告纯粹在烧钱，光靠肉眼根本看不过来。facebook-ads-analyzer 就是干这个的：你把导出的数据文件丢给它，它帮你算出点击率、转化率这些关键指标，给每条广告打分评级，直接告诉你哪些该加预算、哪些该停掉。</p>
+<p><strong>facebook-ads-analyzer 就是来解决这件事的。</strong></p>
+<p>你给它一份 Facebook 广告后台导出的 CSV 文件，它还你一份带评分、带排名、带优化建议的分析报告。</p>
+<hr />
+<p><img alt="配图：丢CSV出评分排名" src="assets/facebook-ads-analyzer/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>自动读表算指标：读取 Facebook Ads Manager 导出的 CSV（能识别中文列名和特殊编码），算出点击率（CTR）、单次点击费用（CPC）、千次展示费用（CPM）、互动率、转化率等。</li>
+<li>给每条广告打分评级：用加权公式综合评分，分成"优秀 / 中等 / 差"三档（优秀大概占总量的前 20%）。</li>
+<li>排出 Top 10 和 Bottom 10：一眼看出表现最好和最差的广告分别是谁。</li>
+<li>给可执行的优化建议：优秀广告建议加预算，中等的建议做 A/B 测试，差的建议暂停或重做。</li>
+<li>出投放策略方案：给出保守、平衡、激进三套预算分配思路。</li>
+<li>支持按地区、时间段对比：比如单独看香港或台湾的数据表现。</li>
+</ul>
+<h2>一个具体例子</h2>
+<p>最简单的方式，就是把文件路径告诉 AI 助手：</p>
+<pre><code>请分析这个 Facebook 广告数据：your_file.csv
+</code></pre>
+<p>如果你在命令行里直接跑它的脚本，核心命令是：</p>
+<pre><code class="language-bash">cd facebook-ads-analyzer/scripts
+python analyzer.py ../data_input.csv ../output_results.csv
+</code></pre>
+<p>跑完会生成三个文件：results.csv（每条广告的详细得分）、report.md（完整分析报告）、strategy.md（策略建议）。表格里需要的列包括账户名称、广告系列/组/广告名称、日期、国家、展示次数、花费金额等，越全越好。</p>
+<p><img alt="配图：好广告加预算差广告暂停" src="assets/facebook-ads-analyzer/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>在 Facebook 上投广告、做独立站或品牌投放的电商卖家。</li>
+<li>帮客户管广告投放的代运营、投手、优化师。</li>
+<li>市场团队里需要定期复盘广告 ROI（投资回报）的人。</li>
+<li>想用数据而不是感觉来决定"钱该往哪投"的创业者。</li>
+</ul>
+<h2>一点说明</h2>
+<p>它不是独立的可视化软件，而是一个给 AI 助手用的"技能包"加一套 Python 脚本，需要电脑上有 Python 和 pandas、numpy 这两个库才能跑。它只认 Facebook Ads Manager 导出的、带中文列名的 CSV，别的格式要先整理成对应字段。具体评分权重和输出细节以项目里的 SKILL.md / REFERENCE.md 为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="apiz-use.html">&larr; 不懂代码也能让 AI 帮你做电商图、短视频和角色设计</a></span>
+    <span class="next"><a href="fastmoss-rpa.html">做 TikTok 电商想抄爆款、盯达人？它把榜单数据一键搬下来 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

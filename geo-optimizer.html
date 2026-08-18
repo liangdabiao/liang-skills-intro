@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按&quot;AI 口味&quot;改内容 —— geo-optimizer 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 工具与杂项类</nav>
+  <header class="post-head"><h1>想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按&quot;AI 口味&quot;改内容 —— geo-optimizer 介绍</h1></header>
+  <div class="content">
+<p>现在大家问问题，越来越习惯直接问 ChatGPT、Perplexity、豆包、Gemini 这些 AI 助手，而不只是百度谷歌了。一个问题问下去，AI 会综合网上的内容给答案——可如果你的品牌、你的产品，在 AI 的答案里根本没被提到，或者提到了却说错，那等于在一种新的"搜索入口"上彻底缺席。</p>
+<p><strong>geo-optimizer 就是来解决这件事的。</strong></p>
+<p>GEO 是"生成式引擎优化"（Generative Engine Optimization）的缩写，简单说就是：让 AI 搜索引擎更愿意、更准确地引用你的内容。你给它你的品牌信息和网页，它还你一套让 AI 更容易"看懂并推荐你"的优化方案和可部署的代码块。</p>
+<hr />
+<p><img alt="配图：品牌在AI答案里从缺席到被推荐" src="assets/geo-optimizer/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>生成结构化数据标记（JSON-LD）：给网页加一段机器能读的"身份证"，告诉 AI 你是谁、提供什么——比如公司信息、常见问题 FAQ、文章信息。</li>
+<li>检测内容"AI 友好度"：分析你的文字里营销套话多不多、句子长不长、有没有数据支撑、有没有直接问句，给个可读评分和改善建议。</li>
+<li>规划内容集群：帮你搭"一个核心主题页 + 多个子主题"的网站结构，让 AI 觉得你在这个领域讲得全、讲得透。</li>
+<li>测 AI 可见度：用 Perplexity 等接口，看你的品牌名会不会出现在 AI 对相关问题的回答里，并生成季度对比报告。</li>
+<li>做内容差距分析：你给它一个网址，它会去对比"AI 概览里提到的"和"你页面上说的"差在哪，给出补漏建议。</li>
+</ul>
+<p><img alt="配图：加结构化标记并测AI友好度" src="assets/geo-optimizer/02.png" /></p>
+<h2>一个具体例子</h2>
+<pre><code class="language-bash"># 给品牌生成&quot;公司信息&quot;的结构化标记
+python scripts/schema_generator.py --type organization --name &quot;品牌名&quot; \
+  --description &quot;一句话描述&quot; --knows-about &quot;领域1&quot; &quot;领域2&quot; --offers &quot;产品描述&quot;
+
+# 检测一段文案对 AI 是否友好
+python scripts/readability_checker.py --text &quot;要检测的文本内容&quot;
+</code></pre>
+<h2>谁适合用</h2>
+<ul>
+<li>做品牌内容、官网运营，想在新一代 AI 搜索里占位置的人。</li>
+<li>帮客户做 SEO / 内容优化的从业者。</li>
+<li>做 AI 工具、需要把"让 AI 引用"做成标准化流程的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是一套面向"做内容优化 / 搭 AI 工具"的技能，不是普通人点一下就完事的 APP——多数动作通过命令或 AI 助手对话触发。它提高的是"被 AI 引用的概率"，不保证某个平台一定会提你（文档里明确写了这点）。部分功能（比如可见度测试）需要你自家的 Perplexity 等 API Key 才能跑，没有的话它会给你手动测试的方法。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="tikhub-api-helper.html">&larr; 想抓抖音、小红书、TikTok 的数据？它帮你查接口、调接口</a></span>
+    <span class="next"><a href="geo-content-optimizer.html">给一个网址，它告诉你这页内容怎么改才容易被 AI 推荐 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

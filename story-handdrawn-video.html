@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想做会动的手绘蜡笔风短视频？它每段直接生成一段动画 —— story-handdrawn-video 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 视频与动画类</nav>
+  <header class="post-head"><h1>想做会动的手绘蜡笔风短视频？它每段直接生成一段动画 —— story-handdrawn-video 介绍</h1></header>
+  <div class="content">
+<p>上一个是把静帧一张张擦出来讲，但你想让画面本身就动起来：小猫真的在走、雨真的在下，整段是 Q 版手绘蜡笔风的视频。这种"文生视频"怎么搞？</p>
+<p><strong>story-handdrawn-video 就是来解决这件事的。</strong></p>
+<p>你给它一段故事文字，它还你一条 9:16 竖屏的短视频，每场都是一段会动的蜡笔风动画片段。</p>
+<hr />
+<p><img alt="配图：文字直接变成会动的蜡笔风动画" src="assets/story-handdrawn-video/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>每一句故事直接生成一段 Agnes Video（一个文生视频模型）动画，画面自己会动，没有擦除、没有翻页。</li>
+<li>锁定蜡笔手绘风：粗黑轮廓、平涂色块、Q 版比例、定格动画那种轻微顿挫感，风格统一。</li>
+<li>字幕由 Remotion（代码做视频的开源框架）用毛笔字体确定性渲染，绝不让视频模型画中文字（避免乱码）。</li>
+<li>先配音、再按旁白时长生成视频，音画对齐不裁不补。</li>
+<li>支持英语教学卡模式：画面是叙事场景，叠加关键词、音标、释义、例句的教学卡，适合课文/词汇教学。</li>
+</ul>
+<p><img alt="配图：锁定蜡笔风，毛笔字幕确定性渲染" src="assets/story-handdrawn-video/02.png" /></p>
+<h2>一个具体例子</h2>
+<p>写 <code>story.txt</code> 一句一拍，一条命令跑完配音和视频：</p>
+<pre><code class="language-bash">python scripts/gen_story_videos.py story.txt --title &quot;我的小猫&quot; --visual-plan visual_plan.json
+npm run render:preview
+</code></pre>
+<p>预览片（720×1280）即默认成片；要有高清版再 <code>npm run render</code>。英语教学加 <code>--style textbook --lang en --teaching-content 教学内容.json</code>。</p>
+<h2>谁适合用</h2>
+<ul>
+<li>做童话、生活日记、情感小品的博主，想要会动的蜡笔风。</li>
+<li>英语课文、词汇、听力教学视频的制作者。</li>
+<li>想要"画面真在动"而非静帧擦除效果的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是跑在 AI 助手里的技能，产出 Remotion 工程。免费额度下视频生成较慢（每段几十秒到两分钟、限流每分钟一次），要有耐心。跨场人物脸可以不一样（纯文生视频锁不住脸），这是正常的。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="story-handdrawn-remotion.html">&larr; 有段故事想变成手绘风视频？它让每句话被&quot;画&quot;三次</a></span>
+    <span class="next"><a href="talking-head-remotion.html">要做口播视频，又不想从零搭工程？它给你一套现成的模板 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

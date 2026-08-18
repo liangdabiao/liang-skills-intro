@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>一道解析几何题，怎么变成能动手拖的网页 —— edu-analytic-geometry 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 教育科普与数学类</nav>
+  <header class="post-head"><h1>一道解析几何题，怎么变成能动手拖的网页 —— edu-analytic-geometry 介绍</h1></header>
+  <div class="content">
+<p>做解析几何题的时候，你是不是经常遇到这种情况：参考答案写了一大串推导，可椭圆、双曲线、抛物线到底怎么动起来的，光看纸面上的数字根本想象不出来。尤其是那种"求取值范围""证明定值"的题，结论明明是活的，却被印成了死的。</p>
+<p><strong>edu-analytic-geometry 就是来解决这件事的。</strong></p>
+<p>你给它一道解析几何题（文字、图片、或者让它随机出一道都行），它还你一个能用浏览器直接打开的网页：左边是题面和一根能拖的滑块，中间是分步推导，右边是一块会跟着滑块实时变化的几何画板。拖一拖，题目里的"范围"和"定值"就活过来了。</p>
+<hr />
+<p><img alt="配图：把解析几何题变成能拖滑块看的网页" src="assets/edu-analytic-geometry/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>把椭圆、双曲线、抛物线、圆相关的题做成单页交互网页，三栏布局一目了然（题面 + 推导 + 画板）。</li>
+<li>用一根滑块驱动实时重算：拖一下，交点坐标、弦长、向量数量积、三角形面积这些几何量立刻更新，不用你手算。</li>
+<li>做"取值范围题"和"定值题"特别拿手——画板上会直接标出"理论范围条"或"定值指示"，很多教辅写错的端点开闭它也能算对。</li>
+<li>右侧画板用 Canvas（一种在网页里画图形的技术）画出圆锥曲线和动点、动直线、向量，还能用画笔随手圈画重点。</li>
+<li>背后用 sympy（一个做符号数学计算的程序库）精确算答案，保证网页上显示的数字、曲线和推导过程完全一致，不会自相矛盾。</li>
+<li>支持三种入口：直接给它文字题、拍张题图让它识别、或者让它随机抽一道圆锥曲线题给你练手。</li>
+</ul>
+<h2>一个具体例子</h2>
+<p>最省事的办法，就是直接跟帮你干活的 AI 说一句大白话：</p>
+<pre><code class="language-text">把这道解析几何题做成能拖滑块看范围的交互网页：
+已知椭圆 x²/4 + y²/3 = 1，过右焦点作直线交椭圆于 A、B 两点，
+求向量 MA·MB 的取值范围。
+</code></pre>
+<p>AI 会调用这个项目，先精确算出答案（比如闭区间 [-3, 7/4]，很多教辅会少算一个端点），再生成一个 <code>solution-椭圆数量积.html</code>。你用浏览器打开，拖动角度滑块，画板上的直线和交点实时移动，左下角的"范围条"会跟着标的端点一起亮出来。</p>
+<p><img alt="配图：取值范围题能看见被漏掉的端点" src="assets/edu-analytic-geometry/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>高中数学老师在备圆锥曲线专题时，做能当堂演示的课件。</li>
+<li>学生自己刷题想"看懂为什么"，而不是只背结论。</li>
+<li>家长想帮孩子把抽象的解析几何讲明白。</li>
+<li>写教辅、做数学科普内容的人，需要高质量的动态配图。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>这个项目是给"做 AI 工具 / 做课件的人"用的技能（skill），不是普通人直接打开的 App。平时你不用自己跑命令，只要把题交给会用它的 AI 助手，它就会帮你产出那个网页文件。它需要电脑里装了 sympy 才能算题（AI 会先检查，缺了会问你要不要装）。另外它专注"解析几何"（带坐标轴、有圆锥曲线），纯平面几何的三角形、四边形证明请看下一个项目 edu-plane-geometry。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="simple-review-analyzer.html">&larr; 一堆电商差评好评看不过来？让它秒变读懂用户的产品参谋</a></span>
+    <span class="next"><a href="edu-chem-reaction.html">化学反应到底怎么断键成键，让它变成能转着看的 3D 动画 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

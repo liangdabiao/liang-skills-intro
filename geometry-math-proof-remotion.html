@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>把数学证明做成动画视频，让公式自己&quot;长&quot;出来 —— geometry-math-proof-remotion 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 视频与动画类</nav>
+  <header class="post-head"><h1>把数学证明做成动画视频，让公式自己&quot;长&quot;出来 —— geometry-math-proof-remotion 介绍</h1></header>
+  <div class="content">
+<p>你想过把勾股定理、欧拉公式这类证明讲给别人听吗？光靠文字和静态图，听着听着人就走神了；真去学动画软件又门槛太高。很多人卡在"想做但做不出来"这一步。</p>
+<p><strong>geometry-math-proof-remotion 就是来解决这件事的。</strong></p>
+<p>你给它一份数学证明的文档，它还你一段深色背景、精准几何风格的推导视频，像 3Blue1Brown（国外那个有名的数理科普频道）那种感觉。</p>
+<hr />
+<p><img alt="配图：从证明文档到公式自己长出来的推导视频" src="assets/geometry-math-proof-remotion/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>把证明拆成 6~10 个章节，每章只讲一件事，逻辑一步步推进，不会跳步把推导链打断。</li>
+<li>几何图形全部用代码绘制（SVG，一种矢量图形语言），线条像被"描"出来一样慢慢显现，而不是生硬出现。</li>
+<li>公式在画面右侧逐行揭示，最后结论用黄框大字标出，观众跟着节奏走。</li>
+<li>自动生成配音（TTS，也就是文字转语音）和同步字幕，关键词用黄色高亮，像看教学视频一样。</li>
+<li>输出 1920×1080 横屏成片，深底配红蓝绿黄高饱和色，干净、专业、不花哨。</li>
+</ul>
+<p><img alt="配图：证明拆成章节，公式逐行揭示，黄框标结论" src="assets/geometry-math-proof-remotion/02.png" /></p>
+<h2>一个具体例子</h2>
+<p>先写配音台词，再让 AI 生成语音和字幕时间轴：</p>
+<pre><code class="language-bash">python scripts/generate_tts.py
+</code></pre>
+<p>脚本会自动选出可用方案（微软 edge 免费配音，或付费的 MiniMax 高质量配音），产出音频和字幕文件，后续再把每章时长回填到视频工程里。</p>
+<h2>谁适合用</h2>
+<ul>
+<li>老师、科普作者，想把抽象数学讲得直观。</li>
+<li>做教育内容的自媒体，缺一个稳定的证明动画模板。</li>
+<li>想沉淀"经典证明"系列视频的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是一个跑在 AI 编程助手（如 Claude Code、CodeBuddy）里的技能，不是你手机上能直接打开的 App。你给文档、它产出一套 Remotion（一个用代码做视频的开源框架）工程，再由助手渲染成片。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="stem-illustration.html">&larr; 一张科研/教学示意图，怎么让 AI 帮你画出来</a></span>
+    <span class="next"><a href="hyperframes-video-spec-builder.html">拍视频前脑袋一团乱？它帮你把想法聊成一份可执行脚本 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

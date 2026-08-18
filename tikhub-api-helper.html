@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想抓抖音、小红书、TikTok 的数据？它帮你查接口、调接口 —— tikhub-api-helper 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 工具与杂项类</nav>
+  <header class="post-head"><h1>想抓抖音、小红书、TikTok 的数据？它帮你查接口、调接口 —— tikhub-api-helper 介绍</h1></header>
+  <div class="content">
+<p>你做运营、做研究，或者就是好奇：某个博主有多少粉丝、某条视频下面大家在聊什么、最近某个话题在 TikTok 上火成啥样。你听说这些数据都有官方接口能拿，但面对几十个平台、几百个接口名，根本不知道从哪个下手、参数怎么填。</p>
+<p><strong>tikhub-api-helper 就是来解决这件事的。</strong></p>
+<p>它帮你使用 TikHub 这家数据服务商提供的接口，去取各大社交平台上的公开内容。你给它一句人话（比如"我想查某个 TikTok 用户资料"），它还你该调哪个接口、参数怎么写，甚至直接帮你把数据要回来。你给它一个想法，它还你一份整理好的数据。</p>
+<hr />
+<p><img alt="配图：一句人话翻成该调的接口" src="assets/tikhub-api-helper/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>按关键词找接口：比如搜"user profile""视频评论""trending"，它会列出匹配的接口和需要填的参数。</li>
+<li>按平台列清单：覆盖 TikTok、抖音、小红书、Instagram、YouTube、Twitter、Reddit、B站、微博、知乎等十几家，每家有哪些接口一目了然。</li>
+<li>直接调接口取数：拿到接口名和参数后，帮你发起请求，把返回结果整理好给你看。</li>
+<li>看接口详情：某个接口要传哪些必填参数，用 <code>detail:接口名</code> 就能查清楚，避免瞎填。</li>
+<li>支持国内/海外两种访问地址：在国内会自动走能直连的域名，少折腾。</li>
+</ul>
+<p><img alt="配图：十几家平台接口一览" src="assets/tikhub-api-helper/02.png" /></p>
+<h2>一个具体例子</h2>
+<pre><code class="language-bash"># 先搜一下&quot;查 TikTok 用户资料&quot;用哪个接口
+python api_searcher.py &quot;tiktok user profile&quot;
+
+# 查这个接口具体要哪些参数
+python api_searcher.py detail:tiktok_web_fetch_user_profile_get
+
+# 真正去取数据
+python api_client.py GET /api/v1/tiktok/web/fetch_user_profile &quot;sec_user_id=MS4wLjABAAAA...&quot;
+</code></pre>
+<h2>谁适合用</h2>
+<ul>
+<li>做社媒数据分析、竞品调研的运营或分析师。</li>
+<li>想批量采集公开内容做研究的开发者。</li>
+<li>搭 AI 工具、需要接社交媒体数据的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是个给"会跑命令行、懂一点接口调用"的开发者用的助手，本质是把海量的 TikHub 接口"翻译"成你能用的步骤，不是给完全不懂技术的人直接点的按钮。取数据需要一个 TikHub 账号的 API 令牌（开发时可用内置默认令牌试，正式用得去 tikhub.io 申请自己的），并且要遵守各家平台的速率限制。它只处理公开的接口数据，具体能取到多少以平台开放范围和你的账号额度为准。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="boardgame-io.html">&larr; 想自己做一款棋牌或桌游？它帮你把规则写成能跑的游戏</a></span>
+    <span class="next"><a href="geo-optimizer.html">想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按&quot;AI 口味&quot;改内容 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

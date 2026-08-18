@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想用 Sorftime 挖亚马逊数据，又不想一页页手抄？它一个入口抓 11 类 —— sorftime-rpa 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 电商与广告类</nav>
+  <header class="post-head"><h1>想用 Sorftime 挖亚马逊数据，又不想一页页手抄？它一个入口抓 11 类 —— sorftime-rpa 介绍</h1></header>
+  <div class="content">
+<p>你用 Sorftime（sorftime.com）做亚马逊卖家分析，它家榜单很多：畅销榜、产品选品、关键词、品牌、卖家，还有各种"反查"工具。手动在网页上点、复制、粘贴，光一个类目就能耗掉一下午。sorftime-rpa 把原来 11 个分散的技能合并成了一个入口，一条命令抓数据，一条命令出报告，覆盖选品和"查竞品/品牌/市场/关键词"两大块。</p>
+<p><strong>sorftime-rpa 就是来解决这件事的。</strong></p>
+<p>你给它一个板块名加站点（比如"美国站、查品牌 Anker"），它还你一份 CSV 数据表，以及一份分析报告。</p>
+<hr />
+<p><img alt="配图：十一个入口合成一个" src="assets/sorftime-rpa/01.png" /></p>
+<h2>它到底能做什么</h2>
+<p>选品模块（看榜单、找方向）：</p>
+<ul>
+<li>畅销榜（bestseller）：每个类目 TOP100 商品。</li>
+<li>产品选品（product）：各站热销 ASIN。</li>
+<li>关键词（keyword）：各站热门搜索词及趋势。</li>
+<li>选品牌（brand）/ 选卖家（seller）：各站品牌榜、卖家榜。</li>
+<li>选市场（market）：细分市场的规模、新品占比、均价等。</li>
+</ul>
+<p>查模块（按条件反查）：</p>
+<ul>
+<li>查 ASIN（checkproduct）：批量查商品详情，如价格、销量、评价、排名。</li>
+<li>查品牌（checkbrand）/ 查卖家（checkseller）/ 查市场（checkmarket）：按关键词跨站反查。</li>
+<li>查关键词（checkkeyword，实验性）：看流量来源、搜索趋势等。</li>
+</ul>
+<p>它还支持 14 个亚马逊站点（美国、日本、英国、德国等），并能把 CSV 自动生成中文 Markdown 报告。</p>
+<h2>一个具体例子</h2>
+<p>在技能 scripts 目录下运行，统一用 <code>--section</code> 选板块：</p>
+<pre><code class="language-bash"># 抓品牌榜（美国 + 日本）
+python sorftime_rpa.py scrape --section brand --station US,JP --out data/brands.csv
+
+# 查一个品牌在各站的情况
+python sorftime_rpa.py scrape --section checkbrand --station US --mode brand --queries Anker --out data/anker.csv
+
+# 批量查几个 ASIN
+python sorftime_rpa.py scrape --section checkproduct --station US --queries B0CHX1W1XY,B0BDHZ8Q63 --out data/asins.csv
+
+# 把 CSV 变成报告
+python sorftime_rpa.py analyze --section brand --input data/brands.csv --out-md reports/brand.md
+</code></pre>
+<p><code>--station</code> 可跟多个站点，<code>--queries</code> 是你要查的词或编号。</p>
+<p><img alt="配图：选板块跨十四站出数据" src="assets/sorftime-rpa/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>用 Sorftime 做亚马逊选品、竞品监控的卖家和运营。</li>
+<li>需要跨 14 个站点批量拉品牌、卖家、市场数据的研究人员。</li>
+<li>想把这些手工活变成可复用脚本、定期跑的人。</li>
+</ul>
+<h2>一点说明</h2>
+<p>它不是双击即用的软件，而是给 AI 助手用的"技能包"加 Python 脚本，靠 BrowserSkill 驱动你已登录 Sorftime 的真实浏览器去读数据（Sorftime 接口全程加密，所以只能"看"页面解密后的内容，不用配密钥）。因此要先装好 BrowserSkill、登录 Sorftime，并确认 <code>bsk status</code> 已连接。免费会员部分数据会被遮蔽，属于平台限制。查关键词模块标注为实验性，可能不稳定。具体板块和字段以项目 SKILL.md / references 为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="sellersprite-rpa.html">&larr; 想挖亚马逊选品数据、查竞品，又嫌手动点太累？它一条命令全搞定</a></span>
+    <span class="next"><a href="exa-company-research.html">想摸清一家公司底细？让它去全网帮你挖 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

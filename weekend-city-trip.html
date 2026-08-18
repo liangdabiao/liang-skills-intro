@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>下周末去哪个城市玩？它把一周末的活动、演出、美食、地铁全查齐 —— weekend-city-trip 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 工具与杂项类</nav>
+  <header class="post-head"><h1>下周末去哪个城市玩？它把一周末的活动、演出、美食、地铁全查齐 —— weekend-city-trip 介绍</h1></header>
+  <div class="content">
+<p>周五晚上你突然想：下周末去趟成都/广州/杭州吧，但又懒得一个个去刷小红书、查演唱会排期、找美食街、研究地铁怎么坐。真要自己调研，光是"这周末有啥活动"就能花掉一个晚上。</p>
+<p><strong>weekend-city-trip 就是来解决这件事的。</strong></p>
+<p>它专做"中国城市的短期（本周末 / 下周末 / 未来一个月）旅游调研"，一次性把 11 类信息查齐：小红书近期活动、演唱会、集市、球赛、博物馆、优惠门票、喜茶门店、美食街、city walk 路线、5A 景区、地铁路线，最后整理成一份结构清晰的文字攻略，想看地图还能给你标出来。你给它"城市 + 时间"，它还你一份能直接照着玩的周末攻略。</p>
+<hr />
+<p><img alt="配图：周末出游11类信息一次查全" src="assets/weekend-city-trip/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>锁定时间窗口：自动算出"本周末 / 下周末 / 未来一个月"对应的具体日期，专门找近期、未来的活动，避免翻到过时的旧闻。</li>
+<li>11 个方向一网打尽：从演出赛事到优惠门票、从网红打卡到地铁出口，按统一模板一次查全。</li>
+<li>质量把关：查完会做完整性、准确性、可执行性检查——演出缺时间场馆、信息跨城市串台、价格太旧，都会补查或标注"出行前请二次确认"。</li>
+<li>可选地图版：如果你要，它能把报告里的真实地点抽出来，用高德地图标成一张可交互的网页地图（按 11 类分色标记）。</li>
+<li>可选网页版：纯文字 Markdown 也能转成排版好看、能直接打印成 PDF 的 HTML。</li>
+</ul>
+<p><img alt="配图：把地点标成可交互城市地图" src="assets/weekend-city-trip/02.png" /></p>
+<h2>一个具体例子</h2>
+<p>它通常以"技能"形式被触发，你只需说：</p>
+<pre><code>调研广州下周末有什么好玩
+</code></pre>
+<p>它会按自己的流程跑完搜索、整合、质检，产出 <code>广州下周末调查报告_Anysearch版.md</code>。背后的搜索长这样：</p>
+<pre><code class="language-bash">python scripts/anysearch_cli.py batch_search --queries '[
+  {&quot;query&quot;:&quot;广州 周末活动 展览 演出 市集 演唱会 2026年7月&quot;,&quot;max_results&quot;:10},
+  {&quot;query&quot;:&quot;广州 美食街 推荐 夜市 区域 2026&quot;,&quot;max_results&quot;:10}
+]'
+</code></pre>
+<h2>谁适合用</h2>
+<ul>
+<li>想周末短途出游、懒得自己做功课的普通用户（通过带这个技能的 AI 助手使用）。</li>
+<li>做旅游内容、需要快速产出城市攻略的人。</li>
+<li>做 AI 工具、要把"城市周末调研"做成标准化流程的人。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是一个"AI 技能"，不是独立 APP——你是在 AI 助手对话框里发一句话，它替你跑搜索、抽地点、写报告。它依赖 Anysearch 搜索接口和高德地图 Key（需你自己申请配置，文档不内置任何密钥）；只覆盖中国城市、且是短期出游，海外城市或长期旅居不在范围内。报告里部分票价、地铁出口等信息可能偏旧，它会在文末提示你"出行前二次确认"。具体能力以项目文档为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="staticshield.html">&larr; 想给网页加个密码锁、只有知道密码的人能看？它把 HTML 加密成自解密页面</a></span>
+    <span class="next"><a href="pindou-pattern.html">把任意图片变成&quot;照着拼&quot;的拼豆图纸 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>用 TypeScript 规规矩矩搭一个 AI 智能体，这套框架把套路都定好了 —— flue-framework 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部项目</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head"><h1>用 TypeScript 规规矩矩搭一个 AI 智能体，这套框架把套路都定好了 —— flue-framework 介绍</h1></header>
+  <div class="content">
+<p>想用代码写一个 AI 智能体（Agent，会自己调用工具、管理对话的 AI 助手），市面上的框架五花八门，光是"怎么定义 agent、怎么接模型、怎么让它对外提供网页接口、怎么上线部署"就有一堆约定要记，稍不留神就报错。</p>
+<p><strong>flue-framework 就是来解决这件事的。</strong></p>
+<p>你给它按它的约定写几段 TypeScript 代码，它还你一个能跑、能联网提供接口、能部署上线的 AI 智能体。它是一套"harness-driven"（意思是框架负责把模型、会话、工具、技能、运行环境这些零件组装好）的 TypeScript 智能体框架。</p>
+<p><img alt="配图：按约定写 TS，把零件拼装成能部署的 agent" src="assets/flue-framework/01.png" /></p>
+<hr />
+<h2>它到底能做什么</h2>
+<ul>
+<li>用 <code>createAgent()</code> 一行定义智能体：指定用哪家模型（Anthropic、OpenAI、DeepSeek、OpenRouter 等都内置支持）、给它什么指令。</li>
+<li>用 <code>defineTool()</code> 加自定义工具（让 AI 能发起 HTTP 请求、跑 Node.js 代码等），参数用 TypeBox 描述，执行逻辑直接写 Node.js。</li>
+<li>支持两种形态：一种是常驻的交互式 agent（对外提供网页聊天、WebSocket、SSE 实时推送）；一种是用 <code>flue run</code> 跑一次的"工作流"任务。</li>
+<li>支持子智能体（subagent，用 <code>defineAgentProfile()</code> 定义专门干某件事的 AI，由主 agent 委派）。</li>
+<li>自带沙箱（sandbox，隔离的运行环境）、会话管理、<code>session.prompt()</code> 还能强制返回结构化数据。</li>
+<li>提供完整 CLI（命令行）：<code>flue init</code> 初始化、<code>flue dev</code> 开发热更新、<code>flue build</code> 打包、<code>flue run</code> 跑 agent、<code>flue connect</code> 进交互会话，以及生产部署说明。</li>
+</ul>
+<h2>一个具体例子</h2>
+<p>先装依赖并初始化项目：</p>
+<pre><code class="language-bash">npm install @flue/runtime valibot@^1.0.0
+npm install --save-dev @flue/cli typescript
+npx flue init --target node
+</code></pre>
+<p>写一个最简单的 agent（<code>src/agents/hello-world.ts</code>）：</p>
+<pre><code class="language-typescript">import { createAgent } from '@flue/runtime';
+
+export default createAgent(() =&gt; ({
+  model: 'anthropic/claude-sonnet-4-6',
+  instructions: 'Tell a funny hello world engineering joke.',
+}));
+</code></pre>
+<p>然后运行：</p>
+<pre><code class="language-bash">npx flue connect hello-world --target node --env .env
+</code></pre>
+<p><img alt="配图：createAgent 一行定义，defineTool 接工具，两种形态" src="assets/flue-framework/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>熟悉 TypeScript、想快速搭 AI 智能体或 AI 产品的开发者。</li>
+<li>需要把智能体以网页 / API 形式对外提供、并上线部署的团队。</li>
+<li>想在 DeepSeek 等兼容模型上跑 agent、又想要清晰工程结构的工程师。</li>
+</ul>
+<h2>一点说明 / 小提示</h2>
+<p>它是给会写 TypeScript 的开发者用的框架，不是给普通人直接打开的 App——你得自己装 Node.js（要求 22.18.0 以上）、写代码、配 API Key。它有两个容易踩的坑：交互式 agent 和工作流 agent 的写法不同，选错会报错；<code>init()</code> 必须接收 <code>createAgent()</code> 的结果，不能直接传配置对象。具体版本与能力以项目文档（已测 v0.9.1）为准，新版本细节可能变动。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="claude-agent-sdk.html">&larr; 想自己做个会&quot;动手干活&quot;的 AI 应用？这个工具包把底层都铺好了</a></span>
+    <span class="next"><a href="game-gameability.html">你的&quot;游戏创意&quot;真的该做成游戏吗？这个守门员先帮你挡一道 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

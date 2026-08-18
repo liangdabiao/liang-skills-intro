@@ -56,4 +56,4 @@ npx flue connect hello-world --target node --env .env
 
 ## 一点说明 / 小提示
 
-它是给会写 TypeScript 的开发者用的框架，不是给普通人直接打开的 App——你得自己装 Node.js（要求 22.18.0 以上）、写代码、配 API Key。它有两个容易踩的坑：交互式 agent 和工作流 agent 的写�
+它是给会写 TypeScript 的开发者用的框架，不是给普通人直接打开的 App——你得自己装 Node.js（要求 22.18.0 以上）、写代码、配 API Key。它有两个容易踩的坑：交互式 agent 和工作流 agent 的写法不同，选错会报错；`init()` 必须接收 `createAgent()` 的结果，不能直接传配置对象。具体版本与能力以项目文档（已测 v0.9.1）为准，新版本细节可能变动。
