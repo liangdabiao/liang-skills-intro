@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>一段视频里的事，想问 AI"第几秒发生的"？它让 AI 把视频看完再回答你—— deepseek-v4-flash-vision-video-rag 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head"><h1>一段视频里的事，想问 AI"第几秒发生的"？它让 AI 把视频看完再回答你—— deepseek-v4-flash-vision-video-rag 介绍</h1></header>
+  <div class="content">
+<p>你有没有过这种时刻：几个小时的游戏录像想找那次关键团战在第几分几秒；监控视频想确认某个人是什么时候出现的；一部教程视频想定位某个操作步骤；或者就想问"视频里总共出现了几次红色物品"。拖进度条一帧帧找，找到眼花；普通 AI 工具要么只看个封面，要么让你自己截好图再问。你真正想要的是：把视频丢给 AI，它自己看完，然后像看过全片的人那样回答你——还告诉你发生在第几秒。</p>
+<p><strong>deepseek-v4-flash-vision-video-rag 就是来解决这件事的。</strong></p>
+<p>它用 DeepSeek 的视觉大模型，把视频按时间轴抽成一帧帧画面去"看"：先宏观扫一遍建索引（一次性，之后缓存复用），你提问时再对相关片段深读。回答会带着 <code>[MM:SS]</code> 时间戳引用，并且自动把引用时刻剪成<strong>可以播放的片段</strong>和关键帧给你——它说 04:12 发生了什么，你点开 04:12 的片段就能亲眼验证。</p>
+<hr />
+<p><img alt="配图：AI按时间轴把视频看一遍" src="assets/deepseek-v4-flash-vision-video-rag/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>一次性看完，反复提问：建索引阶段自动按视频时长决定抽帧密度（短视频每秒 1 帧，长视频自动降密度），30 秒的视频约 30 秒建完索引，之后每次提问只需 2–3 次模型调用。</li>
+<li>回答带时间戳引用：每个答案后面跟着 <code>[MM:SS]</code>，直接定位到秒。</li>
+<li>自动剪出可播放片段：引用的时刻会被剪成 mp4 片段，还有该时刻的关键帧图片；全部打包进一个双击即开的网页预览，不用联网。</li>
+<li>剧情理解与事件时间线：能梳理"先后发生了什么"，也能数次数、找规律。</li>
+<li>OCR 字幕 / HUD 识别：画面里的字幕、游戏界面数字也看得见。</li>
+<li>动作细节放大：问到"瞄准 / 击杀 / 瞬间"这类动作时，自动对运动最强的时刻做 12fps 逐帧放大分析。</li>
+<li>想直接看某一秒也行：指定时刻，它给你那一帧的高清图，或指定区间，它剪一段给你。</li>
+</ul>
+<h2>怎么用</h2>
+<p>你需要在 AI 助手（如 codex / workbuddy 等 agent）里装好这个技能，配好 DeepSeek 的 API Key，电脑上有 ffmpeg。之后全程说人话：
+<strong>场景 1：找游戏高光</strong>
+你：这局录像，我五杀是在什么时候？
+AI：它看完索引后回答"五杀发生在 <code>[04:12]</code>"，并附上 04:05–04:15 的可播放片段，你点开就能回看。
+<strong>场景 2：查监控</strong>
+你：这段监控里，穿红衣服的人第一次出现在第几秒？
+AI：它给出带时间戳的答案和对应关键帧截图，人影清清楚楚。
+<strong>场景 3：看教程</strong>
+你：这个教程里，调色的那一步在第几分钟？
+AI：直接给时间戳和片段，不用你从头拖进度条。</p>
+<p><img alt="配图：自动剪出可播放片段" src="assets/deepseek-v4-flash-vision-video-rag/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>游戏玩家 / 主播：从长录像里快速定位高光、失误、素材点。</li>
+<li>有监控回看需求的人：小店老板、家长、物业管理。</li>
+<li>内容创作者：从素材里按"第几秒发生了什么"检索画面，剪片更快。</li>
+<li>需要让 AI 回答"可验证"的人：每个结论都有片段回放作证，不接受模型瞎猜。</li>
+</ul>
+<h2>一点说明</h2>
+<p>它是一套 AI 技能（skill），不是双击打开的 App。你需要把它装进支持技能的 AI 助手里使用，并自备 DeepSeek API Key（按调用量付费）。它的理解完全基于画面，<strong>没有音频分析能力</strong>——视频里说了什么话它听不见，但画面里的字幕文字它看得见。时间戳定位有约 ±2 秒误差，精确时机以片段回放为准。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="deepseek-v4-flash-vision-rag.html">&larr; 有一份几百页的 PDF，想随口提问？它让 AI 一页页&quot;看&quot;完再回答你</a></span>
+    <span class="next"><a href="glm-5.3-flash-vision-rag.html">让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？ &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

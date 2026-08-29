@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想讲清楚一个数学概念，能不能让 AI 直接拍部短片？—— math-concept-film 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 教育科普与数学类</nav>
+  <header class="post-head"><h1>想讲清楚一个数学概念，能不能让 AI 直接拍部短片？—— math-concept-film 介绍</h1></header>
+  <div class="content">
+<p>你想给学生讲明白傅里叶级数，光靠嘴说加黑板画图，学生还是一脸茫然。想自己做条动画视频吧，Manim 环境配半天、台词写到头秃、配音还对不上画面，一周过去了片子连影子都没有。你真正想要的其实只是：说出一个概念的名字，拿到一部能直接放给学生看的短片。</p>
+<p><strong>math-concept-film 就是来解决这件事的。</strong></p>
+<p>你给它一个数学概念（比如"傅里叶级数""泰勒公式""特征值"），它还你一部 2~4 分钟、纸墨手账质感、带中文旁白和字幕的 <code>final.mp4</code>。</p>
+<hr />
+<p><img alt="配图：说一个概念，还你一部带旁白的短片" src="assets/math-concept-film/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>一句话出片：报出概念名，AI 自动走完"写台词 → 配音 → 量出每句时长 → 按真实时长设计画面 → 渲染合成"整条流水线。</li>
+<li>纸墨手账画风：宣纸暖底、墨色笔触，像一本会动的数学手账，不是冷冰冰的炫酷科技风。</li>
+<li>中文旁白：微软云扬声线（可换晓晓、云希），语速 +15%，不催眠。</li>
+<li>公式白话化：每个符号出现前，先用大白话把主意喊出来，不甩公式砸人。</li>
+<li>镜头会讲课：讲局部就推近，讲完拉回全景，逐项巡讲公式——底层基于 Manim。</li>
+<li>数学保真：画面上每个数字都经过验算，每个"所以"都有前因，不做样子货。</li>
+<li>内置成片实例：《方波的和声》（傅里叶级数，89 秒）、泰勒公式预告片等，先看效果再决定。</li>
+</ul>
+<h2>怎么用</h2>
+<p>你不需要记任何命令。在 codex / workbuddy 等 agent 装好 skill 后，直接对 AI 说话就行：
+<strong>场景 1：一句话做条傅里叶级数短片</strong>
+你：帮我用视频讲清楚傅里叶级数。
+AI：它写台词、配中文旁白、量出每句真实时长，再按这个时长设计 Manim 画面并渲染，把 final.mp4 交给你。
+<strong>场景 2：换个概念再来一条</strong>
+你：把泰勒公式做成动画。
+AI：同一套流水线再走一遍，几分钟后给你另一部短片。
+<strong>场景 3：不满意就让它返工</strong>
+你：第 20 秒那里节奏太快了，跟不上。
+AI：它按你的反馈改台词和分镜，重新渲染那一版，直到你说过。</p>
+<p><img alt="配图：台词配音动画自动串成一部片" src="assets/math-concept-film/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>数学、物理老师，想给学生做概念讲解短片，又没时间学动画工具。</li>
+<li>做知识类视频的博主，需要稳定的数学动画产能。</li>
+<li>自学时想真正"看懂"某个抽象概念在干嘛的人。</li>
+</ul>
+<h2>一点说明</h2>
+<p>math-concept-film 是一套 AI 技能，装进 codex / workbuddy 等 agent 后对话使用。配音环节需要联网（微软在线 TTS，免费），渲染不需要联网。默认 16:9 横屏版式，竖屏需自己调构图；渲染时用 <code>-qh</code> 可出 1080p。项目有参考学习 Math-To-Manim。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="stem-illustration.html">&larr; 一张科研/教学示意图，怎么让 AI 帮你画出来</a></span>
+    <span class="next"><a href="geometry-math-proof-remotion.html">把数学证明做成动画视频，让公式自己&quot;长&quot;出来 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

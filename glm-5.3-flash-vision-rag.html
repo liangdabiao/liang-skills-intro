@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？—— glm-5.3-flash-vision-rag 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head"><h1>让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？—— glm-5.3-flash-vision-rag 介绍</h1></header>
+  <div class="content">
+<p>你手上有一份 120 页的技术手册或扫描版合同，想问它一个具体问题。整本塞给 AI？token 爆炸、慢得要命；用传统文字 RAG？碰到图表、表格、公式、扫描件就瞎了，页码还经常报错。你真正想要的是：问一句话，拿到答案，顺便看到那几页的原图自己核对。</p>
+<p><strong>glm-5.3-flash-vision-rag 就是来解决这件事的。</strong></p>
+<p>你给它一份 PDF 和一个问题，它还你带 <code>[第N页]</code> 标注的答案，外加引用页的原图和一份自包含 HTML 预览页。基于智谱视觉大模型 GLM-5.3-Flash。</p>
+<hr />
+<p><img alt="配图：读一遍做笔记，之后按笔记翻书" src="assets/glm-5.3-flash-vision-rag/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>视觉建索引：每页渲染成图，让视觉模型逐页"阅读"并写一张读书卡片（页型、标题、摘要、关键词），一次建完永久复用，重跑直接命中缓存。</li>
+<li>带页码的答案：每个论点标注 <code>[第6页]</code>，页码来自物理事实——图就是第 6 页渲染出来的，不需要模型猜。</li>
+<li>原图回显：把引用页的高清原图一并给你，自己核对，不用盲信。</li>
+<li>跨页召回：问"这个概念在哪几页被提到"，能找齐全书所有相关页。</li>
+<li>章节定位：问"§05 在第几页、讲了什么"，给出起止页码加内容总结。</li>
+<li>深度对比：问"对比一下 XX 和 YY"，基于相关页做对比分析。</li>
+<li>指定页渲染：<code>show.py</code> 直接高清出第 N 页的图，不用先建索引。</li>
+<li>扫描版也能用：索引靠视觉阅读，纯图片无文字层的 PDF 照样处理。</li>
+<li>诚实不编造：只索引前 8 页时追问全书问题，它会明确回答"§03 正文不在提供页面中"。</li>
+</ul>
+<h2>怎么用</h2>
+<p>你不需要懂 RAG。在 codex / workbuddy 等 agent 装好 skill、配好 GLM key 后，直接对 AI 说话就行：
+<strong>场景 1：先让 AI 把书读一遍</strong>
+你：帮我读一下这份 120 页的手册。
+AI：它逐页视觉阅读建立索引（约 3 分钟，只需一次），之后这本书就"被读过了"，这一步永远不用再做。
+<strong>场景 2：问具体问题</strong>
+你：审批策略出厂默认是什么？
+AI：它本地粗筛出 12 页候选，视觉模型看图确认到 4 页，再深读作答——给出带 <code>[第6页]</code> 标注的答案，并把第 6 页原图和 HTML 预览页一起给你。
+<strong>场景 3：只要某一页</strong>
+你：给我看看第 72 页。
+AI：它直接高清渲染那一页的图片，无需先建索引。</p>
+<p><img alt="配图：答案带页码，原图直接摊开给你核对" src="assets/glm-5.3-flash-vision-rag/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>要啃长篇技术文档、论文、教材，又需要精确出处的人。</li>
+<li>处理扫描版合同、发票、档案等没有文字层材料的法务和财务。</li>
+<li>做文献综述、需要跨页比对观点的研究者。</li>
+</ul>
+<h2>一点说明</h2>
+<p>glm-5.3-flash-vision-rag 是一套 AI 技能，装进 codex / workbuddy 等 agent 后对话使用，需要自备 GLM API key（写在 <code>~/.glm_api_key</code> 或环境变量）。索引按 PDF 内容哈希缓存，内容改了自动另建。它用的是三层漏斗——本地 TF-IDF 粗筛（免费）→ 视觉精排 → 深读作答，所以每次提问只花 2 次调用、十几秒出答案。局限是单次深读上下文约 12 页，涉及全书统计类问题精度会下降。姊妹版 <code>deepseek-v4-flash-vision-rag</code> 用 DeepSeek 引擎，架构同构，可两边对照。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="deepseek-v4-flash-vision-video-rag.html">&larr; 一段视频里的事，想问 AI&quot;第几秒发生的&quot;？它让 AI 把视频看完再回答你</a></span>
+    <span class="next"><a href="glm-5.3-flash-vision-video-rag.html">想问视频"这段动作到底怎么发生的"？让 AI 按秒给你答案 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

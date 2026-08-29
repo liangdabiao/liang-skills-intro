@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>同款带货爆款，换个引擎拆会更准吗？—— glm-ecom-video-seedance-prompt 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 电商与广告类</nav>
+  <header class="post-head"><h1>同款带货爆款，换个引擎拆会更准吗？—— glm-ecom-video-seedance-prompt 介绍</h1></header>
+  <div class="content">
+<p>你刷到一条带货视频卖爆了，想让 AI 照着再来一条。可"拍一个好看的视频"这种提示词只能换回一坨废片，真正能出片的是"主体+动作时序+场景光影+镜头语言+色调情绪"全写齐的分镜级提示词——而把一条视频拆成这个粒度，靠人肉逐帧看要盯半天。</p>
+<p><strong>glm-ecom-video-seedance-prompt 就是来解决这件事的。</strong></p>
+<p>你给它一条带货视频，它还你一套可以直接粘贴进即梦（Seedance）的完整提示词包，每条镜头提示词旁边就摆着原片关键帧，逐镜对照。基于智谱 GLM-5.3-Flash 视觉大模型。</p>
+<hr />
+<p><img alt="配图：一条爆款视频，翻成一套能直接用的提示词" src="assets/glm-ecom-video-seedance-prompt/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li>整段直传拆解：≤40MB 且 ≤120s 的视频默认整段丢给 GLM 原生视频理解，单次调用出全部分镜表，成本约为抽帧方式的 1/5，动作时序还带真实子时间戳；更长更大的视频自动回落到抽帧管线。</li>
+<li>镜头级拆解卡：景别、视角、景深、运镜、光影、色彩、主体（人+产品）、动作时序、物理交互、字幕、卖点，一项项拆清楚。</li>
+<li>全局带货分析：产品品类、人物设定、带货框架、自然流还是付费流、钩子在哪、卖点是什么、节奏怎么排。</li>
+<li>提示词包一次给全：每镜头 ≤200 字（带时间锚点）+ 完整版 ≤800 字（直接粘贴）+ 中英双语负面词 + @参考图清单 + 差异说明与升级建议。</li>
+<li>三种风格开关：忠实复刻、自然流种草、千川付费流，同一份分镜表可反复换风格重出。</li>
+<li>产品信息注入：<code>--product</code> 告诉它你卖的到底是什么，卖点和负面词随之定制。</li>
+<li>单镜头重出：<code>--shot B</code> 只重出不满意的镜头，其他不动。</li>
+<li>逐镜对照 HTML：提示词和原片关键帧并排，肉眼核对拆解得准不准。</li>
+</ul>
+<h2>怎么用</h2>
+<p>你不需要记复杂流程。在 codex / workbuddy 等 agent 装好 skill、配好 GLM key 后，直接对 AI 说话就行：
+<strong>场景 1：拆解一条爆款视频</strong>
+你：帮我拆解这条带货视频。
+AI：它把视频拆成若干镜头，逐个做 S-A-C-S-C 拆解卡，再给出全局分析（品类、框架、流量类型、钩子、卖点），存成可反复用的分镜表。
+<strong>场景 2：照着复刻一版</strong>
+你：按忠实复刻给我提示词。
+AI：它结合分镜表生成每镜头提示词、完整版、负面词和参考图清单，并附一份与原片的差异说明。
+<strong>场景 3：按我的产品改一版投放用的</strong>
+你：改成千川付费流，我卖的是 XX 品牌精华液，主打烟酰胺美白，蓝色玻璃瓶身。
+AI：它按付费流规则改写——强化钩子、极致特写、硬光侧逆光、加快节奏，并把你的产品信息注入卖点和负面词。</p>
+<p><img alt="配图：三种风格一键切换，逐镜对照原片画面" src="assets/glm-ecom-video-seedance-prompt/02.png" /></p>
+<h2>谁适合用</h2>
+<ul>
+<li>做电商带货、想批量复刻爆款结构的商家和投手。</li>
+<li>帮客户做短视频的信息流代理商、编导。</li>
+<li>已经在用 DeepSeek 版、想换个引擎互相校验效果的人。</li>
+</ul>
+<h2>一点说明</h2>
+<p>glm-ecom-video-seedance-prompt 是一套 AI 技能，装进 codex / workbuddy 等 agent 后对话使用，需要自备 GLM API key。它产出的是提示词，成片要到即梦里生成。编导方法论知识库与 DeepSeek 版完全共用（S-A-C-S-C 五要素、字数法则、自然流 vs 付费流五维差异、负面词模板）。无音频模态，口播靠画面和字幕推断，准确口播建议自己补（15 秒配约 120 字）。有意思的是双引擎会对同一条片给出不同判断（实测一条广告 DeepSeek 判"自然流"、GLM 判"付费流"），拿不准时两边都跑一下互相校验反而更稳。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="ecom-video-seedance-prompt.html">&larr; 刷到一条带货爆款视频，想让 AI 照着再来一条？</a></span>
+    <span class="next"><a href="exa-company-research.html">想摸清一家公司底细？让它去全网帮你挖 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>
