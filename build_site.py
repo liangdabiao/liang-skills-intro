@@ -24,6 +24,11 @@ ROOT = Path(__file__).parent.resolve()
 
 # 新增 skill 在这里登记：slug -> 分类名。已存在的 slug 会被跳过（不重复插入）。
 NEW_SKILLS = {
+    "brightdata-research": "市场与选题调研类",
+    "claude-data-analysis": "研究与智能体框架类",
+    "ecom-details-image": "电商与广告类",
+    "seedance2-storyboard": "视频与动画类",
+    "whiteboard-explainer": "视频与动画类",
     "math-concept-film": "教育科普与数学类",
     "ecom-video-seedance-prompt": "电商与广告类",
     "glm-5.3-flash-vision-rag": "研究与智能体框架类",

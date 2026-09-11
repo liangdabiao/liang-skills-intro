@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="TeS7jXjygmnEchIE2uqVRZ">
+<head data-page-node-id="qzh6jr3Q1iQUhWEzkO3Fpg">
+<meta charset="utf-8" data-page-node-id="LIQ9TDi0JqZOmZKTs8Jr2C">
+<meta name="viewport" content="width=device-width, initial-scale=1" data-page-node-id="m8ekQTW0AAyz6OOzrT3UzC">
+<title>拿到一堆订单数据不知道从哪下手？—— claude-data-analysis 介绍</title>
+<link rel="stylesheet" href="style.css" data-page-node-id="7Zf85KWnkqdkUxq8Qz915c">
+</head>
+<body data-page-node-id="XssjN1WFBKzgZqCHSDXSir">
+<article class="post" data-page-node-id="Hfcp00wFG8jzTDBuWkoZPI">
+  <nav class="crumbs" data-page-node-id="HkgmOE5CI8TX3moIXPoJWq"><a href="index.html" data-page-node-id="FGaSJmizgFdWeoNRIbsblV">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head" data-page-node-id="yu3OAsD6S8msnIAvdAPuY4"><h1 data-page-node-id="t8Zws4cZ2jEBolFN3auzqf">拿到一堆订单数据不知道从哪下手？—— claude-data-analysis 介绍</h1></header>
+  <div class="content" data-page-node-id="pYebmwyvL14aWv1O9j2DT6">
+<p data-page-node-id="SeTzm4zvAflvr7M0tMpQcG">老板丢来一坨 CSV：三个月订单、用户信息、评论打分，让你"分析一下"。Excel 拉半天透视表，写了一堆 VLOOKUP，最后憋出三张图，老板问"所以结论呢"？claude-data-analysis 就是解决这个的：它是互联网数据分析技能集，7 大专业模块加一套通用六阶段流程，把数据从"质量检查"一路带到"结论报告"。</p>
+<p data-page-node-id="kjWERzLJPANb2xCfdyYSFk"><img alt="配图：数据分析七模块流水线" src="assets/claude-data-analysis/01.png" data-page-node-id="cgw30NnCW9kpXWAHQYtg8Z" /></p>
+<h2 data-page-node-id="oQjclEoDackWuZOxfft7fW">它到底能做什么</h2>
+<ul data-page-node-id="IDZi5peEZ03fwTjaQNlGUq">
+<li data-page-node-id="c0h3fJaAD8OTR9uMxBVhBf"><strong data-page-node-id="rEYdBOTq1t370zYhihNySh">7 大专业模块</strong>：AB 测试、渠道归因、内容情感分析、转化漏斗、增长模型、LTV 预测、探索性可视化。</li>
+<li data-page-node-id="u88NW6T790dteO5MC6QBzZ"><strong data-page-node-id="iRTYhvsIQnfHhoiHDDKEI1">通用 6 阶段流程</strong>：数据质量 → 探索性分析 → 假设生成 → 可视化 → 代码生成 → 综合报告，任何数据集都能套。</li>
+<li data-page-node-id="tgxFSSB0XPhb2WdmkNFccS"><strong data-page-node-id="7Sd1T2YX92YVpp3jBPeSoa">入口技能统筹</strong>：一句话说明你要什么，它自动路由到对应分析模块。</li>
+<li data-page-node-id="MsizCknH5BmAQrRdzf1BMW"><strong data-page-node-id="SrLUSsNatVD5qcxsKfuERx">Pandas 优化</strong>：大数据集不卡死，聚合规则正确，不犯"平均数平均"的低级错。</li>
+</ul>
+<h2 data-page-node-id="VSU5A4brWfwQN3NIYlBR91">怎么用</h2>
+<p data-page-node-id="bJaBiVzAvSZtPDbQCikVoN"><strong data-page-node-id="7iMBeYFguFpBGSKWUx2nd4">场景 1：电商全量分析</strong>
+你：对这份 olist 电商数据做个全面分析。
+AI：走六阶段流程——先查数据质量，再探索销售趋势，假设验证后输出带图表的分析报告。</p>
+<p data-page-node-id="fMTw6iKJoyRohzjatVKLGf"><strong data-page-node-id="xq1lNIG2FsCXqOE9HJvLBK">场景 2：单点深挖</strong>
+你：帮我分析用户评论的情感倾向。
+AI：直接调内容分析模块，分词、打分、聚合出正负面主题。</p>
+<h2 data-page-node-id="OQ2ayu1MVVmSuX6pJnMEhb">谁适合用</h2>
+<ul data-page-node-id="sp6es0PzBnmoXdhgEbk4rl">
+<li data-page-node-id="DjaWbtKEBmVt9HfukGWquY">电商/互联网运营，手里有数据但不会写代码的人。</li>
+<li data-page-node-id="BEmqjSzwKyxjyGIzzeXygq">数据分析师想加速日常取数和报告产出。</li>
+<li data-page-node-id="qJKXzS3gC6DwBkgBzWchkt">产品经理要做留存、漏斗、AB 结论的快速验证。</li>
+</ul>
+<h2 data-page-node-id="tBR0Z8Csr3yliizCQRJ5Ak">一点说明</h2>
+<p data-page-node-id="TYruTcpoGWyTHvAeYmrW6s">本技能是入口型集合（互联网分析 7 模块 + 通用 6 阶段），深度分析能力依赖各子技能配合。数据集放入 data_storage 目录即可开始，自带 olist 电商样例数据可试跑。</p>
+  </div>
+  <footer class="pager" data-page-node-id="pBdMgGvrV3n1F418BcAUz3">
+    <span class="prev" data-page-node-id="hDI9K4NN7BHnd4m0VrcwFY"><a href="glm-5.3-flash-vision-video-rag.html" data-page-node-id="2TeGdOaXTXzAm81diCXJH7">&larr; 想问视频"这段动作到底怎么发生的"？让 AI 按秒给你答案</a></span>
+    <span class="next" data-page-node-id="bPtc5n5naTshoKxPogaIpk"><a href="brickMosaic.html" data-page-node-id="mirftJzxPA3Vrx46g1g71V">想把照片变成乐高像素画？交给它出拼搭说明书和零件清单 &rarr;</a></span>
+  </footer>
+  <p class="back" data-page-node-id="ORQIysjX9Jg11ZMWWN4RiJ"><a href="index.html" data-page-node-id="fED525MmqSupJ46kgcO3SP">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

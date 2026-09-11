@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>想让 AI 画出「讲到哪画到哪」的白板讲解视频？—— whiteboard-explainer 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 视频与动画类</nav>
+  <header class="post-head"><h1>想让 AI 画出「讲到哪画到哪」的白板讲解视频？—— whiteboard-explainer 介绍</h1></header>
+  <div class="content">
+<p>把一篇讲稿变成白板手绘动画视频：图形被一笔笔描出来、文字逐笔写出，<strong>旁白讲到哪，画面就画到哪</strong>——不是 PPT 翻页，是真·手绘过程。这就是 whiteboard-explainer 干的事。</p>
+<p><img alt="配图：白板讲解动画逐笔绘制" src="assets/whiteboard-explainer/01.png" /></p>
+<h2>它到底能做什么</h2>
+<ul>
+<li><strong>真手绘过程</strong>：白板图上的图形按笔画绘出、文字逐笔写出，元素级精确对齐旁白（讲到哪画到哪）。</li>
+<li><strong>两种成片模式</strong>：slide 序列（一拍一图，适合逐句讲解）和单画布生长（一张大图逐步长出来，适合数学推导、流程图、知识图谱）。</li>
+<li><strong>本地 CPU 渲染</strong>：零 API 成本、帧帧确定、改一句重渲一秒，不怕云服务限流。</li>
+<li><strong>免费工具链</strong>：PIL 程序化画白板图 + Agnes 免费生图（具象画面）+ edge-tts 免费旁白 + ffmpeg 合成，全链路不花钱。</li>
+</ul>
+<h2>怎么用</h2>
+<p><strong>场景 1：做知识科普视频</strong>
+你：把这篇"什么是日全食"的讲稿做成白板动画。
+AI：拆好每拍一图 + 逐句 TTS，月亮画出来的时候旁白正好讲到月亮，太阳被挡住的瞬间音画同步。</p>
+<p><strong>场景 2：数学推导视频</strong>
+你：把勾股定理的推导做成逐步生长的白板视频。
+AI：一张大画布，讲到辅助线画辅助线、讲到面积等式写面积等式，整块板子随着讲解慢慢长满。</p>
+<h2>谁适合用</h2>
+<ul>
+<li>做知识区、科普区视频的创作者。</li>
+<li>要把课件、推导、流程图变成"手绘讲解感"视频的老师和学生。</li>
+<li>想要确定可重渲、又不想为 AI 视频付费的效率型选手。</li>
+</ul>
+<h2>一点说明</h2>
+<p>本技能基于 whiteboard-animator 引擎（PyPI 包，首次 setup 自动安装，自带 83MB 文字检测模型）。AI 生图仅画无字插画，所有中文文字用本机字体叠加，保证字字清晰。渲染速度约为视频时长，8 秒片段约 5-8 秒出片。</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="wechat-article-remotion.html">&larr; 有一篇公众号文章想变成视频？丢个链接就行</a></span>
+    <span class="next"><a href="seedance2-storyboard.html">想把小说做成多集 AI 短剧？ &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

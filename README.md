@@ -1,16 +1,16 @@
 # 项目集合 · 通俗易懂介绍索引
 
-本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **72 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
+本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **77 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
 
 > 说明：这批文章是面向"不懂技术的普通人"写的，刻意避免了术语堆砌。凡是"给做 AI 工具的人用的技能（skill）"，文中都明确标注了它不是双击打开的 App。
 
-> **配图状态**：全部 72 篇文章均已配齐「小黑手绘」风格插图（共 209 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
+> **配图状态**：全部 77 篇文章均已配齐「小黑手绘」风格插图（共 154 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
 
 > **完整分类索引**：见 [index.html](index.html)。本文件是该索引的文本镜像，由 `build_site.py` 自动同步生成，请勿手改目录部分。
 
 ---
 
-## 一、电商与广告类（19 篇）
+## 一、电商与广告类（20 篇）
 
 - [你的亚马逊商品，AI 导购看得懂吗？](amazon-listing-alexa-optimizer.md) — amazon-listing-alexa-optimizer
 - [想在亚马逊上卖好货？这一整套 AI 选品运营助手能帮上忙](amazon-skill.md) — amazon-skill
@@ -31,8 +31,9 @@
 - [想用 Sorftime 挖亚马逊数据，又不想一页页手抄？它一个入口抓 11 类](sorftime-rpa.md) — sorftime-rpa
 - [刷到一条带货爆款视频，想让 AI 照着再来一条？](ecom-video-seedance-prompt.md) — ecom-video-seedance-prompt
 - [同款带货爆款，换个引擎拆会更准吗？](glm-ecom-video-seedance-prompt.md) — glm-ecom-video-seedance-prompt
+- [电商主图详情页，一套 Prompt 全搞定？](ecom-details-image.md) — ecom-details-image
 
-## 二、市场与选题调研类（7 篇）
+## 二、市场与选题调研类（8 篇）
 
 - [想摸清一家公司底细？让它去全网帮你挖](exa-company-research.md) — exa-company-research
 - [想出海卖货？先让它帮你摸透目标国市场](exa-foreign-trade-research.md) — exa-foreign-trade-research
@@ -41,6 +42,7 @@
 - [有个生意点子？先丢到小红书里看看大家买不买账](xhs-business-validator.md) — xhs-business-validator
 - [那个最早的小红书生意验证器原版](XHS_Business_Idea_Validator.md) — XHS_Business_Idea_Validator
 - [一堆电商差评好评看不过来？让它秒变读懂用户的产品参谋](simple-review-analyzer.md) — simple-review-analyzer
+- [想让 AI 帮你抓全网数据做深度调研？](brightdata-research.md) — brightdata-research
 
 ## 三、教育科普与数学类（11 篇）
 
@@ -56,7 +58,7 @@
 - [一张科研/教学示意图，怎么让 AI 帮你画出来](stem-illustration.md) — stem-illustration
 - [想讲清楚一个数学概念，能不能让 AI 直接拍部短片？](math-concept-film.md) — math-concept-film
 
-## 四、视频与动画类（9 篇）
+## 四、视频与动画类（11 篇）
 
 - [把数学证明做成动画视频，让公式自己&quot;长&quot;出来](geometry-math-proof-remotion.md) — geometry-math-proof-remotion
 - [拍视频前脑袋一团乱？它帮你把想法聊成一份能直接开拍的方案](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
@@ -67,6 +69,8 @@
 - [想做会动的手绘蜡笔风短视频？它每段直接生成一段动画](story-handdrawn-video.md) — story-handdrawn-video
 - [要做口播视频，又不想从零搭工程？它给你一套现成的模板](talking-head-remotion.md) — talking-head-remotion
 - [有一篇公众号文章想变成视频？丢个链接就行](wechat-article-remotion.md) — wechat-article-remotion
+- [想让 AI 画出「讲到哪画到哪」的白板讲解视频？](whiteboard-explainer.md) — whiteboard-explainer
+- [想把小说做成多集 AI 短剧？](seedance2-storyboard.md) — seedance2-storyboard
 
 ## 五、写作与课程类（6 篇）
 
@@ -77,7 +81,7 @@
 - [想认真运营公众号却卡在&quot;写+配图&quot;？这个助手从选题一路帮你写到出图](wechat-writer.md) — wechat-writer
 - [文章写好了却愁配图？让&quot;小黑&quot;把你的观点画成清爽怪诞的手绘图](ian-xiaohei-illustrations.md) — ian-xiaohei-illustrations
 
-## 六、研究与智能体框架类（9 篇）
+## 六、研究与智能体框架类（10 篇）
 
 - [丢个主题进去，自动给你吐出一份带引用的完整研究报告](deep-research-agent.md) — deep-research-agent
 - [说一句&quot;帮我研究下茅台&quot;，它像投研团队一样给你出尽调报告](stock-deep-research.md) — stock-deep-research
@@ -88,6 +92,7 @@
 - [一段视频里的事，想问 AI&quot;第几秒发生的&quot;？它让 AI 把视频看完再回答你](deepseek-v4-flash-vision-video-rag.md) — deepseek-v4-flash-vision-video-rag
 - [让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？](glm-5.3-flash-vision-rag.md) — glm-5.3-flash-vision-rag
 - [想问视频"这段动作到底怎么发生的"？让 AI 按秒给你答案](glm-5.3-flash-vision-video-rag.md) — glm-5.3-flash-vision-video-rag
+- [拿到一堆订单数据不知道从哪下手？](claude-data-analysis.md) — claude-data-analysis
 
 ## 七、工具与杂项类（11 篇）
 
