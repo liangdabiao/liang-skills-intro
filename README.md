@@ -1,10 +1,10 @@
 # 项目集合 · 通俗易懂介绍索引
 
-本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **77 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
+本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **78 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
 
 > 说明：这批文章是面向"不懂技术的普通人"写的，刻意避免了术语堆砌。凡是"给做 AI 工具的人用的技能（skill）"，文中都明确标注了它不是双击打开的 App。
 
-> **配图状态**：全部 77 篇文章均已配齐「小黑手绘」风格插图（共 154 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
+> **配图状态**：全部 78 篇文章均已配齐「小黑手绘」风格插图（共 156 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
 
 > **完整分类索引**：见 [index.html](index.html)。本文件是该索引的文本镜像，由 `build_site.py` 自动同步生成，请勿手改目录部分。
 
@@ -58,7 +58,7 @@
 - [一张科研/教学示意图，怎么让 AI 帮你画出来](stem-illustration.md) — stem-illustration
 - [想讲清楚一个数学概念，能不能让 AI 直接拍部短片？](math-concept-film.md) — math-concept-film
 
-## 四、视频与动画类（11 篇）
+## 四、视频与动画类（12 篇）
 
 - [把数学证明做成动画视频，让公式自己&quot;长&quot;出来](geometry-math-proof-remotion.md) — geometry-math-proof-remotion
 - [拍视频前脑袋一团乱？它帮你把想法聊成一份能直接开拍的方案](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
@@ -71,6 +71,7 @@
 - [有一篇公众号文章想变成视频？丢个链接就行](wechat-article-remotion.md) — wechat-article-remotion
 - [想让 AI 画出「讲到哪画到哪」的白板讲解视频？](whiteboard-explainer.md) — whiteboard-explainer
 - [想把小说做成多集 AI 短剧？](seedance2-storyboard.md) — seedance2-storyboard
+- [想让一个黑色小家伙帮你把文章拍成短视频？](directing-xiaohei-videos.md) — directing-xiaohei-videos
 
 ## 五、写作与课程类（6 篇）
 
