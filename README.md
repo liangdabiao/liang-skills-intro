@@ -1,16 +1,16 @@
 # 项目集合 · 通俗易懂介绍索引
 
-本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **78 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
+本目录收录了 `E:\all-skill-t0` 这个 AI 技能项目集合中 **138 个项目** 的入门介绍，每篇都用大白话讲清楚"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪"。
 
 > 说明：这批文章是面向"不懂技术的普通人"写的，刻意避免了术语堆砌。凡是"给做 AI 工具的人用的技能（skill）"，文中都明确标注了它不是双击打开的 App。
 
-> **配图状态**：全部 78 篇文章均已配齐「小黑手绘」风格插图（共 156 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
+> **配图状态**：全部 138 篇文章均已配齐「小黑手绘」风格插图（共 162 张），图片存放在 `assets/<项目名>/01.png`、`02.png`，严格遵循 `ian-xiaohei-illustrations` 技能的视觉 DNA（纯白背景、黑色手绘线稿、小黑 IP 作为动作主体、少量红/橙/蓝批注）。
 
 > **完整分类索引**：见 [index.html](index.html)。本文件是该索引的文本镜像，由 `build_site.py` 自动同步生成，请勿手改目录部分。
 
 ---
 
-## 一、电商与广告类（20 篇）
+## 一、电商与广告类（28 篇）
 
 - [你的亚马逊商品，AI 导购看得懂吗？](amazon-listing-alexa-optimizer.md) — amazon-listing-alexa-optimizer
 - [想在亚马逊上卖好货？这一整套 AI 选品运营助手能帮上忙](amazon-skill.md) — amazon-skill
@@ -32,8 +32,16 @@
 - [刷到一条带货爆款视频，想让 AI 照着再来一条？](ecom-video-seedance-prompt.md) — ecom-video-seedance-prompt
 - [同款带货爆款，换个引擎拆会更准吗？](glm-ecom-video-seedance-prompt.md) — glm-ecom-video-seedance-prompt
 - [电商主图详情页，一套 Prompt 全搞定？](ecom-details-image.md) — ecom-details-image
+- [亚马逊选品全家桶，一个 skill 调齐四大数据源](amazon-sorftime-research-mcp-skill.md) — amazon-sorftime-research-mcp-skill
+- [平铺图丢进去，AI 自动出模特爆款宣传图](fashion-ai.md) — fashion-ai
+- [上传评论 CSV，AI 帮你画出用户画像](easy-amazon-voc.md) — easy-amazon-voc
+- [一句中文 30 秒出专业电商图（免费额度版）](ecom-details-image-ui.md) — ecom-details-image-ui
+- [对话里调 54 个技能的亚马逊 AI 助手](claudesdk-amazon-skills-chat.md) — claudesdk-amazon-skills-chat
+- [对话里选模板、出电商图](claudesdk-ecom-image-chat.md) — claudesdk-ecom-image-chat
+- [亚马逊竞品 Listing 穿透分析工具](claudesdk-amazon-chat.md) — claudesdk-amazon-chat
+- [在 DeepSeek Harness 里直接出电商图](ecom-details-image-plugin.md) — ecom-details-image-plugin
 
-## 二、市场与选题调研类（8 篇）
+## 二、市场与选题调研类（14 篇）
 
 - [想摸清一家公司底细？让它去全网帮你挖](exa-company-research.md) — exa-company-research
 - [想出海卖货？先让它帮你摸透目标国市场](exa-foreign-trade-research.md) — exa-foreign-trade-research
@@ -43,8 +51,14 @@
 - [那个最早的小红书生意验证器原版](XHS_Business_Idea_Validator.md) — XHS_Business_Idea_Validator
 - [一堆电商差评好评看不过来？让它秒变读懂用户的产品参谋](simple-review-analyzer.md) — simple-review-analyzer
 - [想让 AI 帮你抓全网数据做深度调研？](brightdata-research.md) — brightdata-research
+- [有个生意点子？先让 AI 上网验证靠不靠谱](business-idea-validator.md) — business-idea-validator
+- [一个人也能做全平台商机挖掘](seekmoney-ai.md) — seekmoney-ai
+- [社媒 + 全网搜索合体的「微舆」调研员](social-research-agent.md) — social-research-agent
+- [10 分钟出一份用户需求洞察报告](ai-investor.md) — ai-investor
+- [对话式用户需求洞察与机会分析](claudesdk-market-insight-chat.md) — claudesdk-market-insight-chat
+- [Claude SDK + Exa 的对话式调研平台](claudesdk-exa-chat.md) — claudesdk-exa-chat
 
-## 三、教育科普与数学类（11 篇）
+## 三、教育科普与数学类（12 篇）
 
 - [一道解析几何题，怎么变成能动手拖的网页](edu-analytic-geometry.md) — edu-analytic-geometry
 - [化学反应到底怎么断键成键，让它变成能转着看的 3D 动画](edu-chem-reaction.md) — edu-chem-reaction
@@ -57,8 +71,9 @@
 - [想动手做一套会互动的数学课本，该怎么上手](mathigon-skill.md) — mathigon-skill
 - [一张科研/教学示意图，怎么让 AI 帮你画出来](stem-illustration.md) — stem-illustration
 - [想讲清楚一个数学概念，能不能让 AI 直接拍部短片？](math-concept-film.md) — math-concept-film
+- [聊天框里一句话搞定数学几何画图](geogebra-webchat.md) — geogebra-webchat
 
-## 四、视频与动画类（12 篇）
+## 四、视频与动画类（20 篇）
 
 - [把数学证明做成动画视频，让公式自己&quot;长&quot;出来](geometry-math-proof-remotion.md) — geometry-math-proof-remotion
 - [拍视频前脑袋一团乱？它帮你把想法聊成一份能直接开拍的方案](hyperframes-video-spec-builder.md) — hyperframes-video-spec-builder
@@ -72,8 +87,16 @@
 - [想让 AI 画出「讲到哪画到哪」的白板讲解视频？](whiteboard-explainer.md) — whiteboard-explainer
 - [想把小说做成多集 AI 短剧？](seedance2-storyboard.md) — seedance2-storyboard
 - [想让一个黑色小家伙帮你把文章拍成短视频？](directing-xiaohei-videos.md) — directing-xiaohei-videos
+- [丢一篇文章，AI 一键出中文短视频](hyperframes-fix.md) — hyperframes-fix
+- [一键生成英语对话教学短视频](ai-generated-english-podcast-videos.md) — ai-generated-english-podcast-videos
+- [上美影复古手绘风短剧文档生成器](smy-seedance-storyboard.md) — smy-seedance-storyboard
+- [给一条视频，AI 自动复刻成你的版本](video-clone-lite.md) — video-clone-lite
+- [上传一张照片，AI 生成 12 帧定格动画](ai-make-face-meme.md) — ai-make-face-meme
+- [对话式写出 Seedance 视频脚本和分镜](claudesdk-seedance-chat.md) — claudesdk-seedance-chat
+- [产品照一键变循环动图](product-motion-gif.md) — product-motion-gif
+- [乐高积木小人主演的 AI 动画](lego-cinematic-remix.md) — lego-cinematic-remix
 
-## 五、写作与课程类（6 篇）
+## 五、写作与课程类（8 篇）
 
 - [想写出&quot;刘润式&quot;有洞察的商业长文？让这个助手替你搭好骨架](liurun-bookwriter.md) — liurun-bookwriter
 - [想写出&quot;罗振宇式&quot;有启发的好文章？这个助手帮你把金句和故事安排明白](luozhenyu-bookwriter.md) — luozhenyu-bookwriter
@@ -81,8 +104,10 @@
 - [想把网站或代码做成多语言？这两个助手一个管网页、一个管源码](i18n-helper-skills.md) — i18n-helper-skills
 - [想认真运营公众号却卡在&quot;写+配图&quot;？这个助手从选题一路帮你写到出图](wechat-writer.md) — wechat-writer
 - [文章写好了却愁配图？让&quot;小黑&quot;把你的观点画成清爽怪诞的手绘图](ian-xiaohei-illustrations.md) — ian-xiaohei-illustrations
+- [一个站点学遍主流 AI Agent 框架](liangdabiao-github-io.md) — liangdabiao-github-io
+- [两个智能体合作写图文并茂的帖子](deep-search-write.md) — deep-search-write
 
-## 六、研究与智能体框架类（10 篇）
+## 六、研究与智能体框架类（34 篇）
 
 - [丢个主题进去，自动给你吐出一份带引用的完整研究报告](deep-research-agent.md) — deep-research-agent
 - [说一句&quot;帮我研究下茅台&quot;，它像投研团队一样给你出尽调报告](stock-deep-research.md) — stock-deep-research
@@ -94,8 +119,32 @@
 - [让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？](glm-5.3-flash-vision-rag.md) — glm-5.3-flash-vision-rag
 - [想问视频"这段动作到底怎么发生的"？让 AI 按秒给你答案](glm-5.3-flash-vision-video-rag.md) — glm-5.3-flash-vision-video-rag
 - [拿到一堆订单数据不知道从哪下手？](claude-data-analysis.md) — claude-data-analysis
+- [让 4 个 AI 角色帮你分析 A 股：AKShare + CrewAI 实战](easy-investment-agent-crewai.md) — easy-investment-agent-crewai
+- [28 个 AI 研究员并行干活的股票尽调系统](claude-code-stock-deep-research-agent.md) — claude-code-stock-deep-research-agent
+- [小白一键做互联网/电商数据分析](claude-data-analysis-ultra-main.md) — claude-data-analysis-ultra-main
+- [跟着教程，用 Claude Code 一步步造一个 Deep Research](claude-code-deep-research-main.md) — claude-code-deep-research-main
+- [带 Web 界面的 CrewAI 智能股票分析系统](crewai-stock-analysis-system.md) — crewai-stock-analysis-system
+- [基于微软 AutoGen 的企业级金融分析系统](autogen-financial-analysis.md) — autogen-financial-analysis
+- [让 AI 自动帮你维护个人知识库网站](llm-wiki.md) — llm-wiki
+- [说一句话，AI 帮你做一个完整 Godot 游戏项目](godogen.md) — godogen
+- [10 个提示词专家随时待命，自动路由](skill-ten-prompt-generator.md) — skill-ten-prompt-generator
+- [CrewAI 多智能体 A 股投资分析](investment-agent-langgraph-crewai.md) — investment-agent-langgraph-crewai
+- [一个工具箱搞定抓取、提取、部署](fetch-everything.md) — fetch-everything
+- [不做 OCR，直接让 AI「看」PDF 页面回答](multimodal-rag.md) — multimodal-rag
+- [AI 知识编译器 + Claude Agent SDK 组合拳](llm-wiki-claude-agent-sdk-agentic-rag.md) — llm-wiki-claude-agent-sdk-agentic-rag
+- [三类代理搭一个极简深度研究系统](simple-claude-deep-research-agent.md) — simple-claude-deep-research-agent
+- [让 AI 读着文档，自己造一个 TikHub 助手](claudesdk-skill.md) — claudesdk-skill
+- [从零开发 DeepSeek Harness 插件指南](dsh-plugin-developer-skill.md) — dsh-plugin-developer-skill
+- [恒生科技成分股 2026 AI 全景分析](hstech-2026-ai-summary.md) — hstech-2026-ai-summary
+- [AI 项目的一体化数据底座](ai-data-hub.md) — ai-data-hub
+- [说句话，自动查 A 股数据画图表](claudesdk-financial-chart-chat.md) — claudesdk-financial-chart-chat
+- [写复杂业务 AI，先用 DeepAgents 打地基](do-deepagents-skill.md) — do-deepagents-skill
+- [聊天即 CRM，边对话边管客户](monica-crm-claude-skill.md) — monica-crm-claude-skill
+- [把本地 Skill 一键变成 HTTP API](langgraph-runtime-skill-agent.md) — langgraph-runtime-skill-agent
+- [后端程序员的轻量版 Coze 开发框架](simple-ai-toolset.md) — simple-ai-toolset
+- [Skill 是程序，MCP 是库，LLM 是语言](simple-agentic-stack.md) — simple-agentic-stack
 
-## 七、工具与杂项类（11 篇）
+## 七、工具与杂项类（22 篇）
 
 - [想把照片变成乐高像素画？交给它出拼搭说明书和零件清单](brickMosaic.md) — brickMosaic
 - [想自己做一款棋牌或桌游？它帮你把规则写成能跑的游戏](boardgame-io.md) — boardgame-io
@@ -108,3 +157,14 @@
 - [想给网页加个密码锁、只有知道密码的人能看？它把 HTML 加密成自解密页面](staticshield.md) — staticshield
 - [下周末去哪个城市玩？它把一周末的活动、演出、美食、地铁全查齐](weekend-city-trip.md) — weekend-city-trip
 - [把任意图片变成&quot;照着拼&quot;的拼豆图纸](pindou-pattern.md) — pindou-pattern
+- [能查订单、能订机票的多智能体客服系统](langgraph-multi-agent-rag-customer-support.md) — langgraph-multi-agent-rag-customer-support
+- [一键生成拼豆图纸的 AI 网站（326 star）](perler-beads-ai.md) — perler-beads-ai
+- [模拟 HR 筛选算法，提前看简历能不能过](resume-matcher-agent-cn.md) — resume-matcher-agent-cn
+- [从 0 到 1 搭建 LLM 简历筛选系统](llm-agent-resume.md) — llm-agent-resume
+- [两个文件，给自己的 WordPress 加个 AI 客服](wordpress-kefu-ai-agent.md) — wordpress-kefu-ai-agent
+- [把飞书变成你的 AI 效率中枢：20 大工作流](lark-workflow-feishu-cli.md) — lark-workflow-feishu-cli
+- [一本书式的完整智能客服方案](skill-kefu.md) — skill-kefu
+- [手机上随时做拼豆图纸的小程序](perler-beads-applet.md) — perler-beads-applet
+- [企业微信里的 AI 客户管理工作台](wecomcli-crm.md) — wecomcli-crm
+- [钉钉版 AI 效率系统：10 大工作流](dingtalk-cli-workflow.md) — dingtalk-cli-workflow
+- [把飞书多维表格变成会聊天的 CRM](lark-crm-feishu-cli.md) — lark-crm-feishu-cli

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>把本地 Skill 一键变成 HTTP API —— langgraph-runtime-skill-agent 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head"><h1>把本地 Skill 一键变成 HTTP API —— langgraph-runtime-skill-agent 介绍</h1></header>
+  <div class="content">
+<p>基于 langgraph-runtime 加 Skill 的 agent，把本地 Agent Skill 包装成 HTTP API 服务。用户发 SSE 请求，agent 自动选择技能、读取 SKILL.md、调用脚本或搜索网页，再流式返回结果。</p>
+<h2>它能做什么</h2>
+<ul>
+<li>本地 Skill 自动包装成 HTTP/SSE API</li>
+<li>模型负责判断和编排</li>
+<li>脚本负责确定性执行</li>
+<li>流式返回，方便接前端</li>
+</ul>
+<h2>怎么用</h2>
+<p>把 Skill 放入目录，启动 runtime 后发请求。</p>
+<h2>适合谁 &amp; 边界</h2>
+<p>想把技能产品化的开发者。适合流程清晰的任务。</p>
+<h2>仓库</h2>
+<p>https://github.com/liangdabiao/langgraph-runtime-skill-agent</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="monica-crm-claude-skill.html">&larr; 聊天即 CRM，边对话边管客户</a></span>
+    <span class="next"><a href="simple-ai-toolset.html">后端程序员的轻量版 Coze 开发框架 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>

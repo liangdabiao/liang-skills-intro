@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>不做 OCR，直接让 AI「看」PDF 页面回答 —— multimodal-rag 介绍</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<article class="post">
+  <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
+  <header class="post-head"><h1>不做 OCR，直接让 AI「看」PDF 页面回答 —— multimodal-rag 介绍</h1></header>
+  <div class="content">
+<p>传统 RAG 要先提取文字、做 OCR，表格图表容易丢。这个多模态 RAG 直接把 PDF 每一页当成图片，用视觉 Embedding 编码，完整保留表格、图表、排版甚至手写批注，再由 Qwen 视觉模型理解回答。</p>
+<h2>它能做什么</h2>
+<ul>
+<li>PDF 页面直接视觉编码，不做文本提取/OCR</li>
+<li>完整保留表格、图表、排版、手写批注</li>
+<li>支持 Cohere / DashScope Embedding 切换</li>
+<li>支持 DashScope / OpenRouter 视觉模型切换</li>
+</ul>
+<h2>怎么用</h2>
+<p>上传 PDF，用自然语言提问即可得到带出处的回答。</p>
+<h2>适合谁 &amp; 边界</h2>
+<p>处理扫描件、图表密集型文档的人。视觉方案的索引成本比纯文本略高。</p>
+<h2>仓库</h2>
+<p>https://github.com/liangdabiao/Multimodal-RAG</p>
+  </div>
+  <footer class="pager">
+    <span class="prev"><a href="fetch-everything.html">&larr; 一个工具箱搞定抓取、提取、部署</a></span>
+    <span class="next"><a href="llm-wiki-claude-agent-sdk-agentic-rag.html">AI 知识编译器 + Claude Agent SDK 组合拳 &rarr;</a></span>
+  </footer>
+  <p class="back"><a href="index.html">&larr; 返回目录</a></p>
+</article>
+</body>
+</html>
