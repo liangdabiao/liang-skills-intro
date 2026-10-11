@@ -2,6 +2,8 @@
 
 基于 Claude Agent / OpenClaw Skill 加飞书 CLI 搭建的个人 AI 效率基础设施，包含 20 大工作流，把常见的 AI 实战用法全部迁移到飞书生态里完成。
 
+![配图：把飞书变成你的 AI 效率中枢：20 大工作流](assets/lark-workflow-feishu-cli/01.png)
+
 ## 它能做什么
 
 - 20 个飞书工作流 Skill

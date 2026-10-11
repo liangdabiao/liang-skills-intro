@@ -2,6 +2,8 @@
 
 基于 langgraph-runtime 加 Skill 的 agent，把本地 Agent Skill 包装成 HTTP API 服务。用户发 SSE 请求，agent 自动选择技能、读取 SKILL.md、调用脚本或搜索网页，再流式返回结果。
 
+![配图：把本地 Skill 一键变成 HTTP API](assets/langgraph-runtime-skill-agent/01.png)
+
 ## 它能做什么
 
 - 本地 Skill 自动包装成 HTTP/SSE API

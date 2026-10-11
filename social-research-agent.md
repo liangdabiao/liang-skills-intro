@@ -2,6 +2,8 @@
 
 把社交媒体调研（TikHub）和 Web Search 两个技能合体成一个智能体。AI 一边搜全网、一边查社媒平台，自动完成深度调研。
 
+![配图：社媒 + 全网搜索合体的「微舆」调研员](assets/social-research-agent/01.png)
+
 ## 它能做什么
 
 - TikHub 社交媒体数据 + Web 搜索双路调研

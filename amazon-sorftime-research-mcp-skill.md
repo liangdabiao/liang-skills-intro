@@ -2,6 +2,8 @@
 
 做亚马逊最头疼的不是没数据，而是数据散在 Sorftime、西柚、Sif、卖家精灵好几个平台，来回切换、手动拼报告。这个项目把它们全部打包成一套 agent skill，你说一句话，它直接出完整的穿透分析报告。
 
+![配图：亚马逊选品全家桶，一个 skill 调齐四大数据源](assets/amazon-sorftime-research-mcp-skill/01.png)
+
 ## 它能做什么
 
 - Listing 全维度穿透分析：文案、关键词、评论、流量一次看透

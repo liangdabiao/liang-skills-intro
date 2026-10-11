@@ -2,6 +2,8 @@
 
 Godogen 是一套用 Claude Code 构建完整 Godot 4 项目的技能。你描述想要的游戏，AI 自动设计架构、生成美术、写每一行代码，还会从运行的引擎里截图自检，发现不对的地方自己修（基于 htdt/godogen 二开）。
 
+![配图：说一句话，AI 帮你做一个完整 Godot 游戏项目](assets/godogen/01.png)
+
 ## 它能做什么
 
 - 自然语言描述 → 完整 Godot 4 项目

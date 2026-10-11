@@ -2,6 +2,8 @@
 
 用 Easy Scraper 浏览器插件把亚马逊商品评论爬成 CSV，直接上传到这个系统，AI 做多维度评论分析，还你一份带分析结果的 CSV 和用户画像。
 
+![配图：上传评论 CSV，AI 帮你画出用户画像](assets/easy-amazon-voc/01.png)
+
 ## 它能做什么
 
 - 接收 Easy Scraper 导出的评论 CSV

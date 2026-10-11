@@ -2,6 +2,8 @@
 
 不用 Coze、不用 Dify，这个项目用两个简单文件就给 WordPress（或其他网站）加上一个能真正干活的自适应智能客服，稍微配置即可上线。
 
+![配图：两个文件，给自己的 WordPress 加个 AI 客服](assets/wordpress-kefu-ai-agent/01.png)
+
 ## 它能做什么
 
 - 极简的自适应智能客服

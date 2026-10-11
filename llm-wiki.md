@@ -2,6 +2,8 @@
 
 基于 Karpathy 的 llm-wiki 方法论，把网页、推特、公众号、小红书、知乎、YouTube、PDF、本地文件等各种素材，自动整理成结构清晰、彼此关联的 wiki，再用 Quartz 发布成静态网站，还能通过 Claude Agent SDK 提供 API 访问。
 
+![配图：让 AI 自动帮你维护个人知识库网站](assets/llm-wiki/01.png)
+
 ## 它能做什么
 
 - 多来源素材自动摄入和整理

@@ -2,6 +2,8 @@
 
 给普通后端程序员准备的 AI 开发基础框架，功能类似 Coze：FastAPI 接口、搜索、文档解析向量化、RPA 和爬虫、自定义 Agent、第三方数据对接、MongoDB、JSON 结构控制、多模态理解与生成等。
 
+![配图：后端程序员的轻量版 Coze 开发框架](assets/simple-ai-toolset/01.png)
+
 ## 它能做什么
 
 - FastAPI 后端 + 搜索 + 文档解析向量化

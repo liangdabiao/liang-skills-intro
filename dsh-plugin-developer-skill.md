@@ -2,6 +2,8 @@
 
 DeepSeek Harness（dsh）采用「无特权内核、万物皆插件」设计。这个技能指导 AI Agent 从 0 到 1 完成插件的开发、构建、安装和测试，并内置一个已实测可用的天气插件作为参考。
 
+![配图：从零开发 DeepSeek Harness 插件指南](assets/dsh-plugin-developer-skill/01.png)
+
 ## 它能做什么
 
 - 完整的 dsh 插件开发流程指导

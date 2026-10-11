@@ -2,6 +2,8 @@
 
 用微软 AutoGen 多智能体框架搭建的企业级金融分析系统，整合多个金融数据源，能做财务分析、风险评估和量化投资分析。
 
+![配图：基于微软 AutoGen 的企业级金融分析系统](assets/autogen-financial-analysis/01.png)
+
 ## 它能做什么
 
 - 整合 Yahoo Finance、Alpha Vantage、Quandil 等数据源

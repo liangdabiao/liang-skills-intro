@@ -2,6 +2,8 @@
 
 传统 RAG 要先提取文字、做 OCR，表格图表容易丢。这个多模态 RAG 直接把 PDF 每一页当成图片，用视觉 Embedding 编码，完整保留表格、图表、排版甚至手写批注，再由 Qwen 视觉模型理解回答。
 
+![配图：不做 OCR，直接让 AI「看」PDF 页面回答](assets/multimodal-rag/01.png)
+
 ## 它能做什么
 
 - PDF 页面直接视觉编码，不做文本提取/OCR

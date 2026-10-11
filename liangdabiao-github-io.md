@@ -2,6 +2,8 @@
 
 liangdabiao 的 Agent 小册子与 AI 技术框架教学站，涵盖阿里云百炼、LangGraph、Claude Agent SDK、OpenAI Agents SDK、DeepAgents、DeerFlow、Flue、Vercel Eve、Cloudflare Agents、EdgeOne Makers、Agent Skills 等多门课程，从入门到精通。
 
+![配图：一个站点学遍主流 AI Agent 框架](assets/liangdabiao-github-io/01.png)
+
 ## 它能做什么
 
 - 多门主流 Agent 框架系统课程

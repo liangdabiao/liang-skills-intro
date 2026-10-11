@@ -2,6 +2,8 @@
 
 基于 Claude Agent SDK 的 AI 电商视觉 Web 应用：用自然语言描述产品，AI 自动匹配 25 个电商场景模板、生成专业图片 Prompt，还可以直接调用 GPT-Image-2 出图。
 
+![配图：对话里选模板、出电商图](assets/claudesdk-ecom-image-chat/01.png)
+
 ## 它能做什么
 
 - 25 个电商场景模板自动匹配

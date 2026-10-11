@@ -2,6 +2,8 @@
 
 基于 Claude Agent SDK 的 Web 应用，通过自然语言对话生成专业的 Seedance 2.0 视频脚本和分镜提示词，支持从故事分析到分镜脚本的全流程 AI 创作。
 
+![配图：对话式写出 Seedance 视频脚本和分镜](assets/claudesdk-seedance-chat/01.png)
+
 ## 它能做什么
 
 - 对话生成 Seedance 2.0 视频脚本

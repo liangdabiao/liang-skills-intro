@@ -2,6 +2,8 @@
 
 这个项目用 LangChain + LangGraph 搭了一个多智能体客服，能处理航班、租车、酒店预订等旅行问答，还对接了 WooCommerce 商城，可以查商品、查文章、提交表单、查订单。
 
+![配图：能查订单、能订机票的多智能体客服系统](assets/langgraph-multi-agent-rag-customer-support/01.png)
+
 ## 它能做什么
 
 - 多智能体 + RAG 架构的对话式客服

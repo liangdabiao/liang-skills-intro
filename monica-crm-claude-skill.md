@@ -2,6 +2,8 @@
 
 AI 编程工具有记忆，但客户信息往往需要更系统、更严肃的管理。这个技能让你在 Claude Code / OpenClaw 里边聊天边做 CRM，把客户信息有条理地沉淀下来。
 
+![配图：聊天即 CRM，边对话边管客户](assets/monica-crm-claude-skill/01.png)
+
 ## 它能做什么
 
 - 对话中直接管理客户信息
