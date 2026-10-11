@@ -1,5 +1,7 @@
 # 在 DeepSeek Harness 里直接出电商图 —— ecom-details-image-plugin 介绍
 
+代码仓库：https://github.com/liangdabiao/ecom-details-image-plugin
+
 把 ecom-details-image 技能改造成 dsh 插件：模型在 DeepSeek Harness 里就能写出合规的电商图片 Prompt 并真实出图，结果以画廊卡片展示在网页界面。
 
 ![配图：在 DeepSeek Harness 里直接出电商图](assets/ecom-details-image-plugin/01.png)

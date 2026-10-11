@@ -1,5 +1,7 @@
 # 说句话，自动查 A 股数据画图表 —— claudesdk-financial-chart-chat 介绍
 
+代码仓库：https://github.com/liangdabiao/claudesdk-financial-chart-chat
+
 基于 Claude Agent SDK 的 AI 财经图表对话助手：自然语言输入公司名或需求，自动查询 A 股财务数据并生成专业图表。
 
 ![配图：说句话，自动查 A 股数据画图表](assets/claudesdk-financial-chart-chat/01.png)

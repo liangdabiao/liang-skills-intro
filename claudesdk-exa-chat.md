@@ -1,5 +1,7 @@
 # Claude SDK + Exa 的对话式调研平台 —— claudesdk-exa-chat 介绍
 
+代码仓库：https://github.com/liangdabiao/claudesdk-exa-chat
+
 基于 Claude Agent SDK 和 Exa 搜索引擎的 AI 搜索研究平台，集成企业调研、外贸市场分析、竞品研究等技能，对话即可完成多维度搜索和深度分析。
 
 ![配图：Claude SDK + Exa 的对话式调研平台](assets/claudesdk-exa-chat/01.png)

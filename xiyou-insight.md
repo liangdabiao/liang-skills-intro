@@ -1,5 +1,7 @@
 # 想透视竞品广告和流量？让 AI 用西柚洞察帮你拆 —— xiyou-insight 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/xiyou-insight
+
 竞品广告怎么打的、流量从哪来的、新品是怎么推起来的——这些信息散在西柚洞察成百上千个接口里，自己查根本查不过来。xiyou-insight 就是干这个的：它基于西柚洞察 MCP，把亚马逊竞品分析与广告策略打包成 7 大核心场景，你要哪块，它直接调数据给你看。
 
 ![配图：西柚洞察竞品拆解](assets/xiyou-insight/01.png)

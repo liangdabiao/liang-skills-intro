@@ -1,5 +1,7 @@
 # 想用 AI 生成短视频，但不会写提示词？它帮你写出能用的分镜 —— make-prompt-seedance2 介绍
 
+代码仓库：https://github.com/liangdabiao/make-prompt-seedance2
+
 你听说即梦、豆包这些 AI 能直接把一句话变成视频，兴致冲冲试了，结果生成的不是你想要的：人物脸崩了、产品变形了、镜头乱跳。问题往往不在模型，而在你给的那句提示词太笼统。
 
 **make-prompt-seedance2 就是来解决这件事的。** 你告诉它"我想做个什么视频"，它还你一份可以直接复制到即梦（Seedance 2.0，字节的 AI 视频模型）使用的完整分镜提示词。

@@ -1,5 +1,7 @@
 # 上美影复古手绘风短剧文档生成器 —— smy-seedance-storyboard 介绍
 
+代码仓库：https://github.com/liangdabiao/smy-seedance-storyboard
+
 「上美影」就是《大闹天宫》《天书奇谭》《九色鹿》那种复古手绘动画味道。你给一个故事，它还你一套能直接拿去出图、出视频的上美影短剧制作文档：概括的造型、手工感线条、大片平涂的矿物颜料色。
 
 ![配图：上美影复古手绘风短剧文档生成器](assets/smy-seedance-storyboard/01.png)

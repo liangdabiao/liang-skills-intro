@@ -1,5 +1,7 @@
 # 想让 AI 帮你抓全网数据做深度调研？—— brightdata-research 介绍
 
+代码仓库：https://github.com/liangdabiao/Bright-Data-MCP-Claude-Skill-deep-research
+
 做市场调研最累的是什么？不是分析，是采集。想看看竞品在卖什么、价格怎么定、评论怎么说，结果打开网站就是验证码和反爬墙，一个个手动复制粘贴，一天下来数据没多少，眼睛先瞎了。brightdata-research 就是干这个的：基于 Bright Data MCP，让 AI 带着反爬保护去抓全网数据，你只要说清楚要什么。配图之后你就明白它的工作方式了。
 
 ![配图：AI 带反爬盾抓取全网数据](assets/brightdata-research/01.png)

@@ -1,5 +1,7 @@
 # 想摸清一家公司底细？让它去全网帮你挖 —— exa-company-research 介绍
 
+代码仓库：https://github.com/liangdabiao/exa-research-mcp-skill/tree/main/skills/company-research
+
 你有没有过这种时候：谈合作前想先看看对方公司靠不靠谱，找客户时想快速拉出一批目标企业，或者跳槽前想摸清一家公司的规模、融资和口碑？自己一个个去搜，又慢又碎，还容易漏。
 
 **exa-company-research 就是来解决这件事的。** 你给它一个公司名、一类公司、或者一个行业方向，它还你一份整理好的企业情报：从官网信息、新闻动态、社交媒体声量到高管资料，都能帮你挖出来。

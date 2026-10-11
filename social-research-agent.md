@@ -1,5 +1,7 @@
 # 社媒 + 全网搜索合体的「微舆」调研员 —— social-research-agent 介绍
 
+代码仓库：https://github.com/liangdabiao/social_research_agent
+
 把社交媒体调研（TikHub）和 Web Search 两个技能合体成一个智能体。AI 一边搜全网、一边查社媒平台，自动完成深度调研。
 
 ![配图：社媒 + 全网搜索合体的「微舆」调研员](assets/social-research-agent/01.png)

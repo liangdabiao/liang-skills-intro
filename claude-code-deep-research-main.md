@@ -1,5 +1,7 @@
 # 跟着教程，用 Claude Code 一步步造一个 Deep Research —— claude-code-deep-research-main 介绍
 
+代码仓库：https://github.com/liangdabiao/Claude-Code-Deep-Research-main
+
 Deep Research 被认为是 agent 框架的第一应用。这个项目是一份手把手教程：用 Claude Code 一步步实现完整的深度研究系统，并对比各家框架的实现，帮你看清到底谁厉害。
 
 ![配图：跟着教程，用 Claude Code 一步步造一个 Deep](assets/claude-code-deep-research-main/01.png)

@@ -1,5 +1,7 @@
 # 想出海卖货？先让它帮你摸透目标国市场 —— exa-foreign-trade-research 介绍
 
+代码仓库：https://github.com/liangdabiao/exa-research-mcp-skill/tree/main/skills/foreign-trade-research
+
 做外贸或想出海的朋友，最怕的就是"脑子一热冲进去，结果发现当地早被几家巨头占了"。你其实想知道：这个国家谁在卖同类产品？价格怎么定？渠道怎么走？中国供应商还有没有空子可钻？靠自己翻网页，十天半个月都未必理得清。
 
 **exa-foreign-trade-research 就是来解决这件事的。** 你给它"目标国家 + 产品领域"，它还你一份完整的市场调研报告——竞争格局、定价策略、渠道分析、进入建议，全帮你理顺。

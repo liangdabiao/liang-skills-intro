@@ -1,5 +1,7 @@
 # 两个智能体合作写图文并茂的帖子 —— deep-search-write 介绍
 
+代码仓库：https://github.com/liangdabiao/deep_search_write
+
 一个轻量 AI 写作方案：写作智能体负责成文，知识库智能体负责找资料、配内容，两者合作产出真正可用的公众号、小红书或博客帖子。
 
 ![配图：两个智能体合作写图文并茂的帖子](assets/deep-search-write/01.png)

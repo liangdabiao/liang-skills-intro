@@ -1,5 +1,7 @@
 # 10 个提示词专家随时待命，自动路由 —— skill-ten-prompt-generator 介绍
 
+代码仓库：https://github.com/liangdabiao/skill-ten-prompt-generator
+
 一个基于 Claude Code Agent Skills 的智能提示词生成系统，内置 10 个不同场景的提示词专家。你用自然语言提需求，它自动路由到对应专家，帮你写出高质量提示词。
 
 ![配图：10 个提示词专家随时待命，自动路由](assets/skill-ten-prompt-generator/01.png)

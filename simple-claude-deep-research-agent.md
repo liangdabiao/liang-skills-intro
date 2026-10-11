@@ -1,5 +1,7 @@
 # 三类代理搭一个极简深度研究系统 —— simple-claude-deep-research-agent 介绍
 
+代码仓库：https://github.com/liangdabiao/simple_claude_deep_research_agent
+
 为 Claude Code 设计的简化版多智能体研究系统：一个研究主导代理统筹规划，多个研究子代理并行上网查资料，一个引用代理负责给报告加上准确引用。
 
 ![配图：三类代理搭一个极简深度研究系统](assets/simple-claude-deep-research-agent/01.png)

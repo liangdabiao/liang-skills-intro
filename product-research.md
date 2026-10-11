@@ -1,5 +1,7 @@
 # 想选品却看不懂数据？让 AI 当你的选品分析师 —— product-research 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/product-research
+
 选品不是"看一眼销量"就完事。真正可靠的决策，要从属性、竞品反馈、壁垒到 VOC（用户声音）一层层交叉分析，普通人根本算不过来。product-research 就是干这个的：它基于 Sorftime MCP，用 LLM Agent 驱动做多维度选品调研，从数据采集一路走到"该不该做"的决策评分。
 
 ![配图：选品决策看板](assets/product-research/01.png)

@@ -1,5 +1,7 @@
 # 想用卖家精灵做全链路调研？让 AI 替你调 43 个数据工具 —— sellersprite-amazon-research 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/sellersprite-amazon-research
+
 卖家精灵手里几十个数据工具，选品、关键词、竞品、广告、流量、定价……一个个手动调，光搞清楚入口就头大。sellersprite-amazon-research 就是干这个的：它通过卖家精灵的 43 个 MCP 数据工具，把亚马逊全链路调研打包成你能直接说的人话指令。
 
 ![配图：卖家精灵全链路调研](assets/sellersprite-amazon-research/01.png)

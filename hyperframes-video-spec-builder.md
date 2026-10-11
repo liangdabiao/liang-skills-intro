@@ -1,5 +1,7 @@
 # 拍视频前脑袋一团乱？它帮你把想法聊成一份能直接开拍的方案 —— hyperframes-video-spec-builder 介绍
 
+代码仓库：https://github.com/liangdabiao/hyperframes-fix/tree/main/skill/video-spec-builder
+
 你想做一个产品宣传片、一条抖音视频，或者一段科普动画，但真坐下来却不知道从哪说起：镜头怎么分、配什么音乐、字幕怎么动、用什么风格？很多人卡在"想法有，脚本没有"。
 
 **hyperframes-video-spec-builder 就是来解决这件事的。**

@@ -1,5 +1,7 @@
 # 模拟 HR 筛选算法，提前看简历能不能过 —— resume-matcher-agent-cn 介绍
 
+代码仓库：https://github.com/liangdabiao/resume-matcher-agent-cn
+
 中文版的「HR 批评」简历智能体。它逆向工程招聘筛选逻辑，告诉你简历里该放哪些关键词、格式有什么问题，模拟 HR 怎样筛你的简历，提前展示筛选结论。
 
 ![配图：模拟 HR 筛选算法，提前看简历能不能过](assets/resume-matcher-agent-cn/01.png)

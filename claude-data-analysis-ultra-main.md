@@ -1,5 +1,7 @@
 # 小白一键做互联网/电商数据分析 —— claude-data-analysis-ultra-main 介绍
 
+代码仓库：https://github.com/liangdabiao/claude-data-analysis-ultra-main
+
 拉新、留存、促活、转化、A/B test、用户分析……这些互联网和电商最常用的分析，被打包成 Claude Code 里的一套技能。上传数据、说一句话，分析结果就出来了，不用自己写代码。
 
 ![配图：小白一键做互联网/电商数据分析](assets/claude-data-analysis-ultra-main/01.png)

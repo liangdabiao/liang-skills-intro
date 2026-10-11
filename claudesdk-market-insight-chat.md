@@ -1,5 +1,7 @@
 # 对话式用户需求洞察与机会分析 —— claudesdk-market-insight-chat 介绍
 
+代码仓库：https://github.com/liangdabiao/claudesdk-market-insight-chat
+
 基于 Claude Agent SDK 的用户需求洞察平台：输入产品或服务，系统调用洞察技能执行三段式框架（用户画像 → 情绪洞察 → 产品机会），10 分钟产出可落地的分析。
 
 ![配图：对话式用户需求洞察与机会分析](assets/claudesdk-market-insight-chat/01.png)

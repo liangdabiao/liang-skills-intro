@@ -1,5 +1,7 @@
 # 带 Web 界面的 CrewAI 智能股票分析系统 —— crewai-stock-analysis-system 介绍
 
+代码仓库：https://github.com/liangdabiao/crewai_stock_analysis_system
+
 基于 CrewAI 搭建的股票分析系统，支持多维度分析、批量处理、实时监控和智能预警，并提供一个直观的 Web 管理界面。
 
 ![配图：带 Web 界面的 CrewAI 智能股票分析系统](assets/crewai-stock-analysis-system/01.png)

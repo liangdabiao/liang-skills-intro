@@ -1,5 +1,7 @@
 # 把飞书多维表格变成会聊天的 CRM —— lark-crm-feishu-cli 介绍
 
+代码仓库：https://github.com/liangdabiao/lark-crm-feishu-cli
+
 基于飞书 CLI 的 Agent Skill，把你的「轻型 CRM 系统」多维表格封装成对话式管理工具。不用记表名、字段和命令，用自然语言说意图就行。
 
 ![配图：把飞书多维表格变成会聊天的 CRM](assets/lark-crm-feishu-cli/01.png)

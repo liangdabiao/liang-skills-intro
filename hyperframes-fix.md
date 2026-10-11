@@ -1,5 +1,7 @@
 # 丢一篇文章，AI 一键出中文短视频 —— hyperframes-fix 介绍
 
+代码仓库：https://github.com/liangdabiao/hyperframes-fix
+
 HyperFrames 原版偏英文环境，这个项目专门做了国内适配：流畅的中文语音、新增中文短视频样式、优化整个生成流程。随便丢给它一篇文章或一个文档，横竖版快节奏短视频一键产出。
 
 ![配图：丢一篇文章，AI 一键出中文短视频](assets/hyperframes-fix/01.png)

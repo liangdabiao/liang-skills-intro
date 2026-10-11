@@ -1,5 +1,7 @@
 # AI 项目的一体化数据底座 —— ai-data-hub 介绍
 
+代码仓库：https://github.com/liangdabiao/AI_data_hub
+
 一个给 AI 项目用的数据中心，覆盖数据摄取、加工、探索、检索四大环节，整合了 MongoDB、Postgres/Supabase、Chroma/Milvus、阿里云 OSS，外加 LangChain、多模态、RAG、爬虫和 FastAPI。
 
 ![配图：AI 项目的一体化数据底座](assets/ai-data-hub/01.png)

@@ -1,5 +1,7 @@
 # 想让一个黑色小家伙帮你把文章拍成短视频？—— directing-xiaohei-videos 介绍
 
+代码仓库：https://github.com/liangdabiao/directing-xiaohei-videos
+
 刷到过那种白底手绘小动画吗？一个实心黑色的小家伙，白点眼睛、细腿、表情永远淡淡的，在纯白画布上认真做一件有点傻的事——讲"信任碎了补不回来"，它就把摔碎的碗粘好，倒水给你看水从裂缝漏出来。看的人先觉得"有点怪"，一秒后突然看懂。directing-xiaohei-videos 就是让 AI 当这种视频的导演：你给主题或文章，它交一条成片。
 
 ![配图：小黑在白画布上被导演指挥演戏](assets/directing-xiaohei-videos/01.png)

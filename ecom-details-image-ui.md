@@ -1,5 +1,7 @@
 # 一句中文 30 秒出专业电商图（免费额度版） —— ecom-details-image-ui 介绍
 
+代码仓库：https://github.com/liangdabiao/ecom-details-image-ui
+
 ecom-details-image 技能的 Web 版：用一句中文描述你的产品，30 秒拿到一张专业电商图，也能上传参考图换场景、姿态和风格。搭在 EdgeOne Makers 免费服务器上，模型、识图、生图尽量走免费额度。
 
 ![配图：一句中文 30 秒出专业电商图（免费额度版）](assets/ecom-details-image-ui/01.png)

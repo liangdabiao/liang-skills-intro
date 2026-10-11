@@ -1,5 +1,7 @@
 # 基于微软 AutoGen 的企业级金融分析系统 —— autogen-financial-analysis 介绍
 
+代码仓库：https://github.com/liangdabiao/autogen-financial-analysis
+
 用微软 AutoGen 多智能体框架搭建的企业级金融分析系统，整合多个金融数据源，能做财务分析、风险评估和量化投资分析。
 
 ![配图：基于微软 AutoGen 的企业级金融分析系统](assets/autogen-financial-analysis/01.png)

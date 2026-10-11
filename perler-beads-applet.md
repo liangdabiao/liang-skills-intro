@@ -1,5 +1,7 @@
 # 手机上随时做拼豆图纸的小程序 —— perler-beads-applet 介绍
 
+代码仓库：https://github.com/liangdabiao/perlerBeadsApplet
+
 一款基于 Taro + Vue3 开发的拼豆像素画创作小程序（基于 noir017/perlerBeadsApplet 二开），支持像素画编辑、作品管理、图片导入、图纸导出，手机上就能完成全套操作。
 
 ![配图：手机上随时做拼豆图纸的小程序](assets/perler-beads-applet/01.png)

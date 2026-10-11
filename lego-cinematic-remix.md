@@ -1,5 +1,7 @@
 # 乐高积木小人主演的 AI 动画 —— lego-cinematic-remix 介绍
 
+代码仓库：https://github.com/liangdabiao/lego-cinematic-remix
+
 让乐高积木搭成小镇、积木小人在里面演戏，再用电影镜头拍下来。你只要说一句话，比如「拍一个功夫小子被保镖追着满楼梯跑的故事」，它就自动完成整套动画制片流程。
 
 ![配图：乐高积木小人主演的 AI 动画](assets/lego-cinematic-remix/01.png)

@@ -1,5 +1,7 @@
 # 从 0 到 1 搭建 LLM 简历筛选系统 —— llm-agent-resume 介绍
 
+代码仓库：https://github.com/liangdabiao/LLM-Agent-Resume
+
 一个完整的实战案例：基于 LLM + 向量检索搭建智能简历筛选系统。上传简历、用一句话描述岗位需求，系统自动解析、检索、过滤、评分、排序，并生成候选人分析报告。
 
 ![配图：从 0 到 1 搭建 LLM 简历筛选系统](assets/llm-agent-resume/01.png)

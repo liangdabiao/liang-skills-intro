@@ -1,0 +1,4604 @@
+[
+ {
+  "name": "1000php",
+  "url": "https://github.com/liangdabiao/1000php",
+  "stars": 1,
+  "desc": "1000个PHP代码审计案例(2016.7以前乌云公开漏洞)"
+ },
+ {
+  "name": "1000UserGuide",
+  "url": "https://github.com/liangdabiao/1000UserGuide",
+  "stars": 2,
+  "desc": "1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。"
+ },
+ {
+  "name": "100_Days_100_IoT_Projects",
+  "url": "https://github.com/liangdabiao/100_Days_100_IoT_Projects",
+  "stars": 0,
+  "desc": "A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation."
+ },
+ {
+  "name": "302Sprite",
+  "url": "https://github.com/liangdabiao/302Sprite",
+  "stars": 28,
+  "desc": "精灵图生成器，适合游戏开发使用。根据单个文本提示生成游戏就绪的精灵图动画。基于 [302.ai] 构建 — 一个 API key 驱动所有功能。继承二开于：github.com/lovisdotio/falsprite"
+ },
+ {
+  "name": "52-technologies-in-2016",
+  "url": "https://github.com/liangdabiao/52-technologies-in-2016",
+  "stars": 1,
+  "desc": "Let's learn a new technology every week. A new technology blog every Sunday in 2016."
+ },
+ {
+  "name": "58HouseSearch",
+  "url": "https://github.com/liangdabiao/58HouseSearch",
+  "stars": 1,
+  "desc": "地图搜租房"
+ },
+ {
+  "name": "72crm",
+  "url": "https://github.com/liangdabiao/72crm",
+  "stars": 1,
+  "desc": "悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统"
+ },
+ {
+  "name": "ace",
+  "url": "https://github.com/liangdabiao/ace",
+  "stars": 1,
+  "desc": "Twitter bootstrap 3 admin template"
+ },
+ {
+  "name": "admin-dev",
+  "url": "https://github.com/liangdabiao/admin-dev",
+  "stars": 1,
+  "desc": "小慕读书的后台"
+ },
+ {
+  "name": "AdminLTE",
+  "url": "https://github.com/liangdabiao/AdminLTE",
+  "stars": 1,
+  "desc": "AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x"
+ },
+ {
+  "name": "advanced-go-programming-book",
+  "url": "https://github.com/liangdabiao/advanced-go-programming-book",
+  "stars": 1,
+  "desc": ":books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)"
+ },
+ {
+  "name": "after-sales-assistant",
+  "url": "https://github.com/liangdabiao/after-sales-assistant",
+  "stars": 0,
+  "desc": "LangGraph-powered after-sales agent with summary-based knowledge routing and on-demand retrieval. No vector database needed. Supports order lookup, refund and exchange workflows with built-in knowledge management panel."
+ },
+ {
+  "name": "ai-agents",
+  "url": "https://github.com/liangdabiao/ai-agents",
+  "stars": 0,
+  "desc": "异步图书 大模型应用开发 动手做AI Agent"
+ },
+ {
+  "name": "ai-baby-monitor",
+  "url": "https://github.com/liangdabiao/ai-baby-monitor",
+  "stars": 0,
+  "desc": "Local Video-LLM powered AI Baby Monitor"
+ },
+ {
+  "name": "AI-CHATBOT-Wordpress",
+  "url": "https://github.com/liangdabiao/AI-CHATBOT-Wordpress",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "ai-engineering-from-scratch",
+  "url": "https://github.com/liangdabiao/ai-engineering-from-scratch",
+  "stars": 37,
+  "desc": "2026 持续更新中 · 目标打造 「地表最强」 AI Agent 教程 ——  系统教程 + 可跑源码. 市面上 AI 大模型应用内容很多，但绝大多数是碎片化帖子、收费训练营等；本仓库就是让你不用先花大几千甚至上万，也能系统进入大模型应用开发。Learn it. Build it. Ship it for others."
+ },
+ {
+  "name": "AI-generated-English-podcast-videos",
+  "url": "https://github.com/liangdabiao/AI-generated-English-podcast-videos",
+  "stars": 176,
+  "desc": "一键生成英文教育短视频 - 自动生成双人流畅对话、语音讲解、教育单词图片。AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one click, download videos, learn English, and share on TikTok."
+ },
+ {
+  "name": "AI-Image-Description",
+  "url": "https://github.com/liangdabiao/AI-Image-Description",
+  "stars": 0,
+  "desc": "AI Image Description Generator  accurately extracts the key elements from images and interprets the creative purposes behind them, which can be applied in fields such as scientific research, artistic creation, and the mutual search between images and texts."
+ },
+ {
+  "name": "ai-investor",
+  "url": "https://github.com/liangdabiao/ai-investor",
+  "stars": 17,
+  "desc": "\"@openai/agents\" 技术的Insight 洞察 - AI 用户需求洞察分析师  一个基于三段式用户洞察框架的 AI 分析工具。输入你的产品或服务，AI 洞察分析师会用 10 分钟完成传统方法需要数周的用户洞察分析。"
+ },
+ {
+  "name": "ai-make-face-meme",
+  "url": "https://github.com/liangdabiao/ai-make-face-meme",
+  "stars": 59,
+  "desc": "NanoMotion 是一个基于 Next.js 15 的 Web 应用：上传一张图片，自动通过 apiz.ai（fal-ai/nano-banana-2）并行生成 12 帧定格动画。在浏览器内即可预览、调速、拖拽重排、并一键导出 GIF——全程无需后端二次处理。 "
+ },
+ {
+  "name": "AI-Marketing-Army-Tester",
+  "url": "https://github.com/liangdabiao/AI-Marketing-Army-Tester",
+  "stars": 3,
+  "desc": ""
+ },
+ {
+  "name": "ai-passport-ancient-poets",
+  "url": "https://github.com/liangdabiao/ai-passport-ancient-poets",
+  "stars": 0,
+  "desc": "古代诗人生存手册 —— 三个键的手持机上活过十五个回合  三个按键的掌机上的离线经营游戏。从**六位中国历史诗人**里选一位，然后让**六项属性**撑过 **十五个回合**，每回合从十三个行动里选一个做。多数行动会抽一道关于诗词、仕途或生计的题， 答对给的比答错多。每回合结束都有一次事件，任何一项属性归零这一局就结束。全部 520 道题、 174 段朗诵与所有表都在设备里"
+ },
+ {
+  "name": "ai-passport-qiaopi",
+  "url": "https://github.com/liangdabiao/ai-passport-qiaopi",
+  "stars": 2,
+  "desc": "ai-passport-qiaopi ，侨批游戏"
+ },
+ {
+  "name": "ai-passport-sanzijing",
+  "url": "https://github.com/liangdabiao/ai-passport-sanzijing",
+  "stars": 0,
+  "desc": "ai-passport-sanzijing,三字经儿童学习游戏  游戏内置三档未压缩的 LVGL 点阵子集，保证用户能看到的每一个字都由我们可控的字库绘制"
+ },
+ {
+  "name": "ai-passport-VibeGame",
+  "url": "https://github.com/liangdabiao/ai-passport-VibeGame",
+  "stars": 1,
+  "desc": "ai-passport game skill :VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Native game engine that turns your natural language into a fully playable 2D web game and edit it any way you want, built on Claude Code & Codex."
+ },
+ {
+  "name": "ai-passport-weiqi",
+  "url": "https://github.com/liangdabiao/ai-passport-weiqi",
+  "stars": 1,
+  "desc": "围棋闯关 —— 三键设备上的围棋升级之路  一台三键手持设备上的离线围棋解谜闯关：**7 章 154 关**，从认识第一口气，到吃子手筋、 对杀收官，再到劫争。每一张棋盘、每一条正解路径、每一道题都装在设备里..关卡改编自网页版《围棋闯关》—— 那个游戏从 online-go.com 的 LearningHub 教程抽取而来。 设备版沿用它的章节阶梯与三星评分，关卡数据由派生它的网页游戏供给。"
+ },
+ {
+  "name": "ai-passport-xiaoliuren",
+  "url": "https://github.com/liangdabiao/ai-passport-xiaoliuren",
+  "stars": 0,
+  "desc": "FoloToy AI Passport 小六壬离线硬件应用"
+ },
+ {
+  "name": "ai-picture-editor",
+  "url": "https://github.com/liangdabiao/ai-picture-editor",
+  "stars": 2,
+  "desc": " AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI 修图智能体，支持自然语言驱动修图、21 种编辑工具、文生图、智能抠图、图层拆分、区域编辑、多步计划。覆盖 AI Agent 架构、SSE 实时推送、异步任务队列、Canvas 画布引擎。用一套教程掌握 AI Agent 全栈开发，不到一周学完，给你的简历增加竞争力"
+ },
+ {
+  "name": "ai-plugin",
+  "url": "https://github.com/liangdabiao/ai-plugin",
+  "stars": 0,
+  "desc": "An AI integration layer for WordPress"
+ },
+ {
+  "name": "AiLearning-Theory-Applying",
+  "url": "https://github.com/liangdabiao/AiLearning-Theory-Applying",
+  "stars": 1,
+  "desc": "快速上手Ai理论及应用实战：基础知识、ML、DL、NLP-BERT、竞赛。含大量注释及数据集，力求每一位能看懂并复现。"
+ },
+ {
+  "name": "aipath",
+  "url": "https://github.com/liangdabiao/aipath",
+  "stars": 0,
+  "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+ },
+ {
+  "name": "AI_data_hub",
+  "url": "https://github.com/liangdabiao/AI_data_hub",
+  "stars": 20,
+  "desc": "AI项目适用的数据中心，功能：Ingestion（数据摄取）  Transform（数据加工） Explore（探索分析）  Retrieve（查询检索）。整合各种数据库：mongo_db，postgres_db /Supabase , Chroma/Milvus, 整合langchain,langragh. 整合图片多模态/图片搜索  ，ALIYUN_OSS。整合RAG和基础agent。整合爬虫功能.整合FastAPI"
+ },
+ {
+  "name": "ai_tools_hot_now",
+  "url": "https://github.com/liangdabiao/ai_tools_hot_now",
+  "stars": 1,
+  "desc": "针对2025年目前的ai工具进行全面数据分析"
+ },
+ {
+  "name": "aliexapi",
+  "url": "https://github.com/liangdabiao/aliexapi",
+  "stars": 2,
+  "desc": "Aliexpress Affiliate API"
+ },
+ {
+  "name": "aliexpress-amazon-and-ebay-product-sales-calwer",
+  "url": "https://github.com/liangdabiao/aliexpress-amazon-and-ebay-product-sales-calwer",
+  "stars": 2,
+  "desc": "阿里速卖通-亚马逊-易贝网的商品销量抓取及统计程序"
+ },
+ {
+  "name": "amazon-ad-workbench",
+  "url": "https://github.com/liangdabiao/amazon-ad-workbench",
+  "stars": 4,
+  "desc": "Open-source Amazon advertising analysis workbench centered on sellerSKU"
+ },
+ {
+  "name": "amazon-image-studio",
+  "url": "https://github.com/liangdabiao/amazon-image-studio",
+  "stars": 2,
+  "desc": ""
+ },
+ {
+  "name": "amazon-listing-alexa-optimizer",
+  "url": "https://github.com/liangdabiao/amazon-listing-alexa-optimizer",
+  "stars": 34,
+  "desc": "amazon skill : 一个用于在 **Alexa for Shopping / AI 购物时代**下，对亚马逊 Listing 做全面检查与优化的 Skill。核心目标：  > 让 Listing 从\"关键词堆砌\"升级为\"可理解的商品信号\"，使 AI 导购能**理解、引用、比较并推荐**该产品。"
+ },
+ {
+  "name": "amazon-scraper-python",
+  "url": "https://github.com/liangdabiao/amazon-scraper-python",
+  "stars": 2,
+  "desc": "Non-official client to get some info about products sold on Amazon"
+ },
+ {
+  "name": "amazon-scrapy",
+  "url": "https://github.com/liangdabiao/amazon-scrapy",
+  "stars": 1,
+  "desc": "Scrapy the  detail and lowest price of amazon  best seller product by python spider"
+ },
+ {
+  "name": "Amazon-Skills-Liang",
+  "url": "https://github.com/liangdabiao/Amazon-Skills-Liang",
+  "stars": 76,
+  "desc": "在nexscope-ai/Amazon-Skills的基础上二次开发，适合中国卖家更加深度更加方便的进行深度数据分析，加很多料"
+ },
+ {
+  "name": "amazon-sorftime-research-MCP-skill",
+  "url": "https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill",
+  "stars": 962,
+  "desc": "亚马逊选品 之 Listing全维度穿透分析报告  加上 全品类分析 ，关键词分析，差评分析 ，市场调研 等等。codex/claude code agent skill, amazon sorftime  MCP/西柚mcp/sif mcp/卖家精灵sellersprite 智能体skill.   亚马逊跨境电商skill工具集。"
+ },
+ {
+  "name": "AmazonBigSpider",
+  "url": "https://github.com/liangdabiao/AmazonBigSpider",
+  "stars": 1,
+  "desc": "Distributed GoAmazon Spider Support UAS/Japan/Germany/UK, Amazing!亚马逊超级大爬虫，四个站点无缝抓取，几百万数据哗哗而来，小类数据可选不需要代理IP，但要详情页的数据需要至少两千个，但仍然高于回报！附带Dashbord，爬虫监控，权限控制，是一个大型BI产品"
+ },
+ {
+  "name": "Android-Best-Practices",
+  "url": "https://github.com/liangdabiao/Android-Best-Practices",
+  "stars": 2,
+  "desc": "Android最佳实践示例"
+ },
+ {
+  "name": "android-ip-camera",
+  "url": "https://github.com/liangdabiao/android-ip-camera",
+  "stars": 2,
+  "desc": "An Android MJPEG / H.264 IP Camera app"
+ },
+ {
+  "name": "angular-phonecat",
+  "url": "https://github.com/liangdabiao/angular-phonecat",
+  "stars": 1,
+  "desc": "Tutorial on building an angular application."
+ },
+ {
+  "name": "angular-seed",
+  "url": "https://github.com/liangdabiao/angular-seed",
+  "stars": 1,
+  "desc": "Seed project for angular apps. "
+ },
+ {
+  "name": "angular-yeoman-todos",
+  "url": "https://github.com/liangdabiao/angular-yeoman-todos",
+  "stars": 1,
+  "desc": "Backand todos for Angular with yeoman"
+ },
+ {
+  "name": "AngularJS-Learning",
+  "url": "https://github.com/liangdabiao/AngularJS-Learning",
+  "stars": 1,
+  "desc": "A bunch of links to blog posts, articles, videos, etc for learning AngularJS"
+ },
+ {
+  "name": "AngularjsTutorial_cn",
+  "url": "https://github.com/liangdabiao/AngularjsTutorial_cn",
+  "stars": 1,
+  "desc": "AngularJS入门教程——AngularJS中文社区提供"
+ },
+ {
+  "name": "angularyii2.github.io",
+  "url": "https://github.com/liangdabiao/angularyii2.github.io",
+  "stars": 1,
+  "desc": "app AngularJS"
+ },
+ {
+  "name": "animated-voiceover",
+  "url": "https://github.com/liangdabiao/animated-voiceover",
+  "stars": 1,
+  "desc": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows."
+ },
+ {
+  "name": "AntigenWechatBot",
+  "url": "https://github.com/liangdabiao/AntigenWechatBot",
+  "stars": 1,
+  "desc": "AntigenWechatBot is a wechat bot that collects antigen information of daily antigen testing during the Pandamic in Shanghai."
+ },
+ {
+  "name": "api",
+  "url": "https://github.com/liangdabiao/api",
+  "stars": 1,
+  "desc": "A RESTful API package for the Laravel framework."
+ },
+ {
+  "name": "api-relay",
+  "url": "https://github.com/liangdabiao/api-relay",
+  "stars": 1,
+  "desc": "一键免费部署到 EdgeOne Makers 的 API 中转站"
+ },
+ {
+  "name": "api-server",
+  "url": "https://github.com/liangdabiao/api-server",
+  "stars": 1,
+  "desc": "OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。"
+ },
+ {
+  "name": "apiz-skill",
+  "url": "https://github.com/liangdabiao/apiz-skill",
+  "stars": 29,
+  "desc": "国内电商skill: 国内可以访问api，费用正常不贵，功能齐全（生图生视频生语音），世界最好的AI集合，apiz服务达到可用。本 Skill 封装了 [apiz.ai](https://apiz.ai) API 网关服务的 CLI 工具使用，让 Claude 能够通过 apiz 访问数百种主流 AI 模型，涵盖**图像生成、视频生成、音频处理**等能力。目标是方便 agent 直接理解和使用 apiz，而无需查询接口和参数。"
+ },
+ {
+  "name": "appflowy",
+  "url": "https://github.com/liangdabiao/appflowy",
+  "stars": 1,
+  "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust."
+ },
+ {
+  "name": "ArcReel",
+  "url": "https://github.com/liangdabiao/ArcReel",
+  "stars": 1,
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI"
+ },
+ {
+  "name": "arnis",
+  "url": "https://github.com/liangdabiao/arnis",
+  "stars": 0,
+  "desc": "Generate any location from the real world in Minecraft Java Edition with a high level of detail."
+ },
+ {
+  "name": "Ashuwp_framework",
+  "url": "https://github.com/liangdabiao/Ashuwp_framework",
+  "stars": 1,
+  "desc": "Wordpress theme options framework."
+ },
+ {
+  "name": "Auto-GPT-YouTube-Prototype",
+  "url": "https://github.com/liangdabiao/Auto-GPT-YouTube-Prototype",
+  "stars": 0,
+  "desc": "How To Automate YouTube Workflow With ChatGPT Automation"
+ },
+ {
+  "name": "autogen-financial-analysis",
+  "url": "https://github.com/liangdabiao/autogen-financial-analysis",
+  "stars": 162,
+  "desc": "一个基于微软AutoGen框架的企业级金融分析系统，使用多Agent架构提供全面的财务分析、风险评估和量化投资分析功能。 核心功能: 多源数据收集 : 整合Yahoo Finance、Alpha Vantage、Quandl等多个金融数据源, 智能财务分析 : 基于AutoGen的多Agent协作分析, 风险评估 : VaR计算、压力测试、蒙特卡洛模拟, 量化分析 : 因子模型、投资组合优化、机器学习预测, 实时监控 : 系统性能监控和告警, 数据可视化 : 交互式图表和报告生成,"
+ },
+ {
+  "name": "automa",
+  "url": "https://github.com/liangdabiao/automa",
+  "stars": 0,
+  "desc": "A browser extension for automating your browser by connecting blocks"
+ },
+ {
+  "name": "auto_job__find__chatgpt__rpa",
+  "url": "https://github.com/liangdabiao/auto_job__find__chatgpt__rpa",
+  "stars": 0,
+  "desc": "This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China."
+ },
+ {
+  "name": "awesome-harness-engineering",
+  "url": "https://github.com/liangdabiao/awesome-harness-engineering",
+  "stars": 0,
+  "desc": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration."
+ },
+ {
+  "name": "awesome-LangGraph",
+  "url": "https://github.com/liangdabiao/awesome-LangGraph",
+  "stars": 0,
+  "desc": "An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps."
+ },
+ {
+  "name": "awesome-seedance",
+  "url": "https://github.com/liangdabiao/awesome-seedance",
+  "stars": 0,
+  "desc": "🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with public verdicts, 25 copy-ready templates, 50+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語."
+ },
+ {
+  "name": "A_Share_investment_Agent_langgraph_crewai",
+  "url": "https://github.com/liangdabiao/A_Share_investment_Agent_langgraph_crewai",
+  "stars": 1,
+  "desc": ""
+ },
+ {
+  "name": "backbone",
+  "url": "https://github.com/liangdabiao/backbone",
+  "stars": 1,
+  "desc": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+ },
+ {
+  "name": "bagisto",
+  "url": "https://github.com/liangdabiao/bagisto",
+  "stars": 1,
+  "desc": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business."
+ },
+ {
+  "name": "bagisto-docs",
+  "url": "https://github.com/liangdabiao/bagisto-docs",
+  "stars": 1,
+  "desc": "Bagisto Development and API Documentation:"
+ },
+ {
+  "name": "Baileys",
+  "url": "https://github.com/liangdabiao/Baileys",
+  "stars": 0,
+  "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API"
+ },
+ {
+  "name": "bailian_ai_chatbox",
+  "url": "https://github.com/liangdabiao/bailian_ai_chatbox",
+  "stars": 7,
+  "desc": "基于阿里云百练的chatbox聊天客服，前后端代码，极简但是足够完整的功能，流式响应,Markdown 支持。就是2个文件实现一个客服AI!"
+ },
+ {
+  "name": "bbs-saas-skeleton",
+  "url": "https://github.com/liangdabiao/bbs-saas-skeleton",
+  "stars": 2,
+  "desc": "主要是想通过介绍怎样利用laravel做一个bbs论坛SaaS的案例，来介绍SaaS技术方案。"
+ },
+ {
+  "name": "beikeshop",
+  "url": "https://github.com/liangdabiao/beikeshop",
+  "stars": 0,
+  "desc": "🔥🔥🔥 Laravel Ecommerce Laravel Shop BeikeShop商城 多语言商城 多货币商城 100%全开源 ChatGPT OpenAI B2C商城系统 H5商城 PHP商城系统 商城源码 PC商城 跨境电商系统 跨境商城系统 电商商城系统 Laravel 9 框架开发系统，支持插件市场。 Event 机制实现Hook功能，自定义可视化装修。BeikeShop一款开源好用的跨境电商系统，由成都光大网络科技开发维护 QQ交流群 639108380"
+ },
+ {
+  "name": "BettaFish",
+  "url": "https://github.com/liangdabiao/BettaFish",
+  "stars": 1,
+  "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+ },
+ {
+  "name": "beyond_popular_science",
+  "url": "https://github.com/liangdabiao/beyond_popular_science",
+  "stars": 0,
+  "desc": "This book contains 50 standalone chapters, each exploring a curious phenomenon at the boundary of physics, mathematics, cosmology, biology, computer science, history, and linguistics. Topics range from why gold is yellow (relativistic quantum chemistry) to whether the universe is a "
+ },
+ {
+  "name": "blog",
+  "url": "https://github.com/liangdabiao/blog",
+  "stars": 0,
+  "desc": "互联网是有记忆的，我想留下一些成长的脚印。"
+ },
+ {
+  "name": "blogjs",
+  "url": "https://github.com/liangdabiao/blogjs",
+  "stars": 0,
+  "desc": "BlogJS is a simple blog application built with AngularJS, Node.js and MongoDB. Creates your article and shares them in a beautiful minimalistic template."
+ },
+ {
+  "name": "boardgame-io-skill",
+  "url": "https://github.com/liangdabiao/boardgame-io-skill",
+  "stars": 14,
+  "desc": "boardgame-io Skill  一个指导 Codex/Workbuddy/ZCode 等Agent 使用 [boardgame.io](https://boardgame.io)（v0.50.x）开发回合制 游戏的 skill。触发后，模型会按照经过实战验证的工作流、API 精要和项目模板 来创建游戏，而不是凭训练记忆写代码——避免过时 API、隐蔽的状态管理坑和 不可用的 UI 接线。"
+ },
+ {
+  "name": "BocchiBot",
+  "url": "https://github.com/liangdabiao/BocchiBot",
+  "stars": 0,
+  "desc": "BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!"
+ },
+ {
+  "name": "book-of-ebussiness",
+  "url": "https://github.com/liangdabiao/book-of-ebussiness",
+  "stars": 2,
+  "desc": "关于电商数字化的笔记"
+ },
+ {
+  "name": "BookStack",
+  "url": "https://github.com/liangdabiao/BookStack",
+  "stars": 0,
+  "desc": "A platform to create documentation/wiki content built with PHP & Laravel"
+ },
+ {
+  "name": "bootstrap",
+  "url": "https://github.com/liangdabiao/bootstrap",
+  "stars": 0,
+  "desc": "Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!"
+ },
+ {
+  "name": "brewreel",
+  "url": "https://github.com/liangdabiao/brewreel",
+  "stars": 0,
+  "desc": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。"
+ },
+ {
+  "name": "brick-mosaic-skill",
+  "url": "https://github.com/liangdabiao/brick-mosaic-skill",
+  "stars": 3,
+  "desc": "把任意图片转换成乐高(LEGO)积木马赛克像素画，使用官方乐高 Art 套装配色，生成预览图、SVG 拼搭说明书和零件采购清单；支持 AI 风格优化（效果不好时用 imageGen 图片编辑强化主体后再生成）。用户提到 乐高马赛克、LEGO mosaic、像素画、积木拼图、brick art、把照片/头像转成乐高风、马赛克拼搭说明书、用乐高套装拼人像、AI 优化像素画 等意图时使用——即使用户只是发一张图片说\"做成像素风\"或\"乐高风格\"也应触发。"
+ },
+ {
+  "name": "Brickify-Lab",
+  "url": "https://github.com/liangdabiao/Brickify-Lab",
+  "stars": 0,
+  "desc": "Brickify Lab is a website to transform any image into a 48x48 pixel LEGO mosaic "
+ },
+ {
+  "name": "brickMosaic",
+  "url": "https://github.com/liangdabiao/brickMosaic",
+  "stars": 6,
+  "desc": " 本应用参考了Christoph Fritzsch开源项目 custombrickmosaic.github.io 进行大量深度定制开发，目前已经达到适应大部分图片生成像素画，还带有功能完全一致的微信小程序版本。用户可以在手机上完成从图片上传到下载说明书的全部流程，所有计算均在客户端完成，图片不会上传到任何服务器。"
+ },
+ {
+  "name": "Bright-Data-MCP-Claude-Skill-deep-research",
+  "url": "https://github.com/liangdabiao/Bright-Data-MCP-Claude-Skill-deep-research",
+  "stars": 53,
+  "desc": "针对 电商渠道或者更多平台 进行 深度调研： 这次利用了claude code , mcp, skill，bright data 等技术。 我现在把这2个热门技术结合起来，打造一个： 【开源】利用Bright Data’s MCP 的 Claude Code Skill 实现 深度电商平台调研 deep research ！ 助佬发达！"
+ },
+ {
+  "name": "build-web-application-with-golang",
+  "url": "https://github.com/liangdabiao/build-web-application-with-golang",
+  "stars": 0,
+  "desc": "A golang ebook intro how to build a web with golang"
+ },
+ {
+  "name": "Business_Idea_Validator",
+  "url": "https://github.com/liangdabiao/Business_Idea_Validator",
+  "stars": 165,
+  "desc": "这是一种 AI 驱动的工具，可通过自动 Web 抓取和智能分析来验证业务概念。该系统通过分析在线讨论和生成评分验证报告来评估市场需求、竞争水平和可行性。 这是一款专业的商业调研应用程序，为用户提供友好的界面来：1.验证商业创意 ， 2.分析用户评论。 该应用通过分析网络讨论，识别与您商业创意相关的痛点、兴奋信号和竞争对手。 分析用户评论,得出多维度商业数据分析。"
+ },
+ {
+  "name": "c-shopping-weapp",
+  "url": "https://github.com/liangdabiao/c-shopping-weapp",
+  "stars": 0,
+  "desc": "Based on the react ecosystem and using the taro framework, a complete WeChat applet application is developed, a beautiful e-commerce shopping application. 基于react生态，使用taro框架下，开发的完整微信小程序应用，一个精美的电商购物应用。"
+ },
+ {
+  "name": "campus-imaotai",
+  "url": "https://github.com/liangdabiao/campus-imaotai",
+  "stars": 0,
+  "desc": "i茅台app自动预约，每日自动预约，支持docker一键部署"
+ },
+ {
+  "name": "CaptiPrep",
+  "url": "https://github.com/liangdabiao/CaptiPrep",
+  "stars": 2,
+  "desc": "“用任何英文内容学语言”。无论是 YouTube 字幕、任意网页文章、划选的一段文字，还是自己粘贴的文本，CaptiPrep 都会在正式阅读/观看之前，先把生词与表达做成学习卡片；完成预习后再回到原文，借助真实上下文强化记忆。这样的 Contextual learning（基于上下文情境的学习）能事半功倍，让学习变得有趣且“无痛”。"
+ },
+ {
+  "name": "Carbon-Forum",
+  "url": "https://github.com/liangdabiao/Carbon-Forum",
+  "stars": 0,
+  "desc": "A high performance open-source forum software written in PHP. Which based on tags, like stackoverflow. "
+ },
+ {
+  "name": "cat-daily-public",
+  "url": "https://github.com/liangdabiao/cat-daily-public",
+  "stars": 0,
+  "desc": "手把手教你把摄像头接入WorkBuddy：宠物看护项目零基础100%复刻教程，可拓展多应用场景"
+ },
+ {
+  "name": "cd-it-job",
+  "url": "https://github.com/liangdabiao/cd-it-job",
+  "stars": 0,
+  "desc": "针对成都IT小伙伴们的工作（招聘，求职）交流的微信订阅号项目。"
+ },
+ {
+  "name": "Centcount-Analytics",
+  "url": "https://github.com/liangdabiao/Centcount-Analytics",
+  "stars": 0,
+  "desc": "An open-source web analytics software. Developed by PHP + MySQL + Redis, Can be easily deployed on your own server, 100% data ownership. "
+ },
+ {
+  "name": "chatbot-api",
+  "url": "https://github.com/liangdabiao/chatbot-api",
+  "stars": 0,
+  "desc": "《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。"
+ },
+ {
+  "name": "chatgpt",
+  "url": "https://github.com/liangdabiao/chatgpt",
+  "stars": 0,
+  "desc": "uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！"
+ },
+ {
+  "name": "ChatGPT-Admin-Web",
+  "url": "https://github.com/liangdabiao/ChatGPT-Admin-Web",
+  "stars": 0,
+  "desc": "带有用户管理和后台管理系统的 ChatGPT WebUI"
+ },
+ {
+  "name": "chatgpt-chatAI-MP",
+  "url": "https://github.com/liangdabiao/chatgpt-chatAI-MP",
+  "stars": 0,
+  "desc": "chatgpt问答微信小程序，chatAI-MP是基于TP5+Uniapp+VUE开发，基于各大AI大语言模型API实现的AI助手开源解决方案，已集成ChatGPT、文心一言、通义千问、360智脑、ChatGLM（清华旗下）、讯飞星火等人工智能技术，开源版支持PC、微信小程序等多端，微信接口安全审核机制。部署后即为SAAS系统，可无限搭建小程序、PC平台。"
+ },
+ {
+  "name": "ChatGPT-Java-FunAi",
+  "url": "https://github.com/liangdabiao/ChatGPT-Java-FunAi",
+  "stars": 0,
+  "desc": "ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑  + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。接入文生图模型MidJourney / Stable Diffusion Model。智能客服/企业级知识库。APIKey额度精准查询 + 失效检测。AI游戏 + 专属于AI的社交平台"
+ },
+ {
+  "name": "ChatGPT-MP",
+  "url": "https://github.com/liangdabiao/ChatGPT-MP",
+  "stars": 0,
+  "desc": "（**AI落地接单中，欢迎咨询**）基于ChatGPT实现的微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。"
+ },
+ {
+  "name": "chatgpt-on-wechat",
+  "url": "https://github.com/liangdabiao/chatgpt-on-wechat",
+  "stars": 0,
+  "desc": "Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。"
+ },
+ {
+  "name": "chatgpt-ui",
+  "url": "https://github.com/liangdabiao/chatgpt-ui",
+  "stars": 0,
+  "desc": "A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts."
+ },
+ {
+  "name": "chatgpt-ui-server",
+  "url": "https://github.com/liangdabiao/chatgpt-ui-server",
+  "stars": 0,
+  "desc": "A ChatGPT UI server based on the Django framework."
+ },
+ {
+  "name": "ChatGPT-Web",
+  "url": "https://github.com/liangdabiao/ChatGPT-Web",
+  "stars": 0,
+  "desc": "使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask"
+ },
+ {
+  "name": "chatgpt-web-plus",
+  "url": "https://github.com/liangdabiao/chatgpt-web-plus",
+  "stars": 0,
+  "desc": "chatgpt-web-plus"
+ },
+ {
+  "name": "ChatGPTAPIFree",
+  "url": "https://github.com/liangdabiao/ChatGPTAPIFree",
+  "stars": 0,
+  "desc": "A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!"
+ },
+ {
+  "name": "ChatGTP-uni",
+  "url": "https://github.com/liangdabiao/ChatGTP-uni",
+  "stars": 1,
+  "desc": "基于uniapp开发的ChatGPT模版，微信M-Nanyu"
+ },
+ {
+  "name": "china-heritage-3d",
+  "url": "https://github.com/liangdabiao/china-heritage-3d",
+  "stars": 1,
+  "desc": "这是我用 Fable 5 设计的中国古建筑网站"
+ },
+ {
+  "name": "ChinaTextbookStudyFree",
+  "url": "https://github.com/liangdabiao/ChinaTextbookStudyFree",
+  "stars": 1,
+  "desc": "给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。"
+ },
+ {
+  "name": "claude-agent-sdk-demos",
+  "url": "https://github.com/liangdabiao/claude-agent-sdk-demos",
+  "stars": 2,
+  "desc": "梁工教育版本：全面解读 Claude Code SDK Demos"
+ },
+ {
+  "name": "Claude-Code-Deep-Research",
+  "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research",
+  "stars": 0,
+  "desc": "I created a claude code deep researcher that seems to work better than the current deep research models"
+ },
+ {
+  "name": "Claude-Code-Deep-Research-main",
+  "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main",
+  "stars": 290,
+  "desc": "利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。简化版：https://github.com/liangdabiao/deep-research-agent-skill"
+ },
+ {
+  "name": "Claude-Code-Stock-Deep-Research-Agent",
+  "url": "https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent",
+  "stars": 374,
+  "desc": "本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSearch、WebFetch、综合分析 质量: 多空平衡、明确风险、数据验证。简单使用：/stock-research AAPL, I want a quick overview"
+ },
+ {
+  "name": "claude-data-analysis",
+  "url": "https://github.com/liangdabiao/claude-data-analysis",
+  "stars": 442,
+  "desc": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
+ },
+ {
+  "name": "claude-data-analysis-ultra",
+  "url": "https://github.com/liangdabiao/claude-data-analysis-ultra",
+  "stars": 3,
+  "desc": "基于claude code的数据分析框架"
+ },
+ {
+  "name": "claude-data-analysis-ultra-main",
+  "url": "https://github.com/liangdabiao/claude-data-analysis-ultra-main",
+  "stars": 291,
+  "desc": "让小白都可以一键进行数据分析，搞互联网的，搞电商的，搞各种各样的，那么其实就会用到 互联网的数据分析， 例如互联网会关心 拉新，留存，促活，推荐，转化，A/B test, 用户分析 等等很多有用的数据分析。  "
+ },
+ {
+  "name": "Claude-of-Duty",
+  "url": "https://github.com/liangdabiao/Claude-of-Duty",
+  "stars": 0,
+  "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
+ },
+ {
+  "name": "claude-skills",
+  "url": "https://github.com/liangdabiao/claude-skills",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "claudesdk-amazon-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-amazon-chat",
+  "stars": 12,
+  "desc": "亚马逊竞品Listing全维度穿透分析工具  对亚马逊竞品进行深度分析，包括文案逻辑、评论情感、关键词布局、市场动态等，生成专业竞品情报报告并自动保存为文档。"
+ },
+ {
+  "name": "claudesdk-amazon-skills-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-amazon-skills-chat",
+  "stars": 42,
+  "desc": "基于 **Claude Agent SDK** 的亚马逊卖家全链路 AI 助手。集成 **54 个专业技能**，通过自然语言对话即可完成选品调研、关键词挖掘、Listing 优化、FBA 费用计算、PPC 广告等全链路工作。  ## 架构  ``` 用户浏览器 ←WebSocket→ Express Server ←→ Claude Agent SDK ←→ 54 个 Amazon Skills"
+ },
+ {
+  "name": "claudesdk-data-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-data-chat",
+  "stars": 4,
+  "desc": "通过自然语言对话完成专业数据分析的 Web 应用。基于 Claude Agent SDK 构建，内置 19 个数据分析技能，支持上传 CSV/Excel 文件，AI 自主编写并执行 Python 代码，输出图表和分析报告。"
+ },
+ {
+  "name": "claudesdk-deep-research-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-deep-research-chat",
+  "stars": 7,
+  "desc": "基于 **Claude Agent SDK** 的多 Agent 并行深度研究平台。用户输入研究问题后，系统自动调度 deep-research 主 Agent，部署 1-10 个并行研究子 Agent，使用 web_search + web_fetch + Playwright 进行独立研究，最终综合撰写完整报告并自动添加来源引用。"
+ },
+ {
+  "name": "claudesdk-ecom-image-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-ecom-image-chat",
+  "stars": 23,
+  "desc": "AI 电商视觉创作助手  基于 **Claude Agent SDK** 构建的 AI 电商视觉创作 Web 应用。用户通过自然语言描述产品信息，AI 自动匹配 25 个电商场景模板，生成专业的图片 Prompt，并可选调用 GPT-Image-2 API 直接生成商品图片。"
+ },
+ {
+  "name": "claudesdk-exa-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-exa-chat",
+  "stars": 13,
+  "desc": "基于 **Claude Agent SDK** + **Exa 搜索引擎**的 AI 搜索研究平台。集成企业调研、外贸市场分析、竞品研究等专业技能，通过对话交互执行多维度搜索和深度分析，生成结构化调研报告。  ## 架构  ``` 用户浏览器 ←WebSocket→ Express Server ←→ Claude Agent SDK ←→ Exa Skills (MCP)"
+ },
+ {
+  "name": "claudesdk-financial-chart-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-financial-chart-chat",
+  "stars": 16,
+  "desc": "基于 Claude Agent SDK 的 AI 财经图表对话助手。用户通过自然语言对话，自动查询 A 股上市公司财务数据并生成专业分析图表。  ## 功能特性  - **自然语言交互** — 输入公司名或分析需求，AI 自动解析意图并执行 - **6 种专业图表** — 营收净利润、毛利率、季度趋势、同行对比、饼图对比、多线趋势 - **实时数据获取** — Baostock 主方案（自有服务器稳定）+ akshare 自动降级 - **图表库管理** — 侧边栏实时展示已生成的图表，支持预览与下载 - **执行日志** — 右侧面板实时显示 AI 工具调用过程 - **文件上传** — 支持上传 CSV/Excel 等数据文件进行自定义图表生成"
+ },
+ {
+  "name": "claudesdk-geo-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-geo-chat",
+  "stars": 9,
+  "desc": "AI GEO 内容优化分析助手  基于 **Claude Agent SDK** 的 GEO（Generative Engine Optimization）内容优化分析平台。用户输入 URL，系统自动调用 `geo-content-optimizer` 技能，执行 6 阶段分析流水线，最终生成中文内容优化建议报告。"
+ },
+ {
+  "name": "claudesdk-market-insight-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-market-insight-chat",
+  "stars": 15,
+  "desc": "用户需求洞察与产品机会分析  基于 **Claude Agent SDK** 的用户需求洞察平台。用户输入产品/服务描述后，系统调用 `insight` 技能执行三段式洞察框架（用户画像 → 情绪洞察 → 产品机会），10分钟内完成传统方法需要数周的深度分析。"
+ },
+ {
+  "name": "claudesdk-research-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-research-chat",
+  "stars": 9,
+  "desc": "AI 深度研究助手  基于 **Claude Agent SDK** 的多 Agent 并行深度研究平台。用户输入研究问题后，系统自动调度 5 个专业研究技能，执行从问题细化、多路并行调研、综合验证到报告生成的全流程。"
+ },
+ {
+  "name": "claudesdk-review-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-review-chat",
+  "stars": 9,
+  "desc": "AI 电商评论分析助手  基于 **Claude Agent SDK** 的电商评论深度分析平台。用户上传 CSV/Excel 评论文件，系统自动调用 `simple-review-analyzer` 技能，执行 22 维度智能标签、用户画像识别、VOC 洞察和可视化看板生成。"
+ },
+ {
+  "name": "claudesdk-seedance-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-seedance-chat",
+  "stars": 30,
+  "desc": " AI 视频脚本创作助手  通过自然语言对话生成专业 Seedance 2.0 视频脚本和分镜提示词的 Web 应用。基于 Claude Agent SDK 构建，内置完整的视频脚本创作技能，支持从故事分析到分镜脚本的全流程 AI 创作。"
+ },
+ {
+  "name": "claudesdk-skill",
+  "url": "https://github.com/liangdabiao/claudesdk-skill",
+  "stars": 35,
+  "desc": "探索 Claude Agent SDK 能力的实验项目。通过 Skill 系统让 AI 理解 SDK 文档，进而自主构建了一个 TikHub 社交媒体数据对话助手。  本项目是利用 .claude/skills/claude-agent-sdk 建立 claude-agent-sdk 项目， 项目基于 https://github.com/liangdabiao/tikhub_api_skill  tikhub skill 封装成 webapp。 "
+ },
+ {
+  "name": "claudesdk-social-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-social-chat",
+  "stars": 9,
+  "desc": "AI 社交媒体研究助手  基于 **Claude Agent SDK** + **TikHub API** 的 AI 社交媒体深度研究平台。集成 14 个社媒平台数据访问能力 + Web 深度研究技能，支持多 Agent 并行研究、自动引用标注，生成结构化研究报告。"
+ },
+ {
+  "name": "claudesdk-stock-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-stock-chat",
+  "stars": 8,
+  "desc": "基于 **Claude Agent SDK** 构建的 AI 股票投资调研 Web 应用。用户输入股票名称或代码，AI 自动触发 7 个专业投资研究技能，执行 8 阶段深度尽调，生成结构化研报。  ## 架构  ``` 用户浏览器 (React + Tailwind)     ↕ WebSocket + REST API Express Server (port 3004)     ↕ Claude Agent SDK Claude AI + 7 个 Skills (stock-skills)"
+ },
+ {
+  "name": "claudesdk-tikhub-chat",
+  "url": "https://github.com/liangdabiao/claudesdk-tikhub-chat",
+  "stars": 8,
+  "desc": "# TikHub AI Chat  基于 Claude Agent SDK 的社交媒体数据对话助手。用户通过自然语言与 AI 对话，AI 自动调用 TikHub API 获取 TikTok、抖音、小红书、Instagram 等平台的数据。"
+ },
+ {
+  "name": "clipshot",
+  "url": "https://github.com/liangdabiao/clipshot",
+  "stars": 0,
+  "desc": "A Skill for creating clipshot"
+ },
+ {
+  "name": "cloudbase-saas-starter",
+  "url": "https://github.com/liangdabiao/cloudbase-saas-starter",
+  "stars": 4,
+  "desc": "腾讯云 CloudBase版本SaaS for AI : 一个使用 Next.js 14、TypeScript 和 Tailwind CSS 构建的现代、功能完善的 SaaS AI 模板。"
+ },
+ {
+  "name": "cmfx",
+  "url": "https://github.com/liangdabiao/cmfx",
+  "stars": 0,
+  "desc": "ThinkCMFX ,based on ThinkPHP 3.2.3, it is same with ThinkCMF"
+ },
+ {
+  "name": "co-cart",
+  "url": "https://github.com/liangdabiao/co-cart",
+  "stars": 0,
+  "desc": "🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies."
+ },
+ {
+  "name": "cocos-big-watermelon",
+  "url": "https://github.com/liangdabiao/cocos-big-watermelon",
+  "stars": 0,
+  "desc": "big watermelon by cocos"
+ },
+ {
+  "name": "codeigniter-meets-extjs",
+  "url": "https://github.com/liangdabiao/codeigniter-meets-extjs",
+  "stars": 0,
+  "desc": "CodeIgniter meets ExtJS"
+ },
+ {
+  "name": "colorfu",
+  "url": "https://github.com/liangdabiao/colorfu",
+  "stars": 0,
+  "desc": "Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈"
+ },
+ {
+  "name": "commlib",
+  "url": "https://github.com/liangdabiao/commlib",
+  "stars": 0,
+  "desc": "A common php web admin library build on ThinkPHP and Bootstrap"
+ },
+ {
+  "name": "Complex-PDF-RAG-Agent-using-QueryPipeline-from-Scratch_Llamaparse_OS-LLM",
+  "url": "https://github.com/liangdabiao/Complex-PDF-RAG-Agent-using-QueryPipeline-from-Scratch_Llamaparse_OS-LLM",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "computer-science-in-javascript",
+  "url": "https://github.com/liangdabiao/computer-science-in-javascript",
+  "stars": 0,
+  "desc": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. "
+ },
+ {
+  "name": "Concat",
+  "url": "https://github.com/liangdabiao/Concat",
+  "stars": 0,
+  "desc": "Open-Source CapCut replacement (MCP supported)."
+ },
+ {
+  "name": "concurrent-programming",
+  "url": "https://github.com/liangdabiao/concurrent-programming",
+  "stars": 0,
+  "desc": ":cactus:《实战java高并发程序设计》源码整理"
+ },
+ {
+  "name": "connector-amazon",
+  "url": "https://github.com/liangdabiao/connector-amazon",
+  "stars": 0,
+  "desc": "Amazon Connector for odoo"
+ },
+ {
+  "name": "content-creator-agent",
+  "url": "https://github.com/liangdabiao/content-creator-agent",
+  "stars": 0,
+  "desc": "An AI-driven content creation assistant. Features topic research, outline generation, streaming article writing, SEO analysis, version management, and persistent memory."
+ },
+ {
+  "name": "copilot-gpt4-service",
+  "url": "https://github.com/liangdabiao/copilot-gpt4-service",
+  "stars": 0,
+  "desc": "Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型"
+ },
+ {
+  "name": "coterie.api",
+  "url": "https://github.com/liangdabiao/coterie.api",
+  "stars": 0,
+  "desc": "果酱圈子-帮助用户搭建自己的专属粉丝社群"
+ },
+ {
+  "name": "coterie.miniprogram",
+  "url": "https://github.com/liangdabiao/coterie.miniprogram",
+  "stars": 0,
+  "desc": "果酱圈子-帮助用户搭建自己的专属粉丝社群"
+ },
+ {
+  "name": "course-site-skill",
+  "url": "https://github.com/liangdabiao/course-site-skill",
+  "stars": 16,
+  "desc": "把任何 markdown资料转为课程内容的skill，零代码地变成静态课程网站。逐节课把原始 md 重写为中文专业课程格式（标题 → 学习目标 → 正文 → 小结）+ 逐节课生成 6 题真实 quiz"
+ },
+ {
+  "name": "coverlettergpt",
+  "url": "https://github.com/liangdabiao/coverlettergpt",
+  "stars": 0,
+  "desc": "Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School."
+ },
+ {
+  "name": "Cowart",
+  "url": "https://github.com/liangdabiao/Cowart",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "crawl4ai",
+  "url": "https://github.com/liangdabiao/crawl4ai",
+  "stars": 0,
+  "desc": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper"
+ },
+ {
+  "name": "crewai_stock_analysis_system",
+  "url": "https://github.com/liangdabiao/crewai_stock_analysis_system",
+  "stars": 182,
+  "desc": "基于CrewAI框架构建的智能股票分析系统，利用多Agent协作和智能流程控制，提供全面的股票投资分析服务。  🚀 特性 :  智能股票分析 基于AI的多维度股票分析,  批量处理  高效的批量股票分析,  实时监控  股票价格和指标实时监控 , 预警系统  智能预警和通知,  Web界面 直观的Web管理界面"
+ },
+ {
+  "name": "Cross-border-E-commerce",
+  "url": "https://github.com/liangdabiao/Cross-border-E-commerce",
+  "stars": 0,
+  "desc": "book for Cross-border E-commerce"
+ },
+ {
+  "name": "CSLG-Access-Reservation-System",
+  "url": "https://github.com/liangdabiao/CSLG-Access-Reservation-System",
+  "stars": 0,
+  "desc": "一款基于树莓派的门禁系统解决方案"
+ },
+ {
+  "name": "css_xfy",
+  "url": "https://github.com/liangdabiao/css_xfy",
+  "stars": 0,
+  "desc": "none"
+ },
+ {
+  "name": "culture-fragment-poster-engine",
+  "url": "https://github.com/liangdabiao/culture-fragment-poster-engine",
+  "stars": 0,
+  "desc": "快速搭建审美优质的海报 kv 平面 视觉"
+ },
+ {
+  "name": "cw-omnibus",
+  "url": "https://github.com/liangdabiao/cw-omnibus",
+  "stars": 0,
+  "desc": "Source code to omnibus edition of _The Busy Coder's Guide to Android Development_"
+ },
+ {
+  "name": "DanKS",
+  "url": "https://github.com/liangdabiao/DanKS",
+  "stars": 0,
+  "desc": "RL‑Empowered Small‑Scale Competitive Guandan Agent"
+ },
+ {
+  "name": "Dashboard",
+  "url": "https://github.com/liangdabiao/Dashboard",
+  "stars": 0,
+  "desc": "Custom your personal browser start page from some configurable components."
+ },
+ {
+  "name": "datalogic",
+  "url": "https://github.com/liangdabiao/datalogic",
+  "stars": 40,
+  "desc": "基于佳哥的开源项目进行AI加强版数据分析"
+ },
+ {
+  "name": "DataScience",
+  "url": "https://github.com/liangdabiao/DataScience",
+  "stars": 0,
+  "desc": "Micheal Gardner的数据科学笔记"
+ },
+ {
+  "name": "dawn",
+  "url": "https://github.com/liangdabiao/dawn",
+  "stars": 0,
+  "desc": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in."
+ },
+ {
+  "name": "DB-GPT",
+  "url": "https://github.com/liangdabiao/DB-GPT",
+  "stars": 0,
+  "desc": "Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security"
+ },
+ {
+  "name": "dcms2",
+  "url": "https://github.com/liangdabiao/dcms2",
+  "stars": 0,
+  "desc": "dcms2 basic on yii2"
+ },
+ {
+  "name": "ddcard",
+  "url": "https://github.com/liangdabiao/ddcard",
+  "stars": 0,
+  "desc": "【嘟嘟早教卡】 后端 api 源码，由 Laravel 构建而成。"
+ },
+ {
+  "name": "ddcard-weapp",
+  "url": "https://github.com/liangdabiao/ddcard-weapp",
+  "stars": 0,
+  "desc": "【嘟嘟早教卡】小程序源码，由 Taro 及 Tailwind CSS 构建而成。"
+ },
+ {
+  "name": "deep-research-agent-skill",
+  "url": "https://github.com/liangdabiao/deep-research-agent-skill",
+  "stars": 4,
+  "desc": "它能帮你自动完成**深度研究**这件事。  你只需要说一句\"帮我研究一下 XXX\"，它就会：  1. 🤔 **问清楚**你要什么（范围、格式、时间等） 2. 📋 **做计划**（拆成几个子话题，安排搜索策略） 3. 🔍 **同时派多个研究助手去查资料**（并行搜索，速度快） 4. 🧩 **把所有资料整合成一篇报告**（解决矛盾、提炼共识） 5. ✅ **检查引用是否准确**（确保每个数据都有来源） 6. 📝 **输出完整的报告文件夹**（摘要、全文、数据、来源清单）"
+ },
+ {
+  "name": "deepseek-v4-flash-vision-rag",
+  "url": "https://github.com/liangdabiao/deepseek-v4-flash-vision-rag",
+  "stars": 70,
+  "desc": "DeepSeek V4-Flash Vision RAG 让 AI 真正\"看懂\" 一份 PDF，然后你对它提问：它告诉你答案、答案在第几页， 并把那一页的原图展示出来给你核对。  基于 DeepSeek 视觉大模型 deepseek-v4-flash-vision-exp 的 PDF 深度问答与检索 （vision RAG）agent skill。支持文字版 PDF，也支持扫描版；能看懂 图表、表格、代码块、公式，而不只是认字。"
+ },
+ {
+  "name": "deepseek-v4-flash-vision-video-rag",
+  "url": "https://github.com/liangdabiao/deepseek-v4-flash-vision-video-rag",
+  "stars": 67,
+  "desc": "DeepSeek V4-Flash Vision Video RAG 让 AI 真正\"看懂\" 一段视频，然后你对它提问：它告诉你答案、答案发生在 第几分几秒，并切出那一段的可播放片段和关键帧给你核对。  基于 DeepSeek 视觉大模型 deepseek-v4-flash-vision-exp 的视频理解与问答 （video RAG）agent skill。先按时间轴抽帧阅读、建立索引（一次性），再对问题做 本地粗筛 → 视觉精排 → 深读回答；回答带 [MM:SS] 时间戳引用，自动生成 自包含 HTML 预览页（内嵌可播放片段 + 关键帧 + 答案），双击浏览器即看。"
+ },
+ {
+  "name": "deep_search_write",
+  "url": "https://github.com/liangdabiao/deep_search_write",
+  "stars": 31,
+  "desc": "AI写作小工具方案：让2个智能体合作写出真正可用的图文并茂的帖子（微信公众号，小红书，博客）。1，写作智能体，2，知识库智能体。"
+ },
+ {
+  "name": "depot",
+  "url": "https://github.com/liangdabiao/depot",
+  "stars": 0,
+  "desc": "my depot test"
+ },
+ {
+  "name": "designiot",
+  "url": "https://github.com/liangdabiao/designiot",
+  "stars": 0,
+  "desc": "一步步搭建物联网系统。构建自己的Internet of Things 。"
+ },
+ {
+  "name": "DesignPatternsPHP",
+  "url": "https://github.com/liangdabiao/DesignPatternsPHP",
+  "stars": 0,
+  "desc": "sample code for several design patterns in PHP"
+ },
+ {
+  "name": "developer",
+  "url": "https://github.com/liangdabiao/developer",
+  "stars": 0,
+  "desc": "Kurozora Developer Portal for creating powerful apps"
+ },
+ {
+  "name": "dify",
+  "url": "https://github.com/liangdabiao/dify",
+  "stars": 1,
+  "desc": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications."
+ },
+ {
+  "name": "dingtalk-cli-workflow",
+  "url": "https://github.com/liangdabiao/dingtalk-cli-workflow",
+  "stars": 15,
+  "desc": "钉钉 AI 效率系统 — 10 大工作流 Skill  > 基于 Claude Code /openclaw Skill + 钉钉 CLI (dws) 构建的个人 AI 效率基础设施。 > 将飞书版本的 10 大工作流完整迁移到钉钉生态，用钉钉各模块实现所有工作流功能。"
+ },
+ {
+  "name": "Diplomat",
+  "url": "https://github.com/liangdabiao/Diplomat",
+  "stars": 0,
+  "desc": "整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。"
+ },
+ {
+  "name": "directing-xiaohei-videos",
+  "url": "https://github.com/liangdabiao/directing-xiaohei-videos",
+  "stars": 11,
+  "desc": "这是一个会\"导演小黑动画\"的智能技能。  你只需要给它一个**主题**或者**一段文字**，它就会像一位真正的导演那样，帮你完成整个视频制作：  1. **想创意**：把你想讲的道理，变成一个奇怪但一看就懂的小画面 2. **写剧本**：把视频拆成 6 个小场景，每个场景约 10 秒，写好每句话的解说词 3. **做动画**：用 AI 把每个场景画成动画"
+ },
+ {
+  "name": "director-skills",
+  "url": "https://github.com/liangdabiao/director-skills",
+  "stars": 0,
+  "desc": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation."
+ },
+ {
+  "name": "Directory-listing-site-listPortal",
+  "url": "https://github.com/liangdabiao/Directory-listing-site-listPortal",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "director_ai",
+  "url": "https://github.com/liangdabiao/director_ai",
+  "stars": 2,
+  "desc": "AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。"
+ },
+ {
+  "name": "discourse",
+  "url": "https://github.com/liangdabiao/discourse",
+  "stars": 0,
+  "desc": "A platform for community discussion. Free, open, simple."
+ },
+ {
+  "name": "DiscovAI-search",
+  "url": "https://github.com/liangdabiao/DiscovAI-search",
+  "stars": 0,
+  "desc": "🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses."
+ },
+ {
+  "name": "Discover",
+  "url": "https://github.com/liangdabiao/Discover",
+  "stars": 0,
+  "desc": "Discover 是一个基于 Dcat-admin 开发的进销存系统"
+ },
+ {
+  "name": "django2-by-example-ZH",
+  "url": "https://github.com/liangdabiao/django2-by-example-ZH",
+  "stars": 1,
+  "desc": "Django 2 by example个人翻译和整理"
+ },
+ {
+  "name": "django2.0-course",
+  "url": "https://github.com/liangdabiao/django2.0-course",
+  "stars": 0,
+  "desc": "Django2.0视频教程相关代码（杨仕航）"
+ },
+ {
+  "name": "django3-course",
+  "url": "https://github.com/liangdabiao/django3-course",
+  "stars": 0,
+  "desc": "Django3视频教程相关代码"
+ },
+ {
+  "name": "do-deepagents-skill",
+  "url": "https://github.com/liangdabiao/do-deepagents-skill",
+  "stars": 14,
+  "desc": "skill指导AI正确的写代码-基于langchain deepagents框架。为什么需要 DeepAgents 这一套？单一提示词撑不住复杂任务真实业务往往是：多步推理、多工具组合、长会话、还要记用户偏好和历史决策。把一切都塞进一个 Chat 里，容易出现指令被淹没、行为漂移、失败不可定位。这就是为什么像Claude Code、Deep Research、Manus这样的应用能够脱颖而出——它们不是简单的工具调用器，而是具备深度思考能力的智能体。"
+ },
+ {
+  "name": "docker2saas",
+  "url": "https://github.com/liangdabiao/docker2saas",
+  "stars": 0,
+  "desc": "An open source tool that lets you create a SaaS website from docker images in 10 minutes."
+ },
+ {
+  "name": "DocsGPT",
+  "url": "https://github.com/liangdabiao/DocsGPT",
+  "stars": 1,
+  "desc": "GPT-powered chat for documentation search & assistance."
+ },
+ {
+  "name": "dolibarr",
+  "url": "https://github.com/liangdabiao/dolibarr",
+  "stars": 0,
+  "desc": "Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media."
+ },
+ {
+  "name": "dootask",
+  "url": "https://github.com/liangdabiao/dootask",
+  "stars": 0,
+  "desc": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。"
+ },
+ {
+  "name": "dotplant2",
+  "url": "https://github.com/liangdabiao/dotplant2",
+  "stars": 0,
+  "desc": "E-Commerce CMS - Yii Framework 2 (yii2, shop) "
+ },
+ {
+  "name": "douyin",
+  "url": "https://github.com/liangdabiao/douyin",
+  "stars": 0,
+  "desc": "TikTok 抖音 Vue.js"
+ },
+ {
+  "name": "DSH-Creator",
+  "url": "https://github.com/liangdabiao/DSH-Creator",
+  "stars": 1,
+  "desc": "Jacky Creator：面向内容创作者的 DeepSeek Harness 本地内容与运营工作台"
+ },
+ {
+  "name": "dsh-plugin-developer-skill",
+  "url": "https://github.com/liangdabiao/dsh-plugin-developer-skill",
+  "stars": 26,
+  "desc": "dsh-plugin-developer — DeepSeek Harness 插件开发 Skill  > 指导 AI Agent 从 0 到 1 开发、构建、安装、测试 DeepSeek Harness（dsh）插件。基于 **dsh 0.1.1-rc.2** 与 dsh-openmaic 项目的完整实战经验，并内置一个**已通过 web 界面实测**的天气插件作为整包参考案例。  ## 这是什么  dsh 采用\"无特权内核、万物皆插件\"的设计：模型适配器、工具注册表、Agent 循环、网页界面都是插件"
+ },
+ {
+  "name": "dsh-weather-plugin",
+  "url": "https://github.com/liangdabiao/dsh-weather-plugin",
+  "stars": 3,
+  "desc": "dsh = 一台\"所有零件都能换\"的智能体机器。写插件 = 造一个零件装上去。本项目展示怎样开发一个天气插件：天气插件的设计：Node 端调 Open-Meteo 拿温度风力，浏览器端用这些数据画一张会动的天气卡片。"
+ },
+ {
+  "name": "Dualx",
+  "url": "https://github.com/liangdabiao/Dualx",
+  "stars": 0,
+  "desc": "QQ Client for Chrome."
+ },
+ {
+  "name": "dwz-thinkphp323",
+  "url": "https://github.com/liangdabiao/dwz-thinkphp323",
+  "stars": 0,
+  "desc": "dwz后台前端框架+ThinkPHP3.2.3"
+ },
+ {
+  "name": "dzzoffice",
+  "url": "https://github.com/liangdabiao/dzzoffice",
+  "stars": 0,
+  "desc": "dzzoffice"
+ },
+ {
+  "name": "e-commerce-skill",
+  "url": "https://github.com/liangdabiao/e-commerce-skill",
+  "stars": 1,
+  "desc": ""
+ },
+ {
+  "name": "easy-amazon-voc",
+  "url": "https://github.com/liangdabiao/easy-amazon-voc",
+  "stars": 77,
+  "desc": "针对amazon商品评论进行AI大模型多维度分析。用户利用easy scraper浏览器插件爬取商品、帖子评论，然后直接上传csv文件到系统，系统进行评论分析，然后提供下载链接，下载更新的带有评论分析的csv文件,得到AI分析的用户画像。"
+ },
+ {
+  "name": "easy-tips",
+  "url": "https://github.com/liangdabiao/easy-tips",
+  "stars": 0,
+  "desc": "A little Tips in my Code Career with PHP :fire:"
+ },
+ {
+  "name": "easy_investment_Agent_crewai",
+  "url": "https://github.com/liangdabiao/easy_investment_Agent_crewai",
+  "stars": 660,
+  "desc": "基于AKShare和CrewAI的A股智能分析平台，通过多Agent协作提供专业的A股投资分析。  🚀 项目特色 📊 全面的A股数据分析：实时行情、财务数据、资金流向、市场情绪 🤖 多Agent协作：4个专业化AI角色协同工作 🇨🇳 A股市场特色：针对中国股市特点优化分析 📈 专业分析工具：基于AKShare的专业数据源 🎯 智能投资建议：综合分析提供投资决策参考"
+ },
+ {
+  "name": "ebay-amazon-sync-tool",
+  "url": "https://github.com/liangdabiao/ebay-amazon-sync-tool",
+  "stars": 1,
+  "desc": "Sync tool for Ebay, Amazon, Hayneedle, Wayfair, Overstock, Aliexpress and Walmart"
+ },
+ {
+  "name": "eBestMall",
+  "url": "https://github.com/liangdabiao/eBestMall",
+  "stars": 0,
+  "desc": "eBestMall是国内电子商务系统及服务解决方案新创品牌。为传统企业及创业者提供零售网店系统、网上商城系统、分销系统、B2B2C商城系统、微信分销系统、行业ERP等产品和解决方案。"
+ },
+ {
+  "name": "ecjia-daojia",
+  "url": "https://github.com/liangdabiao/ecjia-daojia",
+  "stars": 0,
+  "desc": "EC+（ecjia）到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页等。"
+ },
+ {
+  "name": "ecom-details-image",
+  "url": "https://github.com/liangdabiao/ecom-details-image",
+  "stars": 1348,
+  "desc": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。"
+ },
+ {
+  "name": "ecom-details-image-plugin",
+  "url": "https://github.com/liangdabiao/ecom-details-image-plugin",
+  "stars": 12,
+  "desc": "把 Skill「ecom-details-image」（电商图片方法论）改造成的 DeepSeek Harness（dsh）插件：让模型在 dsh 里就能写出合规的电商图片 Prompt 并**真实出图**（产品主图 / 详情页 / 社媒图 / 直播场景 / 广告等），结果以画廊卡片展示在网页界面。  ## 一句话实战  ``` 用户：「生成一张白色马克杯的电商主图」"
+ },
+ {
+  "name": "ecom-details-image-ui",
+  "url": "https://github.com/liangdabiao/ecom-details-image-ui",
+  "stars": 58,
+  "desc": "AI 电商视觉创作助手  > 用一句中文描述你的产品，30 秒拿到一张专业电商图。上传参考图 换场景/姿态/风格 。ecom-details-image skill的web agent版本，利用 EdgeOne Makers 免费服务器，免费model api（deepseek）,利用Agnes api 免费，识图免费，生图免费"
+ },
+ {
+  "name": "ecom-video-seedance-prompt",
+  "url": "https://github.com/liangdabiao/ecom-video-seedance-prompt",
+  "stars": 83,
+  "desc": "这是一个基于deepseek-v4-flash-vision 视觉deepseek大模型的复刻带货爆款视频Skill, 会生成复刻效果的seedance提示词！  > 你刷到一条带货爆款视频，想让 AI 照着再来一条——本 skill 就是那个\"翻译官\"： > 它把视频**看懂**（拆成一张张镜头卡片），再把卡片**翻译**成即梦（Seedance） > 能直接执行的提示词。你拿到手的，是一套可以直接粘贴进即梦的完整提示词包。"
+ },
+ {
+  "name": "ecommerce-open-api",
+  "url": "https://github.com/liangdabiao/ecommerce-open-api",
+  "stars": 0,
+  "desc": "iBrand's ecommerce is an laravel open source project, this is an easy to use e-commerce solution."
+ },
+ {
+  "name": "ECommerceCrawlers",
+  "url": "https://github.com/liangdabiao/ECommerceCrawlers",
+  "stars": 0,
+  "desc": "实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店❤️❤️❤️。微信爬虫展示项目:"
+ },
+ {
+  "name": "ECommerceRecommendSystem",
+  "url": "https://github.com/liangdabiao/ECommerceRecommendSystem",
+  "stars": 0,
+  "desc": "项目以推荐系统领域知名的经过修改过的中文亚马逊电商数据集作为依托，以电商网站真实业务数据架构为基础，构建了这套一体化电商推荐系统，包含了离线推荐与实时推荐体系，综合利用了协同过滤算法以及基于内容的推荐方法来提供混合推荐。包括从前端应用、后台服务、算法设计实现、平台部署等多方位的业务实现。"
+ },
+ {
+  "name": "ectouch",
+  "url": "https://github.com/liangdabiao/ectouch",
+  "stars": 0,
+  "desc": "ECTouch是一款开源的电商系统，为中小企业提供最佳的新零售解决方案。"
+ },
+ {
+  "name": "edulab",
+  "url": "https://github.com/liangdabiao/edulab",
+  "stars": 20,
+  "desc": "互动课件skills, 增强版：wy51ai/edulab 。一套面向学科教育的 skill 技能集合。每个技能能把学科知识点**自动生成**为一个可直接在浏览器打开的交互教学网页——包含 Canvas 2D 动画 / Three.js 3D 场景、步进式讲解、侧栏知识点面板、可交互参数控制。  目前共 **14 个技能**，覆盖化学、信息技术、生物、地理、数学、物理、几何七大学科。"
+ },
+ {
+  "name": "EduSoho",
+  "url": "https://github.com/liangdabiao/EduSoho",
+  "stars": 0,
+  "desc": "EduSoho是杭州阔知网络科技有限公司推出的开源、免费的互联网教育产品，帮助企业、个人快速建立互联网教育网站。本开源软件简洁易用，定制性强，是开展互联网教学、销售、推广的最好的选择。"
+ },
+ {
+  "name": "EGamePlay",
+  "url": "https://github.com/liangdabiao/EGamePlay",
+  "stars": 0,
+  "desc": "一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables."
+ },
+ {
+  "name": "electron-vue-cloud-music",
+  "url": "https://github.com/liangdabiao/electron-vue-cloud-music",
+  "stars": 0,
+  "desc": "🚀Electron + Vue 仿网易云音乐windows客户端"
+ },
+ {
+  "name": "electron-whatsapp-api",
+  "url": "https://github.com/liangdabiao/electron-whatsapp-api",
+  "stars": 1,
+  "desc": "Electron WhatsApp API é um módulo para o framework Electron que implemeta métodos automatizados para o serviço do WhatsApp para Web."
+ },
+ {
+  "name": "Embed",
+  "url": "https://github.com/liangdabiao/Embed",
+  "stars": 1,
+  "desc": "Get info from any web service or page"
+ },
+ {
+  "name": "emberfall-rpg",
+  "url": "https://github.com/liangdabiao/emberfall-rpg",
+  "stars": 0,
+  "desc": "Three.js 3D action RPG with online leaderboards"
+ },
+ {
+  "name": "end-to-end-with-angularjs",
+  "url": "https://github.com/liangdabiao/end-to-end-with-angularjs",
+  "stars": 0,
+  "desc": "An intermediate/advanced look at how to use Angular JS in conjunction with a server-side."
+ },
+ {
+  "name": "enterprise-rag-challenge",
+  "url": "https://github.com/liangdabiao/enterprise-rag-challenge",
+  "stars": 1,
+  "desc": "Enterprise RAG Challenge to test accuracy of different LLM-driven assistants"
+ },
+ {
+  "name": "enterprise-rag-challenge-release",
+  "url": "https://github.com/liangdabiao/enterprise-rag-challenge-release",
+  "stars": 7,
+  "desc": "Enterprise RAG Challenge —— 人式读文档视觉 RAG 方案  > 让 AI **像人一样翻开一份 PDF**：查目录 → 看图 → 深挖 → 带页码引用给答案。 > 基于 DeepSeek 视觉模型 `deepseek-v4-flash-vision-exp`，支持文字版／扫描版／图表／表格／公式年报。"
+ },
+ {
+  "name": "ERP",
+  "url": "https://github.com/liangdabiao/ERP",
+  "stars": 1,
+  "desc": "进销存系统，ThinkPHP 3.2.3+Bootstrap 3.0"
+ },
+ {
+  "name": "erp_opensource",
+  "url": "https://github.com/liangdabiao/erp_opensource",
+  "stars": 0,
+  "desc": "小老板erp开源"
+ },
+ {
+  "name": "esp-claw-cat-daily",
+  "url": "https://github.com/liangdabiao/esp-claw-cat-daily",
+  "stars": 1,
+  "desc": "esp-claw Skill：把板载摄像头变成 24 小时猫咪日记机。每小时自动记录猫在干嘛，随时能问一句\"猫在哪\"。有事儿没事儿让它帮我找下我的猫，看看它有没有在拆家。  摄像头每小时检查一次家里，拍一次照片，把照片保存下来，晚上再把当天的内容整理成一份猫猫当天的日记。  在IM(微信等）上直接问：  “帮我看看我的猫在哪里，在干什么”  系统会依次查看客厅、卧室和书房的摄像头，拍下照片，分析画面，然后告诉我宠物最后出现在哪里。"
+ },
+ {
+  "name": "ESP32-PokemonGo",
+  "url": "https://github.com/liangdabiao/ESP32-PokemonGo",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "euclidthegame",
+  "url": "https://github.com/liangdabiao/euclidthegame",
+  "stars": 0,
+  "desc": "A geometry game based on Euclid's Elements."
+ },
+ {
+  "name": "everyone-can-use-english",
+  "url": "https://github.com/liangdabiao/everyone-can-use-english",
+  "stars": 0,
+  "desc": "人人都能用英语"
+ },
+ {
+  "name": "exa-research-mcp-skill",
+  "url": "https://github.com/liangdabiao/exa-research-mcp-skill",
+  "stars": 110,
+  "desc": "基于 Claude Code 和 Exa 搜索引擎的 AI 驱动企业与市场研究工具。核心特性  - **智能公司研究**: 自动收集公司信息、新闻、社交媒体动态、财务数据和 LinkedIn 资料 - **竞争对手分析**: 快速构建竞争对手列表，分析市场定位 - **市场研究**: 跟踪行业趋势、并购活动、技术发展 - **上下文隔离**: 所有搜索在独立代理中运行，保持主对话整洁 - **动态调优**: 根据用户需求自动调整搜索深度"
+ },
+ {
+  "name": "Ext-PHP",
+  "url": "https://github.com/liangdabiao/Ext-PHP",
+  "stars": 0,
+  "desc": "Extjs PHP Framework "
+ },
+ {
+  "name": "extension",
+  "url": "https://github.com/liangdabiao/extension",
+  "stars": 0,
+  "desc": "chrome extension open source"
+ },
+ {
+  "name": "extjs4-mvc-json-crud-php-mysql",
+  "url": "https://github.com/liangdabiao/extjs4-mvc-json-crud-php-mysql",
+  "stars": 0,
+  "desc": "ExtJS 4 MVC Example - CRUD Grid with JSON, Ajax, PHP and MySQL"
+ },
+ {
+  "name": "facebook-ads-analyzer",
+  "url": "https://github.com/liangdabiao/facebook-ads-analyzer",
+  "stars": 45,
+  "desc": "Facebook Ads Analyzer 是一个专业的广告数据分析系统，基于facebook_ads 的 claude code agent skill ,能够：  自动分析 Facebook Ads Manager 导出的 CSV 数据 根据不同广告目标（互动/转化/流量）智能评估广告表现 识别最佳和最差广告 生成详细的诊断报告和优化建议 提供数据驱动的投放策略方案"
+ },
+ {
+  "name": "Farm-Data-Relay-System",
+  "url": "https://github.com/liangdabiao/Farm-Data-Relay-System",
+  "stars": 0,
+  "desc": "A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi."
+ },
+ {
+  "name": "Fashion-AI",
+  "url": "https://github.com/liangdabiao/Fashion-AI",
+  "stars": 336,
+  "desc": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
+ },
+ {
+  "name": "fashop",
+  "url": "https://github.com/liangdabiao/fashop",
+  "stars": 0,
+  "desc": "php开源商城系统，基于swoole、easyswoole框架开发"
+ },
+ {
+  "name": "Fast-LianJia-Crawler",
+  "url": "https://github.com/liangdabiao/Fast-LianJia-Crawler",
+  "stars": 0,
+  "desc": "直接通过链家 API 抓取数据的极速爬虫，宇宙最快~~ 🚀"
+ },
+ {
+  "name": "FastGPT",
+  "url": "https://github.com/liangdabiao/FastGPT",
+  "stars": 0,
+  "desc": "A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships."
+ },
+ {
+  "name": "fastmoss-rpa-skills",
+  "url": "https://github.com/liangdabiao/fastmoss-rpa-skills",
+  "stars": 61,
+  "desc": "Browser-RPA + 数据分析工具集，覆盖 [fastmoss.com]  (TikTok Shop 数据分析平台) 全部 7 个核心模块。基于 [browserskill] 驱动用户真实浏览器（复用登录态），把 FastMoss 的榜单/趋势/市场数据落成 CSV，并自动生成 Markdown 分析报告。"
+ },
+ {
+  "name": "FatRat-Collect",
+  "url": "https://github.com/liangdabiao/FatRat-Collect",
+  "stars": 0,
+  "desc": "胖鼠采集 WordPress优秀开源采集插件"
+ },
+ {
+  "name": "fec-go",
+  "url": "https://github.com/liangdabiao/fec-go",
+  "stars": 0,
+  "desc": "fec-go"
+ },
+ {
+  "name": "fecshop_theme_rosegal",
+  "url": "https://github.com/liangdabiao/fecshop_theme_rosegal",
+  "stars": 0,
+  "desc": "fecshop theme rosegal"
+ },
+ {
+  "name": "feishu_skills",
+  "url": "https://github.com/liangdabiao/feishu_skills",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "feishu_X_codex",
+  "url": "https://github.com/liangdabiao/feishu_X_codex",
+  "stars": 1,
+  "desc": ""
+ },
+ {
+  "name": "fetch-everything",
+  "url": "https://github.com/liangdabiao/fetch-everything",
+  "stars": 48,
+  "desc": "Agent Skills 工具箱fetch-everything  一套面向 **Claude Code**/openclaw 的高质量 Skills 合集，涵盖网页抓取、文档提取、电商数据处理、云端部署等场景，特别强化了对中文平台的支持。"
+ },
+ {
+  "name": "FHCRM",
+  "url": "https://github.com/liangdabiao/FHCRM",
+  "stars": 0,
+  "desc": "一款基于ThinkPHP与Extjs开发的产品管理系统"
+ },
+ {
+  "name": "first_ruby",
+  "url": "https://github.com/liangdabiao/first_ruby",
+  "stars": 0,
+  "desc": "this is my first ruby example"
+ },
+ {
+  "name": "flarestarter",
+  "url": "https://github.com/liangdabiao/flarestarter",
+  "stars": 0,
+  "desc": "A full-stack, edge-native SaaS starter built with TanStack Start + Cloudflare Workers  | 基于 TanStack Start + Cloudflare Workers 构建的全栈、边缘原生 SaaS 起步模板 "
+ },
+ {
+  "name": "flarum",
+  "url": "https://github.com/liangdabiao/flarum",
+  "stars": 0,
+  "desc": "Delightfully simple forum software."
+ },
+ {
+  "name": "flue-framework-skill",
+  "url": "https://github.com/liangdabiao/flue-framework-skill",
+  "stars": 22,
+  "desc": " Covers createAgent, init, defineTool, defineAgentProfile, routing, SSE streaming, production deployment, and all known pitfalls. ---  # Flue Framework Skill  Flue is a TypeScript framework for building AI agents using the harness-driven architecture. This skill provides comprehensive guidance for creating, developing "
+ },
+ {
+  "name": "flutter_mall",
+  "url": "https://github.com/liangdabiao/flutter_mall",
+  "stars": 0,
+  "desc": "Flutter Mall 是一个基于 Flutter 框架实现的电商app"
+ },
+ {
+  "name": "flygoose-blog",
+  "url": "https://github.com/liangdabiao/flygoose-blog",
+  "stars": 0,
+  "desc": "a nuxt3 blog"
+ },
+ {
+  "name": "folo-ai-passport-voice",
+  "url": "https://github.com/liangdabiao/folo-ai-passport-voice",
+  "stars": 0,
+  "desc": "AI 随身语音硬件(ESP32-C3):按住说话实时转写注入桌面输入框,Agent 工作流可视化 + 物理按键审批"
+ },
+ {
+  "name": "free-ebook-demo",
+  "url": "https://github.com/liangdabiao/free-ebook-demo",
+  "stars": 0,
+  "desc": "A Web Reading App Powered By Vue.js and epubjs"
+ },
+ {
+  "name": "functional-javascript-workshop",
+  "url": "https://github.com/liangdabiao/functional-javascript-workshop",
+  "stars": 0,
+  "desc": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5."
+ },
+ {
+  "name": "funshop",
+  "url": "https://github.com/liangdabiao/funshop",
+  "stars": 1,
+  "desc": "An agile shop based on Yii2. "
+ },
+ {
+  "name": "fyouku",
+  "url": "https://github.com/liangdabiao/fyouku",
+  "stars": 0,
+  "desc": "慕优酷项目"
+ },
+ {
+  "name": "fyoukuApi",
+  "url": "https://github.com/liangdabiao/fyoukuApi",
+  "stars": 0,
+  "desc": "仿优酷视频Go后台服务"
+ },
+ {
+  "name": "galaxy",
+  "url": "https://github.com/liangdabiao/galaxy",
+  "stars": 0,
+  "desc": "The whole galaxy system, you can customize it base on your requirements."
+ },
+ {
+  "name": "game-ddz",
+  "url": "https://github.com/liangdabiao/game-ddz",
+  "stars": 0,
+  "desc": "♦️ 使用Hyperf框架开发斗地主游戏"
+ },
+ {
+  "name": "Games",
+  "url": "https://github.com/liangdabiao/Games",
+  "stars": 0,
+  "desc": "Games: Create interesting games by pure python."
+ },
+ {
+  "name": "gdoo",
+  "url": "https://github.com/liangdabiao/gdoo",
+  "stars": 0,
+  "desc": "Gdoo是基于PHP Laravel框架的开源OA/协同办公平台，包含销售管理、日程安排，进销存、数据分析，强大的自定义能力。改进销售管理模式，提升企业执行效率"
+ },
+ {
+  "name": "Geek04",
+  "url": "https://github.com/liangdabiao/Geek04",
+  "stars": 0,
+  "desc": "极客时间《Harness脚手架实战课》配套代码"
+ },
+ {
+  "name": "geekchat",
+  "url": "https://github.com/liangdabiao/geekchat",
+  "stars": 0,
+  "desc": "GeekChat - ChatGPT With Support For Text、Voice、Image And Translate"
+ },
+ {
+  "name": "geektime",
+  "url": "https://github.com/liangdabiao/geektime",
+  "stars": 0,
+  "desc": "Machine Learning from Scratch"
+ },
+ {
+  "name": "gemini-image-skill",
+  "url": "https://github.com/liangdabiao/gemini-image-skill",
+  "stars": 0,
+  "desc": "Claude Code Skill for Gemini image generation (text-to-image & image-to-image)"
+ },
+ {
+  "name": "GEO-Content-Optimizer-Skill",
+  "url": "https://github.com/liangdabiao/GEO-Content-Optimizer-Skill",
+  "stars": 206,
+  "desc": "GEO（Generative Engine Optimization）是面向 AI 搜索引擎的内容优化方法论。就像 SEO 优化 Google 排名，GEO 优化你的内容在 ChatGPT、Perplexity、Gemini、Google AI Overview 等 AI 引擎中的引用率。  本项目提供3个 Agent Skill，覆盖 GEO 全流程："
+ },
+ {
+  "name": "Geogebra-WebChat",
+  "url": "https://github.com/liangdabiao/Geogebra-WebChat",
+  "stars": 37,
+  "desc": "发布教育领域的AI新产品：一句话搞定数学几何绘图GeoGebra。Geogebra-WebChat只保留核心链路：**聊天 + AI + GeoGebra 画图**。简单普通 Web 应用，但是功能齐全。"
+ },
+ {
+  "name": "geolook",
+  "url": "https://github.com/liangdabiao/geolook",
+  "stars": 4,
+  "desc": "一个key一个skill 搞定GEO全平台洞察和优化工作。Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+ },
+ {
+  "name": "geometry-math-proof-remotion",
+  "url": "https://github.com/liangdabiao/geometry-math-proof-remotion",
+  "stars": 4,
+  "desc": "视频 skill ： 精准几何风格的数学证明视频生成。深底高饱和配色 + SVG 代码绘制 + 公式逐步揭示 + 字幕驱动时间轴。3Blue1Brown / 可汗学院风格。  本 skill 把数学证明文档(勾股定理、欧拉公式、积分、几何推导、代数恒等式…)自动转成  Remotion 视频。几何元素全部用代码绘制,公式逐行揭示,字幕以真实 TTS 时长驱动时间轴。"
+ },
+ {
+  "name": "getyii",
+  "url": "https://github.com/liangdabiao/getyii",
+  "stars": 0,
+  "desc": "Yii2 community 请访问"
+ },
+ {
+  "name": "ghiblog",
+  "url": "https://github.com/liangdabiao/ghiblog",
+  "stars": 0,
+  "desc": "GitHub Issues Blog, powered by GitHub Issues and GitHub Actions"
+ },
+ {
+  "name": "gin_weibo",
+  "url": "https://github.com/liangdabiao/gin_weibo",
+  "stars": 0,
+  "desc": "Gin Weibo App"
+ },
+ {
+  "name": "glm-5.3-flash-vision-rag",
+  "url": "https://github.com/liangdabiao/glm-5.3-flash-vision-rag",
+  "stars": 22,
+  "desc": "glm-5.3-flash-vision RAG：三个 GLM 视觉技能总览  > 同一套\"让 AI 看懂资料\"的技术，嫁接到智谱 **GLM-5.3-Flash** 视觉大模型上， > 做成了三件趁手的工具：**看懂 PDF**、**看懂视频**、**把带货视频变成提示词"
+ },
+ {
+  "name": "glot",
+  "url": "https://github.com/liangdabiao/glot",
+  "stars": 0,
+  "desc": "Pastebin with runnable snippets and API"
+ },
+ {
+  "name": "go-demo",
+  "url": "https://github.com/liangdabiao/go-demo",
+  "stars": 0,
+  "desc": "Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等"
+ },
+ {
+  "name": "go-fly",
+  "url": "https://github.com/liangdabiao/go-fly",
+  "stars": 0,
+  "desc": "开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source live customer chat by golang"
+ },
+ {
+  "name": "go-game-ai",
+  "url": "https://github.com/liangdabiao/go-game-ai",
+  "stars": 5,
+  "desc": "一个纯前端的单机围棋闯关游戏，从 [online-go.com] 的 LearningHub 教程中提取而成。 > 3564 个关卡，8 个章节，从零基础到高阶战术，最后是与大模型 AI 的终极对决。"
+ },
+ {
+  "name": "go-movies",
+  "url": "https://github.com/liangdabiao/go-movies",
+  "stars": 0,
+  "desc": "golang spider Crawler  爬虫 电影 "
+ },
+ {
+  "name": "Godogen",
+  "url": "https://github.com/liangdabiao/Godogen",
+  "stars": 126,
+  "desc": "liang's Godogen: 使用 Claude Code 构建完整 Godot 4 项目的技能集,你描述你想要的内容。AI pipeline 会设计架构、生成美术资源、编写每一行代码、从运行的游戏引擎中截取截图，并修复看起来不对的地方。输出是一个真正的 Godot 4 项目，包含组织良好的场景、可读的脚本和正确的游戏架构。继承二开：github.com/htdt/godogen "
+ },
+ {
+  "name": "gohub",
+  "url": "https://github.com/liangdabiao/gohub",
+  "stars": 0,
+  "desc": "Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt"
+ },
+ {
+  "name": "goinaction",
+  "url": "https://github.com/liangdabiao/goinaction",
+  "stars": 0,
+  "desc": "Go语言实践 -  [美] William Kennedy Brian Ketelsen Erik St. Martin 著"
+ },
+ {
+  "name": "goliang",
+  "url": "https://github.com/liangdabiao/goliang",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "go_bootstrap",
+  "url": "https://github.com/liangdabiao/go_bootstrap",
+  "stars": 2,
+  "desc": "一个go框架基础达到laravel同样的功能，方便快速开发，集成博客，论坛，商城等基础"
+ },
+ {
+  "name": "go_fec_api",
+  "url": "https://github.com/liangdabiao/go_fec_api",
+  "stars": 0,
+  "desc": "fecshop data get by Go Api"
+ },
+ {
+  "name": "gpt4-pdf-chatbot-langchain",
+  "url": "https://github.com/liangdabiao/gpt4-pdf-chatbot-langchain",
+  "stars": 0,
+  "desc": "GPT4 & LangChain Chatbot for large PDF docs"
+ },
+ {
+  "name": "gptlink",
+  "url": "https://github.com/liangdabiao/gptlink",
+  "stars": 0,
+  "desc": "10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能"
+ },
+ {
+  "name": "GPTs",
+  "url": "https://github.com/liangdabiao/GPTs",
+  "stars": 1,
+  "desc": "leaked prompts of GPTs"
+ },
+ {
+  "name": "growth-in-action",
+  "url": "https://github.com/liangdabiao/growth-in-action",
+  "stars": 0,
+  "desc": "全栈增长工程师实战"
+ },
+ {
+  "name": "grw",
+  "url": "https://github.com/liangdabiao/grw",
+  "stars": 0,
+  "desc": "个人网-个人事务管理系统"
+ },
+ {
+  "name": "guizang-yingzao-skill",
+  "url": "https://github.com/liangdabiao/guizang-yingzao-skill",
+  "stars": 0,
+  "desc": "这个工作方式和很多\"全自动\"工具不一样。但我觉得在旅行海报这个场景下，它是对的。因为每张照片背后都是一段真实的经历，每栋建筑都有自己的身份。你不会希望一个工具自作主张地把善化寺的屋脊\"优化\"成另一栋楼的样子。"
+ },
+ {
+  "name": "Gwitter",
+  "url": "https://github.com/liangdabiao/Gwitter",
+  "stars": 0,
+  "desc": "Turn GitHub Issues into your personal microblog platform"
+ },
+ {
+  "name": "HC",
+  "url": "https://github.com/liangdabiao/HC",
+  "stars": 0,
+  "desc": "Heroes Charge client and server"
+ },
+ {
+  "name": "hehe-industry-research-skill-pack",
+  "url": "https://github.com/liangdabiao/hehe-industry-research-skill-pack",
+  "stars": 1,
+  "desc": "盒盒原创中文行业与企业研究技能包：1 个总入口协同 13 个专项 Skill，支持完整行业研究或企业研究、以及市场格局、市场规则、企业画像等独立专项模块。"
+ },
+ {
+  "name": "hero-code",
+  "url": "https://github.com/liangdabiao/hero-code",
+  "stars": 0,
+  "desc": "高级Java工程师体系课0期源码"
+ },
+ {
+  "name": "hero-code-01",
+  "url": "https://github.com/liangdabiao/hero-code-01",
+  "stars": 0,
+  "desc": "高级Java工程师体系课01期源码"
+ },
+ {
+  "name": "hero_parent_0",
+  "url": "https://github.com/liangdabiao/hero_parent_0",
+  "stars": 0,
+  "desc": "高级Java工程师体系课第0期"
+ },
+ {
+  "name": "hexo",
+  "url": "https://github.com/liangdabiao/hexo",
+  "stars": 0,
+  "desc": "A fast, simple & powerful blog framework, powered by Node.js."
+ },
+ {
+  "name": "hoewo",
+  "url": "https://github.com/liangdabiao/hoewo",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "house-renting",
+  "url": "https://github.com/liangdabiao/house-renting",
+  "stars": 0,
+  "desc": "Possibly the best practice of Scrapy and renting a house (可能是 Scrapy 和租房的最佳实践)"
+ },
+ {
+  "name": "HSTECH_2026_AI_SUMMARY",
+  "url": "https://github.com/liangdabiao/HSTECH_2026_AI_SUMMARY",
+  "stars": 26,
+  "desc": "利用  github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent 项目进行恒生科技成分股2026年的全面分析，方便大家理性炒股，本调研报告仅供参考，不构成投资建议。所有投资均有风险，包括本金损失的可能性。过去的表现不能保证未来的结果。在做出投资决策前，请进行独立尽职调查并咨询合格财务顾问。"
+ },
+ {
+  "name": "huajuan",
+  "url": "https://github.com/liangdabiao/huajuan",
+  "stars": 0,
+  "desc": "Yii2实现的问答,微信,文章系统"
+ },
+ {
+  "name": "Hugai-chatgpt",
+  "url": "https://github.com/liangdabiao/Hugai-chatgpt",
+  "stars": 1,
+  "desc": "HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室 "
+ },
+ {
+  "name": "hugai-chatgpt-ui",
+  "url": "https://github.com/liangdabiao/hugai-chatgpt-ui",
+  "stars": 0,
+  "desc": "hugai前端"
+ },
+ {
+  "name": "hyperf-admin",
+  "url": "https://github.com/liangdabiao/hyperf-admin",
+  "stars": 0,
+  "desc": "Hyperf-admin 基于Hyperf、Element-UI 通用管理后台"
+ },
+ {
+  "name": "hyperf-chat",
+  "url": "https://github.com/liangdabiao/hyperf-chat",
+  "stars": 0,
+  "desc": "Lumen IM 是一个网页版在线聊天项目，前端使用 Element-ui + Vue，后端采用了基于 Swoole 开发的 Hyperf 协程框架进行接口开发，并使用 WebSocket 服务进行消息实时推送。"
+ },
+ {
+  "name": "hyperf-rpc",
+  "url": "https://github.com/liangdabiao/hyperf-rpc",
+  "stars": 0,
+  "desc": "hyperf 微服务系列教程"
+ },
+ {
+  "name": "hyperframes-fix",
+  "url": "https://github.com/liangdabiao/hyperframes-fix",
+  "stars": 237,
+  "desc": "HyperFrames-fix 一键生成可上传有流量视频 。目的是让 HyperFrames 生成视频适应国内需求，1 流畅的中文语音， 2 中文短视频样式新增， 3 优化整个生成视频流程。 基本上现在一键就可以完成横版竖版的快节奏短视频，例如随便丢给一个文章，一个doc，就能够制作视频！ 太棒！"
+ },
+ {
+  "name": "hypertrons-crx",
+  "url": "https://github.com/liangdabiao/hypertrons-crx",
+  "stars": 0,
+  "desc": "A browser extension to get more insights into projects and developers on GitHub."
+ },
+ {
+  "name": "hypit",
+  "url": "https://github.com/liangdabiao/hypit",
+  "stars": 0,
+  "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+ },
+ {
+  "name": "i18n-helper-skills",
+  "url": "https://github.com/liangdabiao/i18n-helper-skills",
+  "stars": 14,
+  "desc": "无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本"
+ },
+ {
+  "name": "ICE_WebSDK_demos",
+  "url": "https://github.com/liangdabiao/ICE_WebSDK_demos",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "image-editor",
+  "url": "https://github.com/liangdabiao/image-editor",
+  "stars": 0,
+  "desc": "image-editor是一款在线图片编辑器，操作简单，功能强大，主要技术栈：typescript、leaferjs、react、mobx"
+ },
+ {
+  "name": "image2prompt",
+  "url": "https://github.com/liangdabiao/image2prompt",
+  "stars": 1,
+  "desc": "A free, open-source Chrome extension that turns any image into an AI-ready prompt — 100% vibe-coded by AI."
+ },
+ {
+  "name": "IMaker",
+  "url": "https://github.com/liangdabiao/IMaker",
+  "stars": 0,
+  "desc": "Create striking covers effortlessly with our easy-to-use IMaker."
+ },
+ {
+  "name": "immersive-poetry-page",
+  "url": "https://github.com/liangdabiao/immersive-poetry-page",
+  "stars": 0,
+  "desc": "Codex skill for turning classical Chinese poetry into cinematic, narrated, scroll-driven webpages · zlbigger.com"
+ },
+ {
+  "name": "indie-hacker-tools",
+  "url": "https://github.com/liangdabiao/indie-hacker-tools",
+  "stars": 0,
+  "desc": "收录独立开发者出海技术栈和工具"
+ },
+ {
+  "name": "Instant-Data-Scraper",
+  "url": "https://github.com/liangdabiao/Instant-Data-Scraper",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "Interview-Notebook",
+  "url": "https://github.com/liangdabiao/Interview-Notebook",
+  "stars": 1,
+  "desc": ":calendar: 准备秋招学习笔记"
+ },
+ {
+  "name": "intro-to-angularjs",
+  "url": "https://github.com/liangdabiao/intro-to-angularjs",
+  "stars": 0,
+  "desc": "An Introduction to Angular.JS"
+ },
+ {
+  "name": "investment_Agent_langgraph_crewai",
+  "url": "https://github.com/liangdabiao/investment_Agent_langgraph_crewai",
+  "stars": 59,
+  "desc": "基于CrewAI框架的A股智能投资分析系统，使用多智能体协作进行投资决策。本系统仅供教育和研究目的，不构成实际投资建议。"
+ },
+ {
+  "name": "ip_illustration_for_yourself",
+  "url": "https://github.com/liangdabiao/ip_illustration_for_yourself",
+  "stars": 0,
+  "desc": "A mini pen-doodle IP illustration skill for character building and article illustrations."
+ },
+ {
+  "name": "island",
+  "url": "https://github.com/liangdabiao/island",
+  "stars": 0,
+  "desc": "Node.js+Koa2+MySQL打造前后端分离精品项目《旧岛》"
+ },
+ {
+  "name": "jekyll-now",
+  "url": "https://github.com/liangdabiao/jekyll-now",
+  "stars": 0,
+  "desc": "Build a Jekyll blog in minutes, without touching the command line."
+ },
+ {
+  "name": "jekyll_demo",
+  "url": "https://github.com/liangdabiao/jekyll_demo",
+  "stars": 0,
+  "desc": "jekyll_demo for liangdabiao"
+ },
+ {
+  "name": "jet",
+  "url": "https://github.com/liangdabiao/jet",
+  "stars": 0,
+  "desc": "🚀 Jet is a unification model RPC Client, built-in JSON RPC protocol, available to running in ALL PHP environments, including PHP-FPM and Swoole/Hyperf environments."
+ },
+ {
+  "name": "jin-chat",
+  "url": "https://github.com/liangdabiao/jin-chat",
+  "stars": 0,
+  "desc": "Complete PC chat system based on EasySwoole and PHP  (IM聊天应用)"
+ },
+ {
+  "name": "jQuery",
+  "url": "https://github.com/liangdabiao/jQuery",
+  "stars": 0,
+  "desc": "前端JQuery系列"
+ },
+ {
+  "name": "Jshop_mall",
+  "url": "https://github.com/liangdabiao/Jshop_mall",
+  "stars": 0,
+  "desc": "Jshop小程序商城，是一款开源的支持可视化布局的电商系统，包含微信小程序、支付宝小程序、APP、公众号、H5端、PC端、抖音小程序、今日头条小程序、皮皮虾小程序、西瓜视频小程序，为大中小企业提供移动电子商务优秀的解决方案。"
+ },
+ {
+  "name": "K12-Teaching-Animation",
+  "url": "https://github.com/liangdabiao/K12-Teaching-Animation",
+  "stars": 3,
+  "desc": "K12各学段教学动画（含物理、化学、生物、信息技术等学科）- liangdabiao深度重制版本"
+ },
+ {
+  "name": "Ke",
+  "url": "https://github.com/liangdabiao/Ke",
+  "stars": 0,
+  "desc": "pip安装的贝壳网爬虫API，一行代码将指定筛选条件的全量数据保存为JSON/csv。A pip-install scraper of Beike, the best Chinese online housing platform."
+ },
+ {
+  "name": "Keyword-Bomber-Tool",
+  "url": "https://github.com/liangdabiao/Keyword-Bomber-Tool",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "kj-llm-wiki",
+  "url": "https://github.com/liangdabiao/kj-llm-wiki",
+  "stars": 6,
+  "desc": "Karpathy-llm-wiki方法的实战-生成wiki网站-分享实战代码-跨境电商AI自动化相关wiki文档"
+ },
+ {
+  "name": "Kuai-Shua-Questions",
+  "url": "https://github.com/liangdabiao/Kuai-Shua-Questions",
+  "stars": 1,
+  "desc": "一款功能强大的答题考试小程序，分为四大功能，答题，学习，排名和错题本，答题功能可以随机从选择的题库中抽取题目作答，学习功能可以浏览全部的题目，并具有记忆功能，下次进入会自动回到学习进度，排名功能可以对每套试卷的作答人员进行分数等排名，错题本会自动记录用户在答题中答错的题目，让用户可以复习，并且可以随时移除题目，还有收藏功能可以让用户收藏题目，并且可以设置密码，只有用户输对了密码才可以进入，防止题目外泄。 整个小程序非常适合单位、公司和学校进行人员考核、测评等一系列以考促学的活动"
+ },
+ {
+  "name": "kuaixieya",
+  "url": "https://github.com/liangdabiao/kuaixieya",
+  "stars": 0,
+  "desc": "「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。"
+ },
+ {
+  "name": "kurozora-android",
+  "url": "https://github.com/liangdabiao/kurozora-android",
+  "stars": 0,
+  "desc": "Your go-to platform to discover, share and track anime and much more! "
+ },
+ {
+  "name": "kurozora-app",
+  "url": "https://github.com/liangdabiao/kurozora-app",
+  "stars": 0,
+  "desc": "Your go-to platform to discover, share and track anime and much more!"
+ },
+ {
+  "name": "kurozora-discord-bot",
+  "url": "https://github.com/liangdabiao/kurozora-discord-bot",
+  "stars": 0,
+  "desc": "KuroBot adds an easy way to access Kurozora services on Discord."
+ },
+ {
+  "name": "kurozora-extension",
+  "url": "https://github.com/liangdabiao/kurozora-extension",
+  "stars": 0,
+  "desc": "Kurozora Web Extension for FireFox and Chrome"
+ },
+ {
+  "name": "kurozora-linux",
+  "url": "https://github.com/liangdabiao/kurozora-linux",
+  "stars": 0,
+  "desc": "Your go-to platform to discover, share and track anime and much more on Linux!"
+ },
+ {
+  "name": "kurozora-press-kit",
+  "url": "https://github.com/liangdabiao/kurozora-press-kit",
+  "stars": 0,
+  "desc": "The official Press-Kit of Kurozora."
+ },
+ {
+  "name": "kurozora-web",
+  "url": "https://github.com/liangdabiao/kurozora-web",
+  "stars": 0,
+  "desc": "🏠📱 Home to the Kurozora website & API. Originally started on 2018-04-18 and restarted on 2018-08-13."
+ },
+ {
+  "name": "KurozoraKit",
+  "url": "https://github.com/liangdabiao/KurozoraKit",
+  "stars": 0,
+  "desc": "Simple to use framework for interacting with the Kurozora API"
+ },
+ {
+  "name": "laf",
+  "url": "https://github.com/liangdabiao/laf",
+  "stars": 0,
+  "desc": "🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！"
+ },
+ {
+  "name": "langchain-book-examples",
+  "url": "https://github.com/liangdabiao/langchain-book-examples",
+  "stars": 0,
+  "desc": "Example code for my book \"LangChain Project Lab Book: Hooking Large Language Models Up to the Real World\"  https://leanpub.com/langchain"
+ },
+ {
+  "name": "langgraph-runtime-skill-agent",
+  "url": "https://github.com/liangdabiao/langgraph-runtime-skill-agent",
+  "stars": 12,
+  "desc": "基于langgraph-runtime和skill的agent，将本地 Agent Skill 包装成 HTTP API 服务。用户发起 SSE 请求，Agent 自动选择 Skill、读取流程说明（SKILL.md）、调用脚本或搜索网页，最终流式返回结果。  ## 核心设计原则  本系统遵循 **\"模型负责判断和编排，脚本负责确定性执行\"** 的架构"
+ },
+ {
+  "name": "langgraph_multi-agent-rag-customer-support",
+  "url": "https://github.com/liangdabiao/langgraph_multi-agent-rag-customer-support",
+  "stars": 335,
+  "desc": "本项目实现了一个基于多智能体（Multi-Agent）和检索增强生成（Retrieval-Augmented Generation, RAG）技术的客户支持系统。它利用 Python、LangChain 和 LangGraph 构建了一个能够处理各种旅行相关查询的对话式 AI，包括航班预订、租车、酒店预订和行程推荐。还有对接了woocommerce商城进行商品查询，文章查询，表单提交，订单查询等商城功能。"
+ },
+ {
+  "name": "larabbs",
+  "url": "https://github.com/liangdabiao/larabbs",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "larabbs-saas",
+  "url": "https://github.com/liangdabiao/larabbs-saas",
+  "stars": 0,
+  "desc": "主要是想通过介绍怎样利用laravel做一个论坛多后台SaaS的案例，来介绍SaaS技术方案。"
+ },
+ {
+  "name": "laracom",
+  "url": "https://github.com/liangdabiao/laracom",
+  "stars": 0,
+  "desc": "laracom driven by go micro services"
+ },
+ {
+  "name": "laravel-5-blog",
+  "url": "https://github.com/liangdabiao/laravel-5-blog",
+  "stars": 0,
+  "desc": "一个用 laravel 5 开发的 博客系统"
+ },
+ {
+  "name": "Laravel-Administrator",
+  "url": "https://github.com/liangdabiao/Laravel-Administrator",
+  "stars": 0,
+  "desc": "An administrative interface package for Laravel"
+ },
+ {
+  "name": "Laravel-Pagebuilder",
+  "url": "https://github.com/liangdabiao/Laravel-Pagebuilder",
+  "stars": 0,
+  "desc": "  A drag and drop pagebuilder to manage pages in any Laravel project"
+ },
+ {
+  "name": "laravel-plugin",
+  "url": "https://github.com/liangdabiao/laravel-plugin",
+  "stars": 0,
+  "desc": "Plug-in mechanism based on laravel"
+ },
+ {
+  "name": "laravel-shop",
+  "url": "https://github.com/liangdabiao/laravel-shop",
+  "stars": 0,
+  "desc": "Laravel 电商实战教程的项目代码"
+ },
+ {
+  "name": "laravel-shop-saas",
+  "url": "https://github.com/liangdabiao/laravel-shop-saas",
+  "stars": 5,
+  "desc": "主要是想通过介绍怎样利用laravel做一个独立站商城SaaS的案例，来介绍SaaS技术方案。"
+ },
+ {
+  "name": "laravel-shopping-cart",
+  "url": "https://github.com/liangdabiao/laravel-shopping-cart",
+  "stars": 0,
+  "desc": "e-commerce shopping cart for laravel application."
+ },
+ {
+  "name": "laravel-user-monitoring",
+  "url": "https://github.com/liangdabiao/laravel-user-monitoring",
+  "stars": 0,
+  "desc": "Monitor your user and all activity on your application"
+ },
+ {
+  "name": "laravel5-angular-material-starter",
+  "url": "https://github.com/liangdabiao/laravel5-angular-material-starter",
+  "stars": 0,
+  "desc": "Laravel 5 angular material starter project with elixir setup"
+ },
+ {
+  "name": "laravel55-layuiadmin",
+  "url": "https://github.com/liangdabiao/laravel55-layuiadmin",
+  "stars": 0,
+  "desc": "基于layuiadmin后台UI做的laravel55后台"
+ },
+ {
+  "name": "LaravelShoppingcart",
+  "url": "https://github.com/liangdabiao/LaravelShoppingcart",
+  "stars": 0,
+  "desc": "A simple shopping cart implementation for Laravel 4"
+ },
+ {
+  "name": "laravel_template_with_vue",
+  "url": "https://github.com/liangdabiao/laravel_template_with_vue",
+  "stars": 0,
+  "desc": "laravel5.5和vue.js结合的前后端分离项目模板,后端使用了laravel的LTS版本（5.5），前端使用了流行的vue-element-template项目。作为程序的起点，可以直接以此为基础来进行业务扩展。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合laravel-echo-server 实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能。权限管理包括后端Token认证和前端vue.js的动态权限，解决了前后端完整分离的情况下，vue.js的认证与权限相关的痛点，已在本人的多个项目中集成使用。"
+ },
+ {
+  "name": "lark-crm-feishu-cli",
+  "url": "https://github.com/liangdabiao/lark-crm-feishu-cli",
+  "stars": 11,
+  "desc": "`lark-crm` 是一个 基于飞书CLI 的 Agent Skill，它将你的「轻型 CRM 系统」多维表格封装成对话式管理工具。你不需要记住任何表名、字段名或命令参数，只需用自然语言描述你的意图，skill 就会自动："
+ },
+ {
+  "name": "lark-workflow-feishu-cli",
+  "url": "https://github.com/liangdabiao/lark-workflow-feishu-cli",
+  "stars": 68,
+  "desc": "# 飞书 AI 效率系统 — 20 大工作流 Skill  > 基于 Claude Agent/OpenClaw Skill + 飞书 CLI (lark-cli) 构建的个人 AI 效率基础设施。 > 将 Claude Agent/OpenClaw 10 大实战用例完整迁移到飞书生态，适合 Claude Agent Skill 和 OpenClaw，用飞书各模块实现所有工作流功能。"
+ },
+ {
+  "name": "later",
+  "url": "https://github.com/liangdabiao/later",
+  "stars": 0,
+  "desc": "A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser."
+ },
+ {
+  "name": "laychat",
+  "url": "https://github.com/liangdabiao/laychat",
+  "stars": 0,
+  "desc": "layIM+workerman+thinkphp5的webIM即时通讯系统 V2.0"
+ },
+ {
+  "name": "ldraw-nova",
+  "url": "https://github.com/liangdabiao/ldraw-nova",
+  "stars": 0,
+  "desc": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev"
+ },
+ {
+  "name": "ldraw-nova-docker",
+  "url": "https://github.com/liangdabiao/ldraw-nova-docker",
+  "stars": 0,
+  "desc": "Dockerized setup and webapp for ldraw-nova"
+ },
+ {
+  "name": "ldraw-visualizer",
+  "url": "https://github.com/liangdabiao/ldraw-visualizer",
+  "stars": 0,
+  "desc": "An in-browser LEGO model viewer, built using three.js and LDraw part files."
+ },
+ {
+  "name": "LeanEngine-Full-Stack",
+  "url": "https://github.com/liangdabiao/LeanEngine-Full-Stack",
+  "stars": 0,
+  "desc": "LeanEngine Full Stack Generator "
+ },
+ {
+  "name": "Learn-Laravel-5",
+  "url": "https://github.com/liangdabiao/Learn-Laravel-5",
+  "stars": 0,
+  "desc": "Laravel 5 系列入门教程 代码示例"
+ },
+ {
+  "name": "learn-with-open-source",
+  "url": "https://github.com/liangdabiao/learn-with-open-source",
+  "stars": 0,
+  "desc": "借助开源项目，学习软件开发"
+ },
+ {
+  "name": "learngit",
+  "url": "https://github.com/liangdabiao/learngit",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "LearningNodeJS",
+  "url": "https://github.com/liangdabiao/LearningNodeJS",
+  "stars": 0,
+  "desc": "Source code to accompany my book, \"Learning Node.JS\""
+ },
+ {
+  "name": "learnku",
+  "url": "https://github.com/liangdabiao/learnku",
+  "stars": 0,
+  "desc": "learnku.net 网站使用 laravel5.5 重新架构"
+ },
+ {
+  "name": "learnyounode",
+  "url": "https://github.com/liangdabiao/learnyounode",
+  "stars": 0,
+  "desc": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops."
+ },
+ {
+  "name": "lego-art-remix",
+  "url": "https://github.com/liangdabiao/lego-art-remix",
+  "stars": 0,
+  "desc": "Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!)"
+ },
+ {
+  "name": "lego-cinematic-remix",
+  "url": "https://github.com/liangdabiao/lego-cinematic-remix",
+  "stars": 12,
+  "desc": "agent skill: 乐高积木搭成一个小镇，让积木小人在里面演戏，再用电影镜头拍下来——这就是这个工具做出的画面效果。  你只需要说一句话，比如：  \"拍一个功夫小子误闯赌场酒店，被保镖追着满楼梯跑的故事\" \"来一个猫咪侦探破案的故事\" \"把我写好的小说变成积木动画\" 它就会自动完成一套完整的\"动画制片流程\""
+ },
+ {
+  "name": "Lego-Expo",
+  "url": "https://github.com/liangdabiao/Lego-Expo",
+  "stars": 0,
+  "desc": "Play with Lego bricks anywhere using Expo"
+ },
+ {
+  "name": "LegoBrickClassification",
+  "url": "https://github.com/liangdabiao/LegoBrickClassification",
+  "stars": 0,
+  "desc": "Repository to identify Lego bricks automatically only using images"
+ },
+ {
+  "name": "legowiki",
+  "url": "https://github.com/liangdabiao/legowiki",
+  "stars": 0,
+  "desc": "lego wiki"
+ },
+ {
+  "name": "Lets-Build-a-Forum-in-Laravel",
+  "url": "https://github.com/liangdabiao/Lets-Build-a-Forum-in-Laravel",
+  "stars": 0,
+  "desc": "http://laracasts.com/series/lets-build-a-forum-with-laravel"
+ },
+ {
+  "name": "liang-skills-intro",
+  "url": "https://github.com/liangdabiao/liang-skills-intro",
+  "stars": 7,
+  "desc": "这个 AI 技能项目集合中 **56 个项目** 的入门介绍，每篇都用大白话讲清楚\"它能帮人解决什么问题、怎么用、谁适合用、以及它的边界在哪\"。"
+ },
+ {
+  "name": "liangblog",
+  "url": "https://github.com/liangdabiao/liangblog",
+  "stars": 0,
+  "desc": "liangdabiao-blogging!!!"
+ },
+ {
+  "name": "liangdabiao",
+  "url": "https://github.com/liangdabiao/liangdabiao",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "liangdabiao-toolsets-page",
+  "url": "https://github.com/liangdabiao/liangdabiao-toolsets-page",
+  "stars": 8,
+  "desc": "liangdabiao toolsets page"
+ },
+ {
+  "name": "liangdabiao.github.io",
+  "url": "https://github.com/liangdabiao/liangdabiao.github.io",
+  "stars": 17,
+  "desc": "liangdabiao 的 agent 小册子，介绍我认识的各种有用agent ai技术. AI 技术框架教学站：阿里云百炼、LangGraph、Claude Agent SDK、OpenAI Agents SDK、DeepAgents、DeerFlow、Flue、Vercel Eve、Cloudflare Agents、EdgeOne Makers、Agent Skills 等多门课程，从入门到精通。"
+ },
+ {
+  "name": "liangdabiao_blog",
+  "url": "https://github.com/liangdabiao/liangdabiao_blog",
+  "stars": 0,
+  "desc": "my blog, just short but talk"
+ },
+ {
+  "name": "lianjia-beike-spider",
+  "url": "https://github.com/liangdabiao/lianjia-beike-spider",
+  "stars": 0,
+  "desc": "链家网和贝壳网房价爬虫，采集北京上海广州深圳等21个中国主要城市的房价数据（小区，二手房，出租房，新房），稳定可靠快速！支持csv,MySQL, MongoDB,Excel, json存储，支持Python2和3，图表展示数据，注释丰富 🚁，点星支持"
+ },
+ {
+  "name": "lianjia-scrawler",
+  "url": "https://github.com/liangdabiao/lianjia-scrawler",
+  "stars": 0,
+  "desc": "链家二手房租房在线数据，存量房交易服务平台数据，详细数据分析教程"
+ },
+ {
+  "name": "LianJiaSpider",
+  "url": "https://github.com/liangdabiao/LianJiaSpider",
+  "stars": 0,
+  "desc": "链家爬虫"
+ },
+ {
+  "name": "light-reading-cloud",
+  "url": "https://github.com/liangdabiao/light-reading-cloud",
+  "stars": 0,
+  "desc": " :books: 轻松阅读，基于SpringCloud生态开发的阅读类APP微服务实战项目，涉及 SpringCloud-Gateway、Nacos、OpenFeign、Hystrix、Jwt、ElasticSearch 等技术的应用"
+ },
+ {
+  "name": "liurun-bookwriter-skills",
+  "url": "https://github.com/liangdabiao/liurun-bookwriter-skills",
+  "stars": 277,
+  "desc": "蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。"
+ },
+ {
+  "name": "lizard",
+  "url": "https://github.com/liangdabiao/lizard",
+  "stars": 0,
+  "desc": "💐 Full Amazon Automatic Download 亚马逊全网采集程序"
+ },
+ {
+  "name": "LLM-Agent-Resume",
+  "url": "https://github.com/liangdabiao/LLM-Agent-Resume",
+  "stars": 127,
+  "desc": "实战案例：从 0 到 1 搭建 LLM 智能简历筛选 Agent 系统（设计+实现）智能简历筛选系统 · Resume Screener 基于 LLM + 向量检索的智能简历筛选系统  上传简历 → 用一句话描述岗位需求 → 自动解析、检索、过滤、评分、排序并生成候选人分析报告"
+ },
+ {
+  "name": "llm-wiki",
+  "url": "https://github.com/liangdabiao/llm-wiki",
+  "stars": 156,
+  "desc": "基于 [Karpathy llm-wiki]方法论，利用 AI 持续构建和维护你的个人知识库。支持从多种素材源（网页、推特、公众号、小红书、知乎、YouTube、PDF、本地文件）自动整理为结构化的 wiki，并通过 Quartz 发布为静态wiki知识库网站。 并通过 claude_agent_sdk 调用 claude agent 使用 llm-wiki ,提供api接口对外访问服务 。"
+ },
+ {
+  "name": "llm-wiki-claude-agent-sdk-agentic-rag",
+  "url": "https://github.com/liangdabiao/llm-wiki-claude-agent-sdk-agentic-rag",
+  "stars": 39,
+  "desc": "Claude Agent SDK + LLM-wiki，就是最强大的agentic RAG  。让 AI 当一个“知识编译器”，先把你的所有资料读一遍，整理成一本结构清晰、彼此关联的百科全书。以后你再提问，AI 直接翻这本百科书就行了。 本项目主要展示了我制作的 llm-wiki 怎样通过 Claude Agent SDK 转为 agentic rag， 效果非常好的。使用方法：.venv\\Scripts\\Activate.ps1; python 7_wiki_writer.py --request \"怎样拼搭微型车\""
+ },
+ {
+  "name": "lobe-chat",
+  "url": "https://github.com/liangdabiao/lobe-chat",
+  "stars": 0,
+  "desc": "🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application."
+ },
+ {
+  "name": "local-xiuxiu-photo-editor",
+  "url": "https://github.com/liangdabiao/local-xiuxiu-photo-editor",
+  "stars": 0,
+  "desc": "美图秀秀相片编辑器本地版"
+ },
+ {
+  "name": "loong-season",
+  "url": "https://github.com/liangdabiao/loong-season",
+  "stars": 0,
+  "desc": "因为对中国文化感兴趣，把端午、屈原和龙舟做成了一款游戏。"
+ },
+ {
+  "name": "luban-h5",
+  "url": "https://github.com/liangdabiao/luban-h5",
+  "stars": 0,
+  "desc": "[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统."
+ },
+ {
+  "name": "lulucms",
+  "url": "https://github.com/liangdabiao/lulucms",
+  "stars": 0,
+  "desc": "One CMS powerd by Yii2.0 ( please use lulucms2 )"
+ },
+ {
+  "name": "lulucms2",
+  "url": "https://github.com/liangdabiao/lulucms2",
+  "stars": 1,
+  "desc": "powerful and modularity CMS,based on Yii2"
+ },
+ {
+  "name": "LumenIM",
+  "url": "https://github.com/liangdabiao/LumenIM",
+  "stars": 0,
+  "desc": "Lumen IM 是一个网页版在线聊天项目，前端使用 Element-ui + Vue，后端采用了基于 Swoole 开发的 Hyperf 协程框架进行接口开发，并使用 WebSocket 服务进行消息实时推送。"
+ },
+ {
+  "name": "luna-ai",
+  "url": "https://github.com/liangdabiao/luna-ai",
+  "stars": 0,
+  "desc": "Luna AI - 全自动的 AI 直播系统"
+ },
+ {
+  "name": "mac",
+  "url": "https://github.com/liangdabiao/mac",
+  "stars": 0,
+  "desc": "Best Installation Guides For Full-Stack Developers Using MAC OS - MAC全栈开发环境搭建指南"
+ },
+ {
+  "name": "magento-2-mega-menu",
+  "url": "https://github.com/liangdabiao/magento-2-mega-menu",
+  "stars": 1,
+  "desc": "Mageno 2 Mega Menu (Magicmenu) helps you create neat and smart navigation menus to display the main categories on your website."
+ },
+ {
+  "name": "magento2-alpaca-theme",
+  "url": "https://github.com/liangdabiao/magento2-alpaca-theme",
+  "stars": 0,
+  "desc": "Magento 2 theme built on top of Alpaca design system crafted for ecommerce"
+ },
+ {
+  "name": "magento2-rapid-theme",
+  "url": "https://github.com/liangdabiao/magento2-rapid-theme",
+  "stars": 0,
+  "desc": "Divante Rapid Theme for Magento 2. More information http://go.divante.co/divante-for-fashion/"
+ },
+ {
+  "name": "magento_custom_reports_example",
+  "url": "https://github.com/liangdabiao/magento_custom_reports_example",
+  "stars": 0,
+  "desc": "An example module about the basic of how to create a custom report in Magento"
+ },
+ {
+  "name": "mail-for-good",
+  "url": "https://github.com/liangdabiao/mail-for-good",
+  "stars": 0,
+  "desc": "An open source email campaign management tool for nonprofits"
+ },
+ {
+  "name": "make-prompt-seedance2",
+  "url": "https://github.com/liangdabiao/make-prompt-seedance2",
+  "stars": 701,
+  "desc": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语和通用SKILL，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告| 真人实拍视频效果"
+ },
+ {
+  "name": "mall-coupons",
+  "url": "https://github.com/liangdabiao/mall-coupons",
+  "stars": 0,
+  "desc": "淘宝客项目，支持App，微信小程序，QQ小程序"
+ },
+ {
+  "name": "mall-coupons-server",
+  "url": "https://github.com/liangdabiao/mall-coupons-server",
+  "stars": 0,
+  "desc": "淘宝客项目，支持App，微信小程序，QQ小程序"
+ },
+ {
+  "name": "mallerp_standard",
+  "url": "https://github.com/liangdabiao/mallerp_standard",
+  "stars": 0,
+  "desc": "mallerp中小卖家版本"
+ },
+ {
+  "name": "market-insight-claude-skill",
+  "url": "https://github.com/liangdabiao/market-insight-claude-skill",
+  "stars": 151,
+  "desc": "claude-skill:用户需求洞察与产品机会分析技能。适用于新产品开发、营销策划、品类切入前的市场分析。当你需要快速理解目标用户、挖掘情绪动机、将洞察转化为可落地的产品机会时使用此技能。基于三段式提示词框架，帮助你在10分钟内完成传统方法需要数周才能完成的用户洞察分析。这不是泛泛而谈的空话，而是能看到具体画面的深度洞察，可直接用于产品设计和营销文案。"
+ },
+ {
+  "name": "marketing-campaign-agent",
+  "url": "https://github.com/liangdabiao/marketing-campaign-agent",
+  "stars": 0,
+  "desc": "Marketing Campaign Planner 基于 CrewAI 多智能体框架的 AI 营销活动策划系统，通过交互式分阶段对话引导用户完成端到端的营销方案策划。  框架: CrewAI · 分类: 营销策划 · 语言: Python"
+ },
+ {
+  "name": "marketing_site",
+  "url": "https://github.com/liangdabiao/marketing_site",
+  "stars": 0,
+  "desc": "The new Laravel based marketing site for Monica"
+ },
+ {
+  "name": "marmot",
+  "url": "https://github.com/liangdabiao/marmot",
+  "stars": 0,
+  "desc": "💐Marmot A Golang HTTP Download"
+ },
+ {
+  "name": "math-concept-film",
+  "url": "https://github.com/liangdabiao/math-concept-film",
+  "stars": 30,
+  "desc": "math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。  这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句：  “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术"
+ },
+ {
+  "name": "mautic-recommender-bundle",
+  "url": "https://github.com/liangdabiao/mautic-recommender-bundle",
+  "stars": 0,
+  "desc": "The first product recommendations system for Mautic"
+ },
+ {
+  "name": "MauticDemoBundle",
+  "url": "https://github.com/liangdabiao/MauticDemoBundle",
+  "stars": 0,
+  "desc": "demo plugin for mautic"
+ },
+ {
+  "name": "mcp-deepresearch",
+  "url": "https://github.com/liangdabiao/mcp-deepresearch",
+  "stars": 1,
+  "desc": "MCP DeepResearch Server: 基于 LangGraph + Ollama + Tavily 的深度研究服务器，支持异步运行、超时控制与进度推送"
+ },
+ {
+  "name": "mdto",
+  "url": "https://github.com/liangdabiao/mdto",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "MediaCrawler",
+  "url": "https://github.com/liangdabiao/MediaCrawler",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "MedicalGPT",
+  "url": "https://github.com/liangdabiao/MedicalGPT",
+  "stars": 0,
+  "desc": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO。"
+ },
+ {
+  "name": "mescake",
+  "url": "https://github.com/liangdabiao/mescake",
+  "stars": 0,
+  "desc": "main web"
+ },
+ {
+  "name": "metersphere",
+  "url": "https://github.com/liangdabiao/metersphere",
+  "stars": 0,
+  "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！"
+ },
+ {
+  "name": "Micro-Drama-Skills",
+  "url": "https://github.com/liangdabiao/Micro-Drama-Skills",
+  "stars": 4,
+  "desc": "AI 驱动的短剧全流程自动化制作系统。通过 Claude Skills 实现从剧本编写、角色设计、分镜生成到视频提交的完整工作流。"
+ },
+ {
+  "name": "micro-go-course",
+  "url": "https://github.com/liangdabiao/micro-go-course",
+  "stars": 0,
+  "desc": "拉勾教育课程源码 《Go 微服务实战 38 讲》"
+ },
+ {
+  "name": "microblog",
+  "url": "https://github.com/liangdabiao/microblog",
+  "stars": 0,
+  "desc": "simple microblog power by express4 and jade template"
+ },
+ {
+  "name": "microweber",
+  "url": "https://github.com/liangdabiao/microweber",
+  "stars": 0,
+  "desc": "Drag and Drop Website Builder and CMS with E-commerce"
+ },
+ {
+  "name": "Mindustry",
+  "url": "https://github.com/liangdabiao/Mindustry",
+  "stars": 0,
+  "desc": "The automation tower defense RTS"
+ },
+ {
+  "name": "miniprogram-ecommerce-open-source",
+  "url": "https://github.com/liangdabiao/miniprogram-ecommerce-open-source",
+  "stars": 0,
+  "desc": "iBrand's opensource ecommerce for miniprogram"
+ },
+ {
+  "name": "MoBlog",
+  "url": "https://github.com/liangdabiao/MoBlog",
+  "stars": 0,
+  "desc": "一个基于Yii2的博客系统"
+ },
+ {
+  "name": "mochat",
+  "url": "https://github.com/liangdabiao/mochat",
+  "stars": 0,
+  "desc": "基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!"
+ },
+ {
+  "name": "momo",
+  "url": "https://github.com/liangdabiao/momo",
+  "stars": 0,
+  "desc": "php直播go直播,短视频,直播带货,仿比心,猎游,tt语音聊天,美女约玩,陪玩系统源码开黑,约玩源码."
+ },
+ {
+  "name": "monday-shop",
+  "url": "https://github.com/liangdabiao/monday-shop",
+  "stars": 0,
+  "desc": "网上在线商城、综合网上购物平台"
+ },
+ {
+  "name": "MoneyPrinterTurbo",
+  "url": "https://github.com/liangdabiao/MoneyPrinterTurbo",
+  "stars": 0,
+  "desc": "利用大模型，一键生成短视频"
+ },
+ {
+  "name": "MoneyPrinterV2",
+  "url": "https://github.com/liangdabiao/MoneyPrinterV2",
+  "stars": 1,
+  "desc": "Automate the process of making money online."
+ },
+ {
+  "name": "monica-crm-claude-skill",
+  "url": "https://github.com/liangdabiao/monica-crm-claude-skill",
+  "stars": 13,
+  "desc": "聊天就是CRM - claude skill 做一个crm，直接通讯聊天管理crm - 在claude code , openclaw 方便使用  claude code , openclaw 是有记忆功能，但是crm往往比较复杂和严肃，如果有一个系统的crm整理客户信息，显然会更好"
+ },
+ {
+  "name": "moodle-theme_moove",
+  "url": "https://github.com/liangdabiao/moodle-theme_moove",
+  "stars": 0,
+  "desc": "A Moodle Boost child theme"
+ },
+ {
+  "name": "moredoc",
+  "url": "https://github.com/liangdabiao/moredoc",
+  "stars": 0,
+  "desc": "moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。"
+ },
+ {
+  "name": "MTBSystem",
+  "url": "https://github.com/liangdabiao/MTBSystem",
+  "stars": 0,
+  "desc": "使用go-micro微服务实现的在线电影院订票系统"
+ },
+ {
+  "name": "mui",
+  "url": "https://github.com/liangdabiao/mui",
+  "stars": 0,
+  "desc": "最接近原生APP体验的高性能框架"
+ },
+ {
+  "name": "multi-agent-rag-customer-support",
+  "url": "https://github.com/liangdabiao/multi-agent-rag-customer-support",
+  "stars": 1,
+  "desc": "Multi-Agent Retrieval-Augmented Generation (RAG) Customer Support System using Python, LangChain, and LangGraph."
+ },
+ {
+  "name": "Multimodal-RAG",
+  "url": "https://github.com/liangdabiao/Multimodal-RAG",
+  "stars": 41,
+  "desc": "基于多模态 Embedding + Zilliz + Qwen 视觉理解的多模态 RAG 系统。支持 **Cohere / DashScope Embedding** 和 **DashScope / OpenRouter LLM** 双引擎切换。上传 PDF，用自然语言提问，系统自动检索最相关的页面并由 AI 生成回答。  与传统 RAG 不同，本系统**不做文本提取和 OCR**，而是直接将 PDF 页面当作图片处理，通过视觉 Embedding 模型编码，完整保留表格、图表、排版、手写批注等所有视觉信息。"
+ },
+ {
+  "name": "Multitenant-Apps-in-Laravel",
+  "url": "https://github.com/liangdabiao/Multitenant-Apps-in-Laravel",
+  "stars": 0,
+  "desc": "Source Code for the Tuts+ Course: Building Multi-Tenant Apps in Laravel"
+ },
+ {
+  "name": "Muse-charm-mosaico",
+  "url": "https://github.com/liangdabiao/Muse-charm-mosaico",
+  "stars": 0,
+  "desc": "基于 Muse Gadget SDK 的 ESP-Mosaico 语音 AI 伙伴，支持按键对话、千问朗读、八种角色动态、中英文界面、手机 Wi-Fi 配置与 Muse 生成角色。An ESP-Mosaico voice AI companion based on the Muse Gadget SDK, featuring push-to-talk interaction, Qwen text-to-speech, eight dynamic character modes, bilingual Chinese-English UI, mobile Wi-Fi setup, and Muse-generated characters."
+ },
+ {
+  "name": "music-imooc",
+  "url": "https://github.com/liangdabiao/music-imooc",
+  "stars": 0,
+  "desc": "从0打造云音乐全栈小程序"
+ },
+ {
+  "name": "My-Assets-Chrome-Extentions",
+  "url": "https://github.com/liangdabiao/My-Assets-Chrome-Extentions",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "my-git",
+  "url": "https://github.com/liangdabiao/my-git",
+  "stars": 0,
+  "desc": "个人学习git的资料整理，欢迎关注……"
+ },
+ {
+  "name": "mycncart",
+  "url": "https://github.com/liangdabiao/mycncart",
+  "stars": 0,
+  "desc": "如OpenCart为世界上最受欢迎最好的开源B2B, B2C解决方案一样，紧随OpenCart系统开发和升级的MyCnCart同样是开源、简洁、易用、功能丰富、SEO最佳优化的B2B, B2C解决方案。你可以试用所有的开源B2C系统，但你会发现针对中国及华语市场MyCnCart是首选！"
+ },
+ {
+  "name": "my_ai_town",
+  "url": "https://github.com/liangdabiao/my_ai_town",
+  "stars": 1,
+  "desc": "我的AI小镇"
+ },
+ {
+  "name": "nano-banana-prompt-studio",
+  "url": "https://github.com/liangdabiao/nano-banana-prompt-studio",
+  "stars": 0,
+  "desc": "一个面向nano-banana-pro（gemini-3-pro-image-preview）文生图模型的提示词结构化与优化工具集。 它帮助你快速构建高质量的提示词，并一键调用接口生成图片，让「想法 → 好图」变得更简单、更可控。"
+ },
+ {
+  "name": "nanomotion",
+  "url": "https://github.com/liangdabiao/nanomotion",
+  "stars": 0,
+  "desc": "Stop-Motion animation generator"
+ },
+ {
+  "name": "NCE-Flow",
+  "url": "https://github.com/liangdabiao/NCE-Flow",
+  "stars": 32,
+  "desc": "把任何mp3转为英语课程：英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
+ },
+ {
+  "name": "neon-zenith",
+  "url": "https://github.com/liangdabiao/neon-zenith",
+  "stars": 0,
+  "desc": "原创科幻竖版弹幕射击网页游戏 / Phaser 4.2 + TypeScript"
+ },
+ {
+  "name": "nesbox",
+  "url": "https://github.com/liangdabiao/nesbox",
+  "stars": 0,
+  "desc": "Online multiplayer NES(FC) games"
+ },
+ {
+  "name": "nest-admin",
+  "url": "https://github.com/liangdabiao/nest-admin",
+  "stars": 0,
+  "desc": "nest全栈快速开发平台"
+ },
+ {
+  "name": "new-wordpress-theme",
+  "url": "https://github.com/liangdabiao/new-wordpress-theme",
+  "stars": 0,
+  "desc": "A simple Theme to start a new WordPress Theme"
+ },
+ {
+  "name": "newbee-mall",
+  "url": "https://github.com/liangdabiao/newbee-mall",
+  "stars": 0,
+  "desc": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。"
+ },
+ {
+  "name": "newbee-mall-vue-app",
+  "url": "https://github.com/liangdabiao/newbee-mall-vue-app",
+  "stars": 0,
+  "desc": "Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码"
+ },
+ {
+  "name": "NewsCrawl",
+  "url": "https://github.com/liangdabiao/NewsCrawl",
+  "stars": 0,
+  "desc": "狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑 "
+ },
+ {
+  "name": "Nexior",
+  "url": "https://github.com/liangdabiao/Nexior",
+  "stars": 0,
+  "desc": "One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits."
+ },
+ {
+  "name": "nextjs-learn-demos",
+  "url": "https://github.com/liangdabiao/nextjs-learn-demos",
+  "stars": 0,
+  "desc": "Sharing Technologies in the Next.js Ecosystem."
+ },
+ {
+  "name": "NinjaVanTrackingAPI",
+  "url": "https://github.com/liangdabiao/NinjaVanTrackingAPI",
+  "stars": 0,
+  "desc": "A complete NinjaVanAPI for order tracking."
+ },
+ {
+  "name": "no-framework",
+  "url": "https://github.com/liangdabiao/no-framework",
+  "stars": 0,
+  "desc": "An example of a modern PHP application bootstrapped without a framework."
+ },
+ {
+  "name": "node-lessons",
+  "url": "https://github.com/liangdabiao/node-lessons",
+  "stars": 0,
+  "desc": "《Node.js 包教不包会》"
+ },
+ {
+  "name": "nodebeginner.org",
+  "url": "https://github.com/liangdabiao/nodebeginner.org",
+  "stars": 0,
+  "desc": "A comprehensive Node.js tutorial for beginners"
+ },
+ {
+  "name": "nodeclub",
+  "url": "https://github.com/liangdabiao/nodeclub",
+  "stars": 0,
+  "desc": ":baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统"
+ },
+ {
+  "name": "nodejs-demo",
+  "url": "https://github.com/liangdabiao/nodejs-demo",
+  "stars": 0,
+  "desc": "nodejs-demo"
+ },
+ {
+  "name": "Noi",
+  "url": "https://github.com/liangdabiao/Noi",
+  "stars": 0,
+  "desc": "🚀 Power Your World with AI - Explore, Extend, Empower."
+ },
+ {
+  "name": "noname",
+  "url": "https://github.com/liangdabiao/noname",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "note-gen-image-sync",
+  "url": "https://github.com/liangdabiao/note-gen-image-sync",
+  "stars": 0,
+  "desc": "This is a NoteGen sync repository."
+ },
+ {
+  "name": "novel-to-game",
+  "url": "https://github.com/liangdabiao/novel-to-game",
+  "stars": 1,
+  "desc": "将任何小说蒸馏为可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)"
+ },
+ {
+  "name": "npcAiGame",
+  "url": "https://github.com/liangdabiao/npcAiGame",
+  "stars": 0,
+  "desc": "使用千帆大模型平台 在 rpg maker mz 做的插件，可以创建 ai npc  可以修改变量，可以将事件存储为记忆保存在本地txt"
+ },
+ {
+  "name": "nw.js",
+  "url": "https://github.com/liangdabiao/nw.js",
+  "stars": 0,
+  "desc": "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
+ },
+ {
+  "name": "nxcrm",
+  "url": "https://github.com/liangdabiao/nxcrm",
+  "stars": 0,
+  "desc": "基于laravel的客户管理系统(CRM)"
+ },
+ {
+  "name": "oath-of-the-frost-crown",
+  "url": "https://github.com/liangdabiao/oath-of-the-frost-crown",
+  "stars": 0,
+  "desc": "godot learning project"
+ },
+ {
+  "name": "october",
+  "url": "https://github.com/liangdabiao/october",
+  "stars": 0,
+  "desc": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework."
+ },
+ {
+  "name": "octopress",
+  "url": "https://github.com/liangdabiao/octopress",
+  "stars": 0,
+  "desc": "Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?"
+ },
+ {
+  "name": "Onboard",
+  "url": "https://github.com/liangdabiao/Onboard",
+  "stars": 0,
+  "desc": "An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code."
+ },
+ {
+  "name": "one-api",
+  "url": "https://github.com/liangdabiao/one-api",
+  "stars": 0,
+  "desc": "OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI."
+ },
+ {
+  "name": "online-go.com",
+  "url": "https://github.com/liangdabiao/online-go.com",
+  "stars": 0,
+  "desc": "Source code for the Online-Go.com web interface"
+ },
+ {
+  "name": "online-retail-sales-analysis",
+  "url": "https://github.com/liangdabiao/online-retail-sales-analysis",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "onlineQues",
+  "url": "https://github.com/liangdabiao/onlineQues",
+  "stars": 1,
+  "desc": "基于云开发的在线答题小程序"
+ },
+ {
+  "name": "onlineQuestion",
+  "url": "https://github.com/liangdabiao/onlineQuestion",
+  "stars": 0,
+  "desc": "基于云开发的在线答题小程序"
+ },
+ {
+  "name": "open-chat-video-editor",
+  "url": "https://github.com/liangdabiao/open-chat-video-editor",
+  "stars": 0,
+  "desc": "Open source short video automatic generation tool"
+ },
+ {
+  "name": "open-saas",
+  "url": "https://github.com/liangdabiao/open-saas",
+  "stars": 0,
+  "desc": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven."
+ },
+ {
+  "name": "open-source-games",
+  "url": "https://github.com/liangdabiao/open-source-games",
+  "stars": 0,
+  "desc": "A list of open source games."
+ },
+ {
+  "name": "open-source-games-zh",
+  "url": "https://github.com/liangdabiao/open-source-games-zh",
+  "stars": 0,
+  "desc": "开源游戏清单中文版 | 250+ 开源游戏与商业游戏开源重制版合集 · 基于 bobeff/open-source-games（CC0）"
+ },
+ {
+  "name": "open-source-ios-apps",
+  "url": "https://github.com/liangdabiao/open-source-ios-apps",
+  "stars": 0,
+  "desc": ":iphone: Collaborative List of Open-Source iOS Apps"
+ },
+ {
+  "name": "opencart",
+  "url": "https://github.com/liangdabiao/opencart",
+  "stars": 0,
+  "desc": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution."
+ },
+ {
+  "name": "openclassify",
+  "url": "https://github.com/liangdabiao/openclassify",
+  "stars": 0,
+  "desc": "OpenClassify is modular and most advanced open source classified platform build with Laravel 8.1 & PHP 8.2 Supported. Included Pyrocms"
+ },
+ {
+  "name": "Osintgram",
+  "url": "https://github.com/liangdabiao/Osintgram",
+  "stars": 0,
+  "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname"
+ },
+ {
+  "name": "OurTimes",
+  "url": "https://github.com/liangdabiao/OurTimes",
+  "stars": 0,
+  "desc": "基于位置的通讯录(built on Node + MongoDB + AngularJS)"
+ },
+ {
+  "name": "PageIndex",
+  "url": "https://github.com/liangdabiao/PageIndex",
+  "stars": 0,
+  "desc": "📄 页索引：基于推理的 RAG 文档索引系统"
+ },
+ {
+  "name": "PageTemplatify",
+  "url": "https://github.com/liangdabiao/PageTemplatify",
+  "stars": 0,
+  "desc": "面向企业官网与备案用途的多模板静态网页生成器 | A multi-template static site generator for landing pages & ICP-ready sites"
+ },
+ {
+  "name": "paopao-ce",
+  "url": "https://github.com/liangdabiao/paopao-ce",
+  "stars": 0,
+  "desc": "🔥An artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区"
+ },
+ {
+  "name": "paper-cutout-remotion",
+  "url": "https://github.com/liangdabiao/paper-cutout-remotion",
+  "stars": 12,
+  "desc": "vox纸片风格动画skill: 把一份分镜脚本变成**纸片分层风格**的视频：背景、主角、配角、前景分别做成独立 PNG 素材，每一层按不同节奏运动，靠前后遮挡制造纵深立体感。  > 真正的纸片动画，核心不是生成一张漂亮的图，而是让每一张图都承担明确的叙事位置。"
+ },
+ {
+  "name": "papermark",
+  "url": "https://github.com/liangdabiao/papermark",
+  "stars": 0,
+  "desc": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains."
+ },
+ {
+  "name": "paul-graham-gpt",
+  "url": "https://github.com/liangdabiao/paul-graham-gpt",
+  "stars": 0,
+  "desc": "AI search & chat for all of Paul Graham’s essays."
+ },
+ {
+  "name": "peon-ping",
+  "url": "https://github.com/liangdabiao/peon-ping",
+  "stars": 0,
+  "desc": "Warcraft III Peon voice notifications (+ more!) for Claude Code and Codex. Stop babysitting your terminal."
+ },
+ {
+  "name": "perler-beads",
+  "url": "https://github.com/liangdabiao/perler-beads",
+  "stars": 1,
+  "desc": "拼豆底稿生成器 (Perler Beads Generator)"
+ },
+ {
+  "name": "perler-beads-ai",
+  "url": "https://github.com/liangdabiao/perler-beads-ai",
+  "stars": 326,
+  "desc": "因为市面上的拼豆软件差强人意 ，所以我基于开源项目：Zippland/perler-beads ，带小程序（perlerBeadsApplet） 我加上AI优化了项目，AI辅助优化图片功能，写了一个专门生成拼豆图纸的网站。 经过大量测试，我觉得已经可以达到 一键生成拼豆图纸了！我还有乐高积木拼豆： github.com/liangdabiao/brickMosaic"
+ },
+ {
+  "name": "perler-beads-skill",
+  "url": "https://github.com/liangdabiao/perler-beads-skill",
+  "stars": 26,
+  "desc": "skill:拼豆图纸生成器（pindou-perlerBeads-skill）  把任何图片变成可以照着拼的**拼豆图纸**，并附上**买豆子的购物清单**。  你只需要对 AI 助手说一句话，比如：  > \"把 test.png 做成 48×48 的拼豆图纸，用盼盼色号\"  它就会生成一张图纸 PNG：每个格子标好颜色和色号、四周有行列坐标、底部统计每种色号要多少颗。"
+ },
+ {
+  "name": "perlerBeadsApplet",
+  "url": "https://github.com/liangdabiao/perlerBeadsApplet",
+  "stars": 35,
+  "desc": "一款基于 Taro + Vue3 开发的拼豆像素画创作小程序，支持像素画编辑、作品管理、图片导入，图纸导出等功能。 项目是基于和二开 开源程序： github.com/noir017/perlerBeadsApplet "
+ },
+ {
+  "name": "phalcon-webmis",
+  "url": "https://github.com/liangdabiao/phalcon-webmis",
+  "stars": 0,
+  "desc": "WebMIS is phalcon framework based on the development of multi users, multi access solutions, integration of CodeMirror, TinyMCE, Chart, Jquery and other plug-ins!"
+ },
+ {
+  "name": "pholcus",
+  "url": "https://github.com/liangdabiao/pholcus",
+  "stars": 0,
+  "desc": "Pholcus is a distributed high-concurrency crawler software written in pure golang"
+ },
+ {
+  "name": "photo-abstract-editorial",
+  "url": "https://github.com/liangdabiao/photo-abstract-editorial",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "php-developer-prepares",
+  "url": "https://github.com/liangdabiao/php-developer-prepares",
+  "stars": 0,
+  "desc": "我们尝试在新项目开发过程中更好的使用 PHP 技术，通过结合国外 PHP 领域最新的开发模式、工具和经验，使您的 PHP 项目、团队焕发新生，重装上阵。"
+ },
+ {
+  "name": "php-mongodb",
+  "url": "https://github.com/liangdabiao/php-mongodb",
+  "stars": 0,
+  "desc": "How to create blog used MongoDB"
+ },
+ {
+  "name": "phphub",
+  "url": "https://github.com/liangdabiao/phphub",
+  "stars": 0,
+  "desc": " PHPHub is a Forum project written in Laravel 4.2, and it is also the project build up PHP & Laravel China community - http://phphub.org."
+ },
+ {
+  "name": "phplist3",
+  "url": "https://github.com/liangdabiao/phplist3",
+  "stars": 0,
+  "desc": "Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters."
+ },
+ {
+  "name": "phpspider",
+  "url": "https://github.com/liangdabiao/phpspider",
+  "stars": 0,
+  "desc": "《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序"
+ },
+ {
+  "name": "Pichome",
+  "url": "https://github.com/liangdabiao/Pichome",
+  "stars": 0,
+  "desc": "一款图片与媒体文件管理功能强大的开源网盘程序"
+ },
+ {
+  "name": "picture-design",
+  "url": "https://github.com/liangdabiao/picture-design",
+  "stars": 0,
+  "desc": "我的设计风格"
+ },
+ {
+  "name": "pinboard",
+  "url": "https://github.com/liangdabiao/pinboard",
+  "stars": 0,
+  "desc": "Realtime PHP monitoring system which aggregates and displays Pinba data."
+ },
+ {
+  "name": "play-bootstrap",
+  "url": "https://github.com/liangdabiao/play-bootstrap",
+  "stars": 0,
+  "desc": "Free HTML Template for - Startup, SaaS, Business, App, and Software Website & Landing Page. Play is 100% Free and Open-source template project that initiated by UIdeck Team."
+ },
+ {
+  "name": "podcast-shorts-remotion",
+  "url": "https://github.com/liangdabiao/podcast-shorts-remotion",
+  "stars": 12,
+  "desc": "coze播客,notebooklm播客转为视频的skill ，把一段播客/口播音频，变成1080×1920 竖屏短视频：中文字幕、章节场景、底部进度条、主题化配色。一条流水线直达预览成片。"
+ },
+ {
+  "name": "PoemMining",
+  "url": "https://github.com/liangdabiao/PoemMining",
+  "stars": 0,
+  "desc": "Chinese Classic Poem Mining Project including corpus buiding by spyder and content analysis by nlp methods, 基于爬虫与nlp的中国古代诗词文本挖掘项目"
+ },
+ {
+  "name": "pokemonAutoChess_liang",
+  "url": "https://github.com/liangdabiao/pokemonAutoChess_liang",
+  "stars": 0,
+  "desc": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company."
+ },
+ {
+  "name": "portable-docker-app",
+  "url": "https://github.com/liangdabiao/portable-docker-app",
+  "stars": 0,
+  "desc": "🎩 Magic in Pocket / 🪄 口袋里的“魔法”."
+ },
+ {
+  "name": "poster-design",
+  "url": "https://github.com/liangdabiao/poster-design",
+  "stars": 0,
+  "desc": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!"
+ },
+ {
+  "name": "posthog",
+  "url": "https://github.com/liangdabiao/posthog",
+  "stars": 0,
+  "desc": "🦔 PostHog provides open-source product analytics that you can self-host. "
+ },
+ {
+  "name": "posthog-course",
+  "url": "https://github.com/liangdabiao/posthog-course",
+  "stars": 0,
+  "desc": "posthog-course"
+ },
+ {
+  "name": "posthog.github.io",
+  "url": "https://github.com/liangdabiao/posthog.github.io",
+  "stars": 4,
+  "desc": "数字化独立站·用户行为数据分析（PostHog 版） A Practical Guide to User Behavior Analytics for DTC Sites  一本写给独立站开发者和增长团队的实战手册。用 PostHog 一套工具，从埋点一路打通到「行为分析 → 用户画像 → 大模型智能分析 → 本地私有化部署」，替代 GA4 / 神策 / Mixpanel 的拼凑方案。"
+ },
+ {
+  "name": "Price-Tracking-Web-Scraper",
+  "url": "https://github.com/liangdabiao/Price-Tracking-Web-Scraper",
+  "stars": 0,
+  "desc": "An automated price tracker that uses bright data, playwright, react and flask."
+ },
+ {
+  "name": "product-motion-gif",
+  "url": "https://github.com/liangdabiao/product-motion-gif",
+  "stars": 26,
+  "desc": "谁说AI不能生成GIF? 本skill利用GPT-Image 2.5 一次性生成多格帧图 - 合成为动画gif - 一次调用就生成动态图。产品动图生成器  > 你给我产品照片，我还你一段会自动循环播放的产品动图。  这个技能是给\"不会用设计软件、但需要动图素材\"的人用的。 你不需要懂任何技术，只要会发图片、会说话就够了。"
+ },
+ {
+  "name": "Programming-Collective-Intelligence",
+  "url": "https://github.com/liangdabiao/Programming-Collective-Intelligence",
+  "stars": 0,
+  "desc": "Examples from Programming Collective Intelligence"
+ },
+ {
+  "name": "Prompt-Engineering-Guide",
+  "url": "https://github.com/liangdabiao/Prompt-Engineering-Guide",
+  "stars": 0,
+  "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering"
+ },
+ {
+  "name": "PromptFill",
+  "url": "https://github.com/liangdabiao/PromptFill",
+  "stars": 1,
+  "desc": "一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。"
+ },
+ {
+  "name": "public-amazon-crawler",
+  "url": "https://github.com/liangdabiao/public-amazon-crawler",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "PythonPlantsVsZombies",
+  "url": "https://github.com/liangdabiao/PythonPlantsVsZombies",
+  "stars": 0,
+  "desc": "a simple PlantsVsZombies game"
+ },
+ {
+  "name": "qingming-riverside",
+  "url": "https://github.com/liangdabiao/qingming-riverside",
+  "stars": 0,
+  "desc": "可交互的宋代沿河街市画卷：行走、乘船、时雨与虹桥过船。Canvas 2D + Three.js。"
+ },
+ {
+  "name": "QuadLayers_custom_product_page",
+  "url": "https://github.com/liangdabiao/QuadLayers_custom_product_page",
+  "stars": 0,
+  "desc": "A Sample WP Child theme to customize the WC product page"
+ },
+ {
+  "name": "quark-h5",
+  "url": "https://github.com/liangdabiao/quark-h5",
+  "stars": 0,
+  "desc": "基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具"
+ },
+ {
+  "name": "question",
+  "url": "https://github.com/liangdabiao/question",
+  "stars": 0,
+  "desc": "小程序，微信答题小程序，可以进行答题，模拟考试。增加了词典查询，汉字成语查询等功能"
+ },
+ {
+  "name": "QuestionWechatApp",
+  "url": "https://github.com/liangdabiao/QuestionWechatApp",
+  "stars": 0,
+  "desc": "微信小程序，考试小程序，答题小程序，刷题小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。"
+ },
+ {
+  "name": "quivr",
+  "url": "https://github.com/liangdabiao/quivr",
+  "stars": 1,
+  "desc": "Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it"
+ },
+ {
+  "name": "qwadmin",
+  "url": "https://github.com/liangdabiao/qwadmin",
+  "stars": 0,
+  "desc": "基于thinkphp与aceadmin模板的后台管理系统"
+ },
+ {
+  "name": "raphael-starterkit-v1",
+  "url": "https://github.com/liangdabiao/raphael-starterkit-v1",
+  "stars": 1,
+  "desc": "刘小排 Idea To Business 课程配套的极简starter。 特色功能包括：1. 极简！只有新手必须的功能！ 2. 自带Cursor Rule！ Cursor可以完全理解项目架构 3. 和课程深度结合 4.包含SaaS的基建功能：Landing Page、更换主题颜色、注册、登录、订阅支付、积分购买"
+ },
+ {
+  "name": "Recruitment-",
+  "url": "https://github.com/liangdabiao/Recruitment-",
+  "stars": 0,
+  "desc": "这是一个PHP网上招聘系统，采用Thinkphp架构，主要页面采用了开源项目Bootstrap"
+ },
+ {
+  "name": "reddit-business-idea-validator",
+  "url": "https://github.com/liangdabiao/reddit-business-idea-validator",
+  "stars": 38,
+  "desc": " Reddit 商业创意验证器（reddit-business-idea-validator）  > 给 agent 用的 Skill。你说一个创业想法，它自动去 Reddit 抓帖子 + 评论，让 AI 分析痛点、现有方案、市场机会，最后给你一份打分（0–100）的 HTML 报告。  ---   一句话介绍  >  agent 自动跑完抓取、分析、报告全流程，给你一份带评分的调研报告。"
+ },
+ {
+  "name": "reddit-research",
+  "url": "https://github.com/liangdabiao/reddit-research",
+  "stars": 36,
+  "desc": "liang的深度优化版本：免key ,免认证、可自动化的 Reddit 深度调研方法论 deep-research— 给 AI agent 直接读: Arctic Shift API + 分页/重试 SOP + 痛点提取 + 参考脚本"
+ },
+ {
+  "name": "RedditVideoMakerBot",
+  "url": "https://github.com/liangdabiao/RedditVideoMakerBot",
+  "stars": 0,
+  "desc": "Create Reddit Videos with just✨ one command ✨"
+ },
+ {
+  "name": "Reddit_Business_Idea_Validator",
+  "url": "https://github.com/liangdabiao/Reddit_Business_Idea_Validator",
+  "stars": 154,
+  "desc": "\"创业宁可 10 分钟验证、不愿 6 个月后悔\"，Reddit 生意调研Agent:收集和分析数据来解析市场需求、用户痛点及竞争格局.- 📊 **Reddit 数据抓取**: 自动抓取相关帖子和评论数据（使用用户输入作为搜索关键词） - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告"
+ },
+ {
+  "name": "Reddit_Scrapper",
+  "url": "https://github.com/liangdabiao/Reddit_Scrapper",
+  "stars": 1,
+  "desc": "Scrape Reddit for marketing pain points using GPT — built to fuel Cronlytic's growth."
+ },
+ {
+  "name": "redis",
+  "url": "https://github.com/liangdabiao/redis",
+  "stars": 0,
+  "desc": "Automatically exported from code.google.com/p/redis"
+ },
+ {
+  "name": "remix-words-funny",
+  "url": "https://github.com/liangdabiao/remix-words-funny",
+  "stars": 1,
+  "desc": "一个英语单词学习网站"
+ },
+ {
+  "name": "responsive-web-design",
+  "url": "https://github.com/liangdabiao/responsive-web-design",
+  "stars": 0,
+  "desc": "所向披靡的响应式开发"
+ },
+ {
+  "name": "resume-matcher-agent-cn",
+  "url": "https://github.com/liangdabiao/resume-matcher-agent-cn",
+  "stars": 163,
+  "desc": "\"HR批评\"简历智能体，是一个AI驱动的平台，旨在逆向工程招聘算法，向您展示如何精准定制简历。获取那些能让你通过初步筛选、进入人工审阅阶段的关键词、格式和洞察。resume-matcher-agent意思就是模拟HR怎样筛选你的简历，提前给你展示筛选的结论，方便你尽快修改好你的简历，以增加通过的可能性。"
+ },
+ {
+  "name": "resume-matcher-skill",
+  "url": "https://github.com/liangdabiao/resume-matcher-skill",
+  "stars": 2,
+  "desc": "skill : 简历批评家（Resume Matcher）  一个 AI 简历深度优化助手。把你的简历和目标岗位的 JD（职位描述）发给它，它会像一个资深的 HRBP + 技术面试官一样，帮你找出简历的问题，给出修改建议，并直接给你一份优化后的简历。"
+ },
+ {
+  "name": "retwis",
+  "url": "https://github.com/liangdabiao/retwis",
+  "stars": 0,
+  "desc": "A Twitter-toy clone written in PHP and Redis, used in the early days to introduce Redis data types."
+ },
+ {
+  "name": "roastapp",
+  "url": "https://github.com/liangdabiao/roastapp",
+  "stars": 0,
+  "desc": "Laravel学院 Roast 应用源码"
+ },
+ {
+  "name": "ruan-wiki",
+  "url": "https://github.com/liangdabiao/ruan-wiki",
+  "stars": 0,
+  "desc": "ruan-wiki"
+ },
+ {
+  "name": "rubick",
+  "url": "https://github.com/liangdabiao/rubick",
+  "stars": 0,
+  "desc": "🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。"
+ },
+ {
+  "name": "ruby1",
+  "url": "https://github.com/liangdabiao/ruby1",
+  "stars": 0,
+  "desc": "ruby1 test"
+ },
+ {
+  "name": "saas-skeleton",
+  "url": "https://github.com/liangdabiao/saas-skeleton",
+  "stars": 0,
+  "desc": "基于Laravel & Dcat Admin构建的SAAS后台脚手架."
+ },
+ {
+  "name": "saas-starter",
+  "url": "https://github.com/liangdabiao/saas-starter",
+  "stars": 0,
+  "desc": "A Saas Website Starter built with Next.js, Tailwind CSS."
+ },
+ {
+  "name": "SaaS_IHRM",
+  "url": "https://github.com/liangdabiao/SaaS_IHRM",
+  "stars": 0,
+  "desc": "基于SpringBoot2.0+Shiro+SpringDataJpa+SpringCloud框架的SaaS多租户iHrm平台开发实战，里面涉及到知识点众多，项目基于前后端分离进行开发，前端使用的是vue+ElementUI。  除了常见的框架应用之外，还有导出导入表格（POI），如何处理百万数据防止oom，  图片上传（七牛云接口实现），刷脸认证（百度开放平台API）， 以及Shiro高级认证，如何实现在前后端分离环境下完成认证授权。"
+ },
+ {
+  "name": "SaaS_IHRM_Vue",
+  "url": "https://github.com/liangdabiao/SaaS_IHRM_Vue",
+  "stars": 0,
+  "desc": "基于SpringBoot2.0+Shiro+SpringDataJpa+SpringCloud框架的SaaS多租户iHrm平台开发实战，里面涉及到知识点众多，项目基于前后端分离进行开发，前端使用的是vue+ElementUI。  除了常见的框架应用之外，还有导出导入表格（POI），如何处理百万数据防止oom，  图片上传（七牛云接口实现），刷脸认证（百度开放平台API）， 以及Shiro高级认证，如何实现在前后端分离环境下完成认证授权。"
+ },
+ {
+  "name": "sanguo",
+  "url": "https://github.com/liangdabiao/sanguo",
+  "stars": 0,
+  "desc": "三国霸业乃儿时的步步高经典游戏，三国更是一生的爱好。"
+ },
+ {
+  "name": "sanic-web",
+  "url": "https://github.com/liangdabiao/sanic-web",
+  "stars": 0,
+  "desc": "一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。"
+ },
+ {
+  "name": "sb-admin-angular",
+  "url": "https://github.com/liangdabiao/sb-admin-angular",
+  "stars": 0,
+  "desc": "Starter template / theme for AngularJS Dashboard Apps"
+ },
+ {
+  "name": "schoolcms",
+  "url": "https://github.com/liangdabiao/schoolcms",
+  "stars": 0,
+  "desc": "中国首个开源学校教务管理系统、网站布局自动化、学生/成绩/教师、成绩查询"
+ },
+ {
+  "name": "sci-viz-lab",
+  "url": "https://github.com/liangdabiao/sci-viz-lab",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "scrapy",
+  "url": "https://github.com/liangdabiao/scrapy",
+  "stars": 0,
+  "desc": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+ },
+ {
+  "name": "Seedance2-Storyboard-Generator",
+  "url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
+  "stars": 2562,
+  "desc": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧"
+ },
+ {
+  "name": "SeekMoney-ai",
+  "url": "https://github.com/liangdabiao/SeekMoney-ai",
+  "stars": 160,
+  "desc": "SeekMoney-ai ，找商机，覆盖全视频社交媒体渠道。一人低成本完成需求挖掘与验证- 多平台数据采集（抖音、小红书、TikTok、Bilibili、微信视频号、YouTube）  - 基于 openai兼容/GLM + embedding + DBSCAN 的语义聚类算法  - 调用 openai兼容/GLM-4.7 思考模型深度分析用户痛点  - 智能优先级评分系统（需求强度 + 市场规模 + 竞争度）"
+ },
+ {
+  "name": "SeekWord",
+  "url": "https://github.com/liangdabiao/SeekWord",
+  "stars": 8,
+  "desc": "捕获生词（SeekWord = seek + word，寻找生词）。 它的目标是 “用任何英文内容学语言”。无论是 YouTube 字幕、任意网页文章、划选的一段文字，还是自己粘贴的文本，捕获生词都会在正式阅读 / 观看之前，先把生词与表达自动捕获成学习卡片；完成预习后再回到原文，借助真实上下文强化记忆。这样的 Contextual learning（基于上下文情境的学习）能事半功倍，让学习变得有趣且 “无痛”"
+ },
+ {
+  "name": "sellersprite-rpa-skills",
+  "url": "https://github.com/liangdabiao/sellersprite-rpa-skills",
+  "stars": 40,
+  "desc": "基于浏览器 RPA + 数据分析的项目，覆盖 **sellersprite.com**（亚马逊卖家精灵）。捆绑 5 个核心亚马逊数据分析模块的 skill：产品排行、关键词选品、市场分析、ABA 搜索频率、竞品查询。  每个 skill 是一个独立的 Python 工具，通过 BrowserSkill 驱动用户已登录的 sellersprite 会话——无需 API token、无需 Selenium。多站点对比报告从生成的 CSV 自动产出。适合普通amazon卖家，不想付费，先不愿意付费api和mcp，"
+ },
+ {
+  "name": "semantra",
+  "url": "https://github.com/liangdabiao/semantra",
+  "stars": 0,
+  "desc": "Multi-tool for semantic search"
+ },
+ {
+  "name": "shadowsocks",
+  "url": "https://github.com/liangdabiao/shadowsocks",
+  "stars": 1,
+  "desc": "A fast tunnel proxy that helps you bypass firewalls"
+ },
+ {
+  "name": "shida",
+  "url": "https://github.com/liangdabiao/shida",
+  "stars": 0,
+  "desc": "《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。"
+ },
+ {
+  "name": "Shop-PHP-Yii2",
+  "url": "https://github.com/liangdabiao/Shop-PHP-Yii2",
+  "stars": 0,
+  "desc": "EleTeam开源项目-电商全套解决方案之PHP版-Shop-for-PHP-Yii2。一个类似京东/天猫/淘宝的商城，有对应的APP支持，由EleTeam团队维护！"
+ },
+ {
+  "name": "shopilex",
+  "url": "https://github.com/liangdabiao/shopilex",
+  "stars": 0,
+  "desc": "Shopilex是一套基于GPLv3开源协议的开源电子商务网店系统,是基于Opencart的新的独立分支."
+ },
+ {
+  "name": "shopxo",
+  "url": "https://github.com/liangdabiao/shopxo",
+  "stars": 0,
+  "desc": "ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC、h5、微信小程序、支付宝小程序、百度小程序、头条&抖音小程序、QQ小程序，遵循Apache2开源协议发布、基于ThinkPHP5.1框架研发"
+ },
+ {
+  "name": "sif-amazon-research",
+  "url": "https://github.com/liangdabiao/sif-amazon-research",
+  "stars": 25,
+  "desc": "Sif Amazon Research Platform 🚀  > 基于 Sif MCP (Model Context Protocol) 的 Amazon 卖家智能调研平台，提供流量分析、关键词反查、竞品研究、广告分析和 AI 智能诊断等能力，支持 **Web UI 可视化仪表盘** 和 **RESTful API** 两种使用方式。"
+ },
+ {
+  "name": "Simple-Agentic-Stack",
+  "url": "https://github.com/liangdabiao/Simple-Agentic-Stack",
+  "stars": 11,
+  "desc": "基于 MCP（Model Context Protocol）和 Skill 驱动的 AI Agent 编排系统。LLM 通过自然语言编写的 Skill 按步骤调用 MCP Server 提供的工具，完成复杂的多数据源联动任务。  > 传统编程和 LLM Agent 系统之间的对应关系：**Skill 是程序，MCP 是库，LLM 是语言**。"
+ },
+ {
+  "name": "simple-review-analyzer",
+  "url": "https://github.com/liangdabiao/simple-review-analyzer",
+  "stars": 52,
+  "desc": "AI驱动的电商产品评论深度分析工具，支持22维度智能标签、用户画像识别、VOC洞察和可视化看板生成。适合用于Claude Code CLI /openclaw 等工具。同时展示怎样制作一个直接skill (openclaw / claude code 等），不依赖其他， 对电商评论进行深度数据分析，"
+ },
+ {
+  "name": "SimpleOA",
+  "url": "https://github.com/liangdabiao/SimpleOA",
+  "stars": 0,
+  "desc": "This is a simple OA system & workflow engine with Chinese characteristics."
+ },
+ {
+  "name": "SimplerLLM",
+  "url": "https://github.com/liangdabiao/SimplerLLM",
+  "stars": 0,
+  "desc": "Simplify interactions with Large Language Models"
+ },
+ {
+  "name": "simple_ai_toolset",
+  "url": "https://github.com/liangdabiao/simple_ai_toolset",
+  "stars": 12,
+  "desc": "AI大模型的基本开发框架，适合普通后端程序员，功能类似coze包括：fastapi后端接口，搜索，文档解析和向量化，RPA和爬虫，自定义agent，对接第三方数据接口，mongodb数据库，控制json返回，多模态理解和生成等等"
+ },
+ {
+  "name": "simple_claude_deep_research_agent",
+  "url": "https://github.com/liangdabiao/simple_claude_deep_research_agent",
+  "stars": 37,
+  "desc": "一个为 Claude Code 设计的简化版多智能体研究系统，通过并行子代理执行基于 Web 的综合性研究。  概述 本系统使用三种专门的代理类型：  研究主导代理（Research Lead Agent）：统筹研究、规划任务、委派给子代理、综合发现 研究子代理（Research Subagents）：使用 Web 工具并行执行专注的研究任务 引用代理（Citations Agent）：为研究报告添加适当的引用"
+ },
+ {
+  "name": "Sirliangdabiao.github.io",
+  "url": "https://github.com/liangdabiao/Sirliangdabiao.github.io",
+  "stars": 0,
+  "desc": "Jekyll is a blog-aware, static site generator in Ruby"
+ },
+ {
+  "name": "SKILL-kefu",
+  "url": "https://github.com/liangdabiao/SKILL-kefu",
+  "stars": 39,
+  "desc": "SKILL智能客服系统  基于 LangChain/LangGraph 的完整智能客服解决方案。本系统整合了原教程 11 个章节的所有核心功能，包括对话记忆、RAG 知识库、情绪识别、意图分类、工单系统、监控评价、计划执行、多 Agent 系统、MCP 技能系统等。本系统目的是为了让skill能够变成公开服务。"
+ },
+ {
+  "name": "skill-prompt-generator",
+  "url": "https://github.com/liangdabiao/skill-prompt-generator",
+  "stars": 3,
+  "desc": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制"
+ },
+ {
+  "name": "skill-ten-prompt-generator",
+  "url": "https://github.com/liangdabiao/skill-ten-prompt-generator",
+  "stars": 72,
+  "desc": "基于 Claude Code Agent Skills 的 AI 提示词工程系统 - 10个场景化专家，自动路由，精准生成优秀提示词  ## 项目简介  这是一个基于 Claude Code Agent Skills 技术的智能提示词生成系统。通过自然语言请求，系统会自动路由到对应的专业 Skill，帮助用户写出高质量的 AI 提示词。"
+ },
+ {
+  "name": "skills-copilot-codespaces-vscode",
+  "url": "https://github.com/liangdabiao/skills-copilot-codespaces-vscode",
+  "stars": 1,
+  "desc": "My clone repository"
+ },
+ {
+  "name": "SlimStarter",
+  "url": "https://github.com/liangdabiao/SlimStarter",
+  "stars": 0,
+  "desc": "Starter Application built on Slim Framework in MVC (and HMVC) environment "
+ },
+ {
+  "name": "SlipHover",
+  "url": "https://github.com/liangdabiao/SlipHover",
+  "stars": 0,
+  "desc": "apply direction aware animation to images caption"
+ },
+ {
+  "name": "smart-excel-ai",
+  "url": "https://github.com/liangdabiao/smart-excel-ai",
+  "stars": 1,
+  "desc": "Generate the Excel formulas you need in seconds using ChatGPT."
+ },
+ {
+  "name": "smart-medicine",
+  "url": "https://github.com/liangdabiao/smart-medicine",
+  "stars": 0,
+  "desc": "智慧医药系统（smart-medicine）是一个基于 SpringBoot 开发的标准 Java Web 项目。整体页面非常的简约大气，整合了目前非常火爆的 AIGC 生成式 AI（选用的阿里的通义千问大语言模型）技术充当智能医生，以此提升系统的 B 格，整体来看是一个偏向百科查询类的系统，功能设计的较为简单，便于初学者理解和学习，也适合学校中的项目答辩或者毕业设计。喜欢的话记得帮忙点亮 Star，不求打赏，免费分享，只求你一个免费的👍，你的支持是我做下去的动力。"
+ },
+ {
+  "name": "SmartWiki",
+  "url": "https://github.com/liangdabiao/SmartWiki",
+  "stars": 0,
+  "desc": "因个人精力有限，不在维护此项目，推荐用MinDoc代替"
+ },
+ {
+  "name": "smy-seedance-storyboard",
+  "url": "https://github.com/liangdabiao/smy-seedance-storyboard",
+  "stars": 145,
+  "desc": "你给一个故事，它还你一套能直接拿去出图、出视频的上美影短剧制作文档。**  \"上美影\"= 上海美术电影制片厂，就是《大闹天宫》《天书奇谭》《九色鹿》那种复古手绘动画的味道——概括的造型、手工感的线条、大片平涂的矿物颜料色。"
+ },
+ {
+  "name": "snake",
+  "url": "https://github.com/liangdabiao/snake",
+  "stars": 0,
+  "desc": "🚀thinkphp5.1 + layui 实现的带rbac的基础管理后台，方便快速开发法使用"
+ },
+ {
+  "name": "social_research_agent",
+  "url": "https://github.com/liangdabiao/social_research_agent",
+  "stars": 44,
+  "desc": "怎样利用claude skills 简单的实现一个适合自己的“微舆”？适合自己的简单“微舆” 。社媒+深度调研 2个skills 合体 的 agent智能体：AI启动了 Web Search 和 via TikHub （社交媒体）进行深度调研 ，2个skills都正常调用了。  2个skills 混合在一起合体使用"
+ },
+ {
+  "name": "sorftime-rpa-skills",
+  "url": "https://github.com/liangdabiao/sorftime-rpa-skills",
+  "stars": 18,
+  "desc": "Browser-RPA + 数据分析项目，针对 **sorftime.com** (亚马逊卖家分析 SPA)。覆盖 6 个「选品」模块和 5 个「查」模块，每个模块独立 skill。"
+ },
+ {
+  "name": "Spider_XHS",
+  "url": "https://github.com/liangdabiao/Spider_XHS",
+  "stars": 1,
+  "desc": "小红书爬虫，小红书笔记、主页、搜索爬取"
+ },
+ {
+  "name": "SpringBoot-Business-Blog",
+  "url": "https://github.com/liangdabiao/SpringBoot-Business-Blog",
+  "stars": 0,
+  "desc": "基于慕课网实战课程《基于Spring Boot技术栈 博客系统企业级前后端实战》升级的SpringBoot2.0博客"
+ },
+ {
+  "name": "springboot-guide",
+  "url": "https://github.com/liangdabiao/springboot-guide",
+  "stars": 0,
+  "desc": "Not only Spring Boot but also important knowledge of Spring（不只是SpringBoot还有Spring重要知识点）"
+ },
+ {
+  "name": "springboot-openai-chatgpt",
+  "url": "https://github.com/liangdabiao/springboot-openai-chatgpt",
+  "stars": 1,
+  "desc": "超级AI大脑一个基于SpringCloud微服务架构，已对接GPT-3.5、GPT-4.0、百度文心一言、stable diffusion AI绘图、Midjourney绘图等。支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。持续更新中，更多功能等着你来解锁"
+ },
+ {
+  "name": "starter-laravel-angular",
+  "url": "https://github.com/liangdabiao/starter-laravel-angular",
+  "stars": 1,
+  "desc": "Laravel and AngularJS Starter Application Boilerplate featuring Laravel 5 and AngularJS 1.3.13"
+ },
+ {
+  "name": "staticshield-skill",
+  "url": "https://github.com/liangdabiao/staticshield-skill",
+  "stars": 8,
+  "desc": "skill: 一款安全又便捷的网页加密工具。采用 AES-256 + PBKDF2 百万次迭代 + HMAC 验签，密码与解密全程留在浏览器本地；一条命令或图形界面即可把 HTML（乃至整站 css/js/图片）加密成自解密页面，部署到任意静态托管。Secure, effortless HTML encryption: AES-256, PBKDF2 (1M iterations), HMAC, with fully client-side decryption. "
+ },
+ {
+  "name": "stem-illustration-skill",
+  "url": "https://github.com/liangdabiao/stem-illustration-skill",
+  "stars": 126,
+  "desc": "面向 STEM（科学、技术、工程、数学）领域的 AI 图像生成 Skill。  生成科研示意图、教学插图、技术架构图等概念性图像，覆盖生物医学、化学、物理、工程、数学 6 大学科。  功能特性 24 个场景模板：信号通路、实验流程、细胞结构、概念信息图、学术海报、机制图、质粒图、机器学习架构等 6 大学科适配：生命科学/医学/化学/物理/工程/数学 4 种风格变体：academic / textbook / infographic / 3d-render"
+ },
+ {
+  "name": "STEMViz",
+  "url": "https://github.com/liangdabiao/STEMViz",
+  "stars": 18,
+  "desc": "基于豆包大模型的 AI 教学动画生成工具 — 只需输入一个 STEM 概念，自动生成带旁白和字幕的教学动画视频。  STEMViz 利用字节跳动火山方舟（豆包）大模型的全套 AI 能力（LLM 推理、多模态视频理解、TTS 语音合成），配合 Manim 数学动画引擎，将复杂的 STEM 概念转化为生动的、带同步旁白的教学动画视频。 "
+ },
+ {
+  "name": "stock-deep-research-skill",
+  "url": "https://github.com/liangdabiao/stock-deep-research-skill",
+  "stars": 5,
+  "desc": "股票投资深度调研一体化引擎：从需求澄清、结构化研究指令生成，到多智能体并行执行 8 阶段投资尽调、GoT 图控制、多源结果综合与引用验证，端到端产出带完整引用的尽调报告。当用户提到股票分析、投资研究、投资尽调、基本面分析、估值、护城河、财报分析，或直接给出股票代码/公司名（如 600519、AAPL、00700.HK）要求研究，或需要对任意主题做深度调研、多来源交叉验证、验证引用质量、综合多份研究发现时，使用此技能——即使用户只说\"帮我研究一下这家公司\"。"
+ },
+ {
+  "name": "storefront",
+  "url": "https://github.com/liangdabiao/storefront",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "story-handdrawn-remotion",
+  "url": "https://github.com/liangdabiao/story-handdrawn-remotion",
+  "stars": 37,
+  "desc": "视频SKILL: 把一段 中文/英文 故事文本变成  「手绘日记漫画风」竖屏视频。  核心方法论：**不是把一张漂亮图配文字朗读，而是把每句故事拆成「文字 → 黑白画稿 → 彩色插画」三阶段横向擦除揭示，让一句话被画出三次。"
+ },
+ {
+  "name": "story-handdrawn-video",
+  "url": "https://github.com/liangdabiao/story-handdrawn-video",
+  "stars": 49,
+  "desc": "把一段 中文/英文 故事文本变成 9:16 竖屏（720×1280）手绘蜡笔风短视频。Remotion 技术的视频 Skill。基于 Agnes Video V2.0（纯文生视频，当前 $0/秒）+ edge-tts（免费旁白）的全免费视频制作方案。"
+ },
+ {
+  "name": "Streamer-Sales",
+  "url": "https://github.com/liangdabiao/Streamer-Sales",
+  "stars": 0,
+  "desc": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型，🚀⭐内含详细的数据生成流程❗🚀"
+ },
+ {
+  "name": "study-imooc",
+  "url": "https://github.com/liangdabiao/study-imooc",
+  "stars": 0,
+  "desc": "慕课网Java相关课程学习项目源码，博客地址：https://segmentfault.com/blog/zccoder"
+ },
+ {
+  "name": "summertown",
+  "url": "https://github.com/liangdabiao/summertown",
+  "stars": 0,
+  "desc": "Summer Town Interactive Map"
+ },
+ {
+  "name": "support",
+  "url": "https://github.com/liangdabiao/support",
+  "stars": 0,
+  "desc": "Kurozora's knowledge base for users."
+ },
+ {
+  "name": "switch",
+  "url": "https://github.com/liangdabiao/switch",
+  "stars": 0,
+  "desc": "FREE Wordpress Onepage Business Theme"
+ },
+ {
+  "name": "swoole-demo",
+  "url": "https://github.com/liangdabiao/swoole-demo",
+  "stars": 0,
+  "desc": " swoole-demo"
+ },
+ {
+  "name": "system-analysts",
+  "url": "https://github.com/liangdabiao/system-analysts",
+  "stars": 1,
+  "desc": "💯2024年系统分析师（软考高级）备考资源库。"
+ },
+ {
+  "name": "talk-os",
+  "url": "https://github.com/liangdabiao/talk-os",
+  "stars": 0,
+  "desc": "Open source version of jianliao.com"
+ },
+ {
+  "name": "taobaocrm",
+  "url": "https://github.com/liangdabiao/taobaocrm",
+  "stars": 0,
+  "desc": "易客CRM淘宝专用版本"
+ },
+ {
+  "name": "taotie",
+  "url": "https://github.com/liangdabiao/taotie",
+  "stars": 0,
+  "desc": "💐Taotie Amazon Service | 分布式微服务亚马逊爬虫"
+ },
+ {
+  "name": "TeamToy",
+  "url": "https://github.com/liangdabiao/TeamToy",
+  "stars": 0,
+  "desc": "企业协同办公工具TeamToy2（多人TODO版）官方Git源，每次版本发布时从SAE同步。"
+ },
+ {
+  "name": "TechSpar",
+  "url": "https://github.com/liangdabiao/TechSpar",
+  "stars": 1,
+  "desc": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
+ },
+ {
+  "name": "text2video",
+  "url": "https://github.com/liangdabiao/text2video",
+  "stars": 0,
+  "desc": "半个神器👉一键文本转视频的工具"
+ },
+ {
+  "name": "textbooks",
+  "url": "https://github.com/liangdabiao/textbooks",
+  "stars": 8,
+  "desc": "我制作了  mathigon textbooks skill, 一句话开发高质量stem课程，牛得很！Source code of Mathigon's interactive textbooks"
+ },
+ {
+  "name": "TextPress",
+  "url": "https://github.com/liangdabiao/TextPress",
+  "stars": 0,
+  "desc": "Simple flat-file blog engine in PHP"
+ },
+ {
+  "name": "thinkmobile",
+  "url": "https://github.com/liangdabiao/thinkmobile",
+  "stars": 0,
+  "desc": "thinkmobile"
+ },
+ {
+  "name": "thinkphp",
+  "url": "https://github.com/liangdabiao/thinkphp",
+  "stars": 0,
+  "desc": "基于PHP5的简单快速的面向对象的PHP框架"
+ },
+ {
+  "name": "thinkphp-oauth2",
+  "url": "https://github.com/liangdabiao/thinkphp-oauth2",
+  "stars": 0,
+  "desc": "thinkphp 3.2的oauth2实现"
+ },
+ {
+  "name": "Thinkphp3.2.3-weibo",
+  "url": "https://github.com/liangdabiao/Thinkphp3.2.3-weibo",
+  "stars": 0,
+  "desc": "微博php网页系统 and thinkphp(TP) 教程"
+ },
+ {
+  "name": "ThinkRAG",
+  "url": "https://github.com/liangdabiao/ThinkRAG",
+  "stars": 0,
+  "desc": "A LLM RAG application based on LlamaIndex and Streamlit. Optimized for Chinese users by adopting BAAI embedding / reranker models, Ollama local models and using LLM API from Chinese LLM service providers like Zhipu, DeepSeek and Moonshot."
+ },
+ {
+  "name": "threejs-architecture-effects",
+  "url": "https://github.com/liangdabiao/threejs-architecture-effects",
+  "stars": 0,
+  "desc": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。"
+ },
+ {
+  "name": "threejs-game-skills",
+  "url": "https://github.com/liangdabiao/threejs-game-skills",
+  "stars": 0,
+  "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+ },
+ {
+  "name": "tikhub_api_skill",
+  "url": "https://github.com/liangdabiao/tikhub_api_skill",
+  "stars": 129,
+  "desc": "TikHub API 助手是一个 Codex/Claude Code Agent Skill，用于帮助用户搜索、发现和调用 TikHub API。TikHub 提供了多平台社交媒体数据 API，支持抖音、TikTok、小红书、Instagram、YouTube、Twitter、Reddit 等平台。This is a TikHub API skill/documentation repository.  "
+ },
+ {
+  "name": "TinyLara",
+  "url": "https://github.com/liangdabiao/TinyLara",
+  "stars": 0,
+  "desc": "A Simple PHP Framework based on Composer, looks like a Tiny Laravel."
+ },
+ {
+  "name": "toolknit-desktop",
+  "url": "https://github.com/liangdabiao/toolknit-desktop",
+  "stars": 0,
+  "desc": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理"
+ },
+ {
+  "name": "townhouse",
+  "url": "https://github.com/liangdabiao/townhouse",
+  "stars": 0,
+  "desc": "A multi-tenant Laravel app for listing property rentals"
+ },
+ {
+  "name": "tp6-p01-backend-code",
+  "url": "https://github.com/liangdabiao/tp6-p01-backend-code",
+  "stars": 0,
+  "desc": "ThinkPHP6 Primer 前后端分离实战入门 [TP6-P01] 后端源码"
+ },
+ {
+  "name": "tp6-p01-frontend-code",
+  "url": "https://github.com/liangdabiao/tp6-p01-frontend-code",
+  "stars": 0,
+  "desc": "ThinkPHP6 Primer 前后端分离实战入门 [TP6-P01] 前端源码"
+ },
+ {
+  "name": "trackstar",
+  "url": "https://github.com/liangdabiao/trackstar",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "TreasureAnswer",
+  "url": "https://github.com/liangdabiao/TreasureAnswer",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "TrendRadar",
+  "url": "https://github.com/liangdabiao/TrendRadar",
+  "stars": 2,
+  "desc": "🔍 热门新闻聚合分析工具 - 支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等中文热门平台，分析关键词频率，生成报告并支持飞书推送。持续追踪热点变化。【 别光顾着 fork , 也请Star⭐哟】~ 如果这个项目对你有帮助了"
+ },
+ {
+  "name": "Trickle-On-WeChat",
+  "url": "https://github.com/liangdabiao/Trickle-On-WeChat",
+  "stars": 0,
+  "desc": "在微信端使用类似Trickle的图片信息识别和提炼，并进行图片信息管理的功能。"
+ },
+ {
+  "name": "TryRuby",
+  "url": "https://github.com/liangdabiao/TryRuby",
+  "stars": 0,
+  "desc": "Try Ruby is a interactive shell that quickly and whimsically teaches the Ruby programming language. Originally _why's idea, it has been recreated from the ground up by Rubyists who have a passion for Ruby and for teaching their fellow (wo)man how to program."
+ },
+ {
+  "name": "tty.js",
+  "url": "https://github.com/liangdabiao/tty.js",
+  "stars": 0,
+  "desc": "A terminal for your browser, using node/express/socket.io"
+ },
+ {
+  "name": "twint",
+  "url": "https://github.com/liangdabiao/twint",
+  "stars": 0,
+  "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations."
+ },
+ {
+  "name": "typecho",
+  "url": "https://github.com/liangdabiao/typecho",
+  "stars": 0,
+  "desc": "A PHP Blogging Platform. Simple and Powerful."
+ },
+ {
+  "name": "U3-SDK",
+  "url": "https://github.com/liangdabiao/U3-SDK",
+  "stars": 0,
+  "desc": "Source code for Unturned, a free open-world zombie survival sandbox game."
+ },
+ {
+  "name": "um-account-tabs",
+  "url": "https://github.com/liangdabiao/um-account-tabs",
+  "stars": 0,
+  "desc": "Adds custom tabs to user account"
+ },
+ {
+  "name": "up",
+  "url": "https://github.com/liangdabiao/up",
+  "stars": 1,
+  "desc": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+ },
+ {
+  "name": "van-gogh-cinematic-storyboard",
+  "url": "https://github.com/liangdabiao/van-gogh-cinematic-storyboard",
+  "stars": 4,
+  "desc": "梵高油画动画生成器 一句话：你说一个故事，它先读懂这个故事\"是什么感觉\"，再用梵高的笔触把它画成一部会动的油画短片。  最重要的一点：它画的是感受，不是样子。  🤔 它和\"油画滤镜\"到底差在哪？ 网上\"照片转梵高\"的做法基本都是同一套：保留原本的画面，加一层笔触纹理。结果就是\"照片 + 油画滤镜\"。"
+ },
+ {
+  "name": "video-clone-lite",
+  "url": "https://github.com/liangdabiao/video-clone-lite",
+  "stars": 113,
+  "desc": "随便给它一个视频，让它复刻成自己想要的商品和效果，它自己搞定一切。 hypit要你安装10g 各种各样奇怪东西，效果一般。而你看看我的，你猜我在干嘛，那个hypit根本不行，我自己开发一个hypit，  产出同款/同结构的新视频用于自己的内容，并且过程可控、可改。"
+ },
+ {
+  "name": "video-recap-skills",
+  "url": "https://github.com/liangdabiao/video-recap-skills",
+  "stars": 0,
+  "desc": "Clip any video into a narration recap with claude code skill｜用 claude code skill 把任何视频剪辑成中文解说视频，支持剪映导出"
+ },
+ {
+  "name": "video-skills-toolkit",
+  "url": "https://github.com/liangdabiao/video-skills-toolkit",
+  "stars": 204,
+  "desc": "Remotion 短视频生产流程,特别是 微信公众号文章转视频,语文vox风格纸片视频生成，数学教学视频生成 Remotion 视频。视频其实是一条以声音为轴的时间线。字幕文件是整条视频的唯一基准，画面、动画、音效全部要对齐到它。 "
+ },
+ {
+  "name": "visual-memory-translator-SKILL",
+  "url": "https://github.com/liangdabiao/visual-memory-translator-SKILL",
+  "stars": 0,
+  "desc": "visual-memory-translator-SKILL"
+ },
+ {
+  "name": "voxel-musou",
+  "url": "https://github.com/liangdabiao/voxel-musou",
+  "stars": 0,
+  "desc": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step."
+ },
+ {
+  "name": "vue-baidu-map",
+  "url": "https://github.com/liangdabiao/vue-baidu-map",
+  "stars": 0,
+  "desc": "Baidu Map components for Vue 2.x"
+ },
+ {
+  "name": "vue-data-board",
+  "url": "https://github.com/liangdabiao/vue-data-board",
+  "stars": 0,
+  "desc": "A Data Analysis Board in Vue."
+ },
+ {
+  "name": "vue-element-admin",
+  "url": "https://github.com/liangdabiao/vue-element-admin",
+  "stars": 0,
+  "desc": "vue-element-admin"
+ },
+ {
+  "name": "Vue-StudyMaps",
+  "url": "https://github.com/liangdabiao/Vue-StudyMaps",
+  "stars": 0,
+  "desc": "使用 Vue.js 开发的聚合应用。通过爬虫抓取平时浏览的网站，省去逐个点开网页的时间。"
+ },
+ {
+  "name": "vue_fecshop_appserver",
+  "url": "https://github.com/liangdabiao/vue_fecshop_appserver",
+  "stars": 0,
+  "desc": "做fecshop的前后端彻底分离部分的前端界面部分"
+ },
+ {
+  "name": "Waifu2x-Extension-GUI",
+  "url": "https://github.com/liangdabiao/Waifu2x-Extension-GUI",
+  "stars": 0,
+  "desc": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet."
+ },
+ {
+  "name": "wave",
+  "url": "https://github.com/liangdabiao/wave",
+  "stars": 0,
+  "desc": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 "
+ },
+ {
+  "name": "weather-vue",
+  "url": "https://github.com/liangdabiao/weather-vue",
+  "stars": 0,
+  "desc": "☀️ Weather app using Vue.js, Google Maps Geocoding, and Dark Sky."
+ },
+ {
+  "name": "webchat",
+  "url": "https://github.com/liangdabiao/webchat",
+  "stars": 0,
+  "desc": ":speaker: Websocket project based on vue（基于vue2.0的实时聊天项目）"
+ },
+ {
+  "name": "wecenter",
+  "url": "https://github.com/liangdabiao/wecenter",
+  "stars": 0,
+  "desc": "WeCenter 是一款知识型的社交化开源社区程序，专注于企业和行业社区内容的整理、归类、检索和再发行。"
+ },
+ {
+  "name": "wechat",
+  "url": "https://github.com/liangdabiao/wechat",
+  "stars": 0,
+  "desc": ":package: Maybe it is the best SDK for develop WeChat App."
+ },
+ {
+  "name": "wechat-app-mall",
+  "url": "https://github.com/liangdabiao/wechat-app-mall",
+  "stars": 0,
+  "desc": "微信小程序商城，微信小程序微店"
+ },
+ {
+  "name": "wechat-article-remotion",
+  "url": "https://github.com/liangdabiao/wechat-article-remotion",
+  "stars": 5,
+  "desc": "动画skill:  把任意一篇微信公众号文章 转成 Studio 风格的 Remotion 视频 —— 暖白画布 + 上下镜像透视格子 + 顶部章节进度 + 公众号原文图完整保留"
+ },
+ {
+  "name": "wechat-assistant-pro",
+  "url": "https://github.com/liangdabiao/wechat-assistant-pro",
+  "stars": 0,
+  "desc": "智能微秘书客户端，搭配"
+ },
+ {
+  "name": "wechat-backend",
+  "url": "https://github.com/liangdabiao/wechat-backend",
+  "stars": 0,
+  "desc": "iBrand laravel wechat official account manage system."
+ },
+ {
+  "name": "wechat-holiday-avatar",
+  "url": "https://github.com/liangdabiao/wechat-holiday-avatar",
+  "stars": 0,
+  "desc": "一款有趣的微信头像应用（圣诞，国庆等）"
+ },
+ {
+  "name": "wechat-matomo",
+  "url": "https://github.com/liangdabiao/wechat-matomo",
+  "stars": 3,
+  "desc": "微信小程序matomo客户端"
+ },
+ {
+  "name": "WeChat-Mautic",
+  "url": "https://github.com/liangdabiao/WeChat-Mautic",
+  "stars": 0,
+  "desc": "A WeChat plugin for Mautic"
+ },
+ {
+  "name": "wechat-php-sdk",
+  "url": "https://github.com/liangdabiao/wechat-php-sdk",
+  "stars": 0,
+  "desc": "微信公众平台php开发包, weixin developer SDK."
+ },
+ {
+  "name": "wechat-server",
+  "url": "https://github.com/liangdabiao/wechat-server",
+  "stars": 0,
+  "desc": "微信公众号的后端，为其他系统提供微信登录验证功能"
+ },
+ {
+  "name": "wechat-weapp-gank",
+  "url": "https://github.com/liangdabiao/wechat-weapp-gank",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "wechat.js",
+  "url": "https://github.com/liangdabiao/wechat.js",
+  "stars": 0,
+  "desc": "微信相关的 js 操作：分享、网络、菜单"
+ },
+ {
+  "name": "Wechatsync",
+  "url": "https://github.com/liangdabiao/Wechatsync",
+  "stars": 0,
+  "desc": "一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力"
+ },
+ {
+  "name": "wechat_spider",
+  "url": "https://github.com/liangdabiao/wechat_spider",
+  "stars": 0,
+  "desc": "使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。"
+ },
+ {
+  "name": "wecomcli_crm",
+  "url": "https://github.com/liangdabiao/wecomcli_crm",
+  "stars": 28,
+  "desc": "企业微信 Agent 项目 `wecomcli-crm`  基于 [wecom-cli]  搭建的企业微信 Agent 工作台。通过 Claude Code/openclaw + Skills 实现 AI 驱动的 CRM 客户管理、消息处理、会议日程等企业微信操作。"
+ },
+ {
+  "name": "weekend-city-trip",
+  "url": "https://github.com/liangdabiao/weekend-city-trip",
+  "stars": 80,
+  "desc": " workbuddy/ codex skill , 一个让 AI 帮你 5 分钟深度调研任意中国城市周末玩法的agent skill, 寻找精神旷野：户外消费告别长途远行、装备内卷，转向日常低成本微沉浸；菜市场、城市老街成为年轻人精神微旅行目的地，CityWalk 演化成主题探索路线，日常场景即可实现情绪解压。"
+ },
+ {
+  "name": "weekly",
+  "url": "https://github.com/liangdabiao/weekly",
+  "stars": 0,
+  "desc": "科技爱好者周刊，每周五发布"
+ },
+ {
+  "name": "weixin-app-wxpay",
+  "url": "https://github.com/liangdabiao/weixin-app-wxpay",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "weixin_crawler",
+  "url": "https://github.com/liangdabiao/weixin_crawler",
+  "stars": 0,
+  "desc": "高效微信公众号历史文章和阅读数据爬虫powered by scrapy"
+ },
+ {
+  "name": "wenprise-alipay-checkout-for-woocommerce",
+  "url": "https://github.com/liangdabiao/wenprise-alipay-checkout-for-woocommerce",
+  "stars": 0,
+  "desc": "功能更全面的 WooCommerce 免费支付宝支付网关，支持同步、异步回调、主动查询订单状态、直接在 WooCommerce 订单中退款等功能。"
+ },
+ {
+  "name": "wenprise-wechatpay-checkout-for-woocommerce",
+  "url": "https://github.com/liangdabiao/wenprise-wechatpay-checkout-for-woocommerce",
+  "stars": 0,
+  "desc": "WooCommerce 微信支付网关"
+ },
+ {
+  "name": "whiteboard-explainer",
+  "url": "https://github.com/liangdabiao/whiteboard-explainer",
+  "stars": 70,
+  "desc": "白板讲解动画 skill。把讲解稿变成「真手绘过程」视频——图形一笔笔描出、文字逐笔写出、讲到哪画到哪（帧级音画对齐）。  > 本 skill 是**像素级笔画绘制**——帧帧确定、本地零成本、可秒级重渲，且支持\"一图逐元素生长\"的单画布模式（数学推导/流程图 友好）。"
+ },
+ {
+  "name": "wimoor",
+  "url": "https://github.com/liangdabiao/wimoor",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "wimoorApp",
+  "url": "https://github.com/liangdabiao/wimoorApp",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "wimoorui",
+  "url": "https://github.com/liangdabiao/wimoorui",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "winxin-app-watch-life.net",
+  "url": "https://github.com/liangdabiao/winxin-app-watch-life.net",
+  "stars": 0,
+  "desc": "WordPress版微信小程序"
+ },
+ {
+  "name": "wizard",
+  "url": "https://github.com/liangdabiao/wizard",
+  "stars": 0,
+  "desc": "Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。"
+ },
+ {
+  "name": "woocommerce",
+  "url": "https://github.com/liangdabiao/woocommerce",
+  "stars": 0,
+  "desc": "An open source eCommerce plugin for WordPress created by WooThemes."
+ },
+ {
+  "name": "woonuxt",
+  "url": "https://github.com/liangdabiao/woonuxt",
+  "stars": 0,
+  "desc": "Static e-commerce powered by WooCommerce & Nuxt"
+ },
+ {
+  "name": "wootic",
+  "url": "https://github.com/liangdabiao/wootic",
+  "stars": 0,
+  "desc": "The FASTER PLUGIN to send your Woocommerce order transactions and client data to Mautic."
+ },
+ {
+  "name": "wordpress-liang.github.io",
+  "url": "https://github.com/liangdabiao/wordpress-liang.github.io",
+  "stars": 4,
+  "desc": "WordPress & WooCommerce 独立站开发秘籍 用 WordPress + WooCommerce 搭独立站，从认知到定制开发的一本通。一本能「边看边做」的手册。这本书的定位是从认知到定制开发的一本通：先做选型判断，再讲主题 / 钩子 / 对象 / 数据结构这些底层认知，然后给 AJAX 加购、结账优化、模板覆盖、无头 WooCommerce 等可落地实战"
+ },
+ {
+  "name": "wordpress-nginx",
+  "url": "https://github.com/liangdabiao/wordpress-nginx",
+  "stars": 0,
+  "desc": "Nginx server configurations for WordPress"
+ },
+ {
+  "name": "wordpress_kefu_ai_agent",
+  "url": "https://github.com/liangdabiao/wordpress_kefu_ai_agent",
+  "stars": 68,
+  "desc": "自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的"
+ },
+ {
+  "name": "workbuddy-course",
+  "url": "https://github.com/liangdabiao/workbuddy-course",
+  "stars": 0,
+  "desc": "workbuddy-course 生成课程例子"
+ },
+ {
+  "name": "workbuddy-expert-agent-engineering",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-agent-engineering",
+  "stars": 1,
+  "desc": "workbuddy专家：：智能体工程（Agent Engineering）  > Agent 框架选型与架构设计、浏览器自动化、WorkBuddy 插件开发——给的是「今天就能执行的命令」，不是「可以考虑 XX 框架」。"
+ },
+ {
+  "name": "workbuddy-expert-biz-content-writer",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-biz-content-writer",
+  "stars": 0,
+  "desc": "workbuddy专家：：商业写作（Business Writer）  > 两种名家长文风格：刘润（商业方法论）vs 罗振宇（认知启发），按主题自动选型，交付前强制跑 12 项质量检查。"
+ },
+ {
+  "name": "workbuddy-expert-cross-border-growth",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-cross-border-growth",
+  "stars": 6,
+  "desc": "workbuddy专家：：跨境电商增长（Cross-border Growth）  > 选品调研、Listing 优化、广告竞品分析、评论洞察四线协作，覆盖亚马逊运营全链路。"
+ },
+ {
+  "name": "workbuddy-expert-doc-video-qa",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-doc-video-qa",
+  "stars": 0,
+  "desc": "workbuddy专家：：文档视频问答（Doc & Video QA）  > PDF 与视频的视觉问答：GLM 5.3-Flash 与 DeepSeek V4-Flash 双引擎，按媒介和偏好自动选型，答案带页码 / 时间戳，可点开原图核对。"
+ },
+ {
+  "name": "workbuddy-expert-edu-viz",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-edu-viz",
+  "stars": 2,
+  "desc": "workbuddy专家：：教育可视化（Education Visualizer）  > K12 到大学的理科教学团队：把考点做成讲解脚本、动画视频和可交互课件三件套。"
+ },
+ {
+  "name": "workbuddy-expert-research-insight",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-research-insight",
+  "stars": 1,
+  "desc": "workbuddy专家：：研究洞察验证（Research Insight）  > 带交叉验证的研究团队：深度检索、股票与企业调研、市场广告洞察、商业选题核验，每条结论都标置信度。"
+ },
+ {
+  "name": "workbuddy-expert-video-studio",
+  "url": "https://github.com/liangdabiao/workbuddy-expert-video-studio",
+  "stars": 1,
+  "desc": "workbuddy专家：：视频内容工厂（Video Studio）  > 一句话创意 → 成片交付。分镜、素材、Remotion 工程、成片质检四线协作的 AI 视频团队。"
+ },
+ {
+  "name": "worldhistoryviz",
+  "url": "https://github.com/liangdabiao/worldhistoryviz",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "wp-rest-api-for-app",
+  "url": "https://github.com/liangdabiao/wp-rest-api-for-app",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "wstmall",
+  "url": "https://github.com/liangdabiao/wstmall",
+  "stars": 0,
+  "desc": "基于thinkphp 3.2开发的开源多用户O2O商城系统"
+ },
+ {
+  "name": "wx-words-pk",
+  "url": "https://github.com/liangdabiao/wx-words-pk",
+  "stars": 0,
+  "desc": "微信小程序云开发 「 单词天天斗 」，单词对战游戏，支持好友对战、随机匹配、人机对战等，单词 毕业设计"
+ },
+ {
+  "name": "wxapp-mall",
+  "url": "https://github.com/liangdabiao/wxapp-mall",
+  "stars": 0,
+  "desc": "微信小程序 商城demo"
+ },
+ {
+  "name": "wxappUnpacker",
+  "url": "https://github.com/liangdabiao/wxappUnpacker",
+  "stars": 0,
+  "desc": "小程序反编译(支持分包)"
+ },
+ {
+  "name": "xhprof",
+  "url": "https://github.com/liangdabiao/xhprof",
+  "stars": 0,
+  "desc": "xhprof composer"
+ },
+ {
+  "name": "xhs-api-client",
+  "url": "https://github.com/liangdabiao/xhs-api-client",
+  "stars": 0,
+  "desc": "Secure Python client for XiaoHongShu (Little Red Book) API with token server architecture"
+ },
+ {
+  "name": "xhs-business-validator-skill",
+  "url": "https://github.com/liangdabiao/xhs-business-validator-skill",
+  "stars": 38,
+  "desc": "这是一个 **Agent Skill 技能**，让你可以直接在对话中验证业务创意——不需要写代码、不需要跑脚本，说一句话就行。  **它能做什么：** - 搜索小红书上和你的想法相关的笔记和评论 - 分析用户到底在抱怨什么、需要什么 - 给你的想法打分（0-100），告诉你值不值得做 - 生成一份完整的 HTML 市场验证报告  ## 怎么用  ### 激活方式  在对话中直接说出你的需求，技能会自动触发：  ``` 用户：帮我验证一下在深圳卖陈皮这个想法"
+ },
+ {
+  "name": "XHS_Business_Idea_Validator",
+  "url": "https://github.com/liangdabiao/XHS_Business_Idea_Validator",
+  "stars": 268,
+  "desc": "小红书收集和分析数据来解析市场需求用户痛点及竞争格局 - 📊 **小红书数据抓取**: 自动抓取相关笔记和评论数据  - 🤖 **AI 内容分析**: 使用 LLM 分析用户痛点和市场需求 - 📄 **自动化报告生成**: 生成专业的市场验证报告"
+ },
+ {
+  "name": "xiangxuema",
+  "url": "https://github.com/liangdabiao/xiangxuema",
+  "stars": 0,
+  "desc": "“想学吗”个人信息管理工具客户端"
+ },
+ {
+  "name": "xianyu-super-butler",
+  "url": "https://github.com/liangdabiao/xianyu-super-butler",
+  "stars": 1,
+  "desc": "闲鱼超级管家是一款全面升级的xy自动发货平台，自动滑块、发货、评价、要花、擦亮通通稳定支持，时刻维护！时刻更新！坚决保证使用世界上最强 AI模型(6 Astra\\6 Sol 、ops 5)vibecoding！ 群在最后面,不想部署用在线的xy.corleom.com（免费、最新、安全，托管账号AI自动过滑块）"
+ },
+ {
+  "name": "xiaogpt",
+  "url": "https://github.com/liangdabiao/xiaogpt",
+  "stars": 0,
+  "desc": "Play ChatGPT and other LLM with Xiaomi AI Speaker"
+ },
+ {
+  "name": "XiaoTShop",
+  "url": "https://github.com/liangdabiao/XiaoTShop",
+  "stars": 0,
+  "desc": "laravel5.5搭建的后台管理 和 api服务 的小程序商城"
+ },
+ {
+  "name": "xxjzAUI",
+  "url": "https://github.com/liangdabiao/xxjzAUI",
+  "stars": 0,
+  "desc": "小歆记账APICloud项目(AUI框架客户端)"
+ },
+ {
+  "name": "xxjzWeb",
+  "url": "https://github.com/liangdabiao/xxjzWeb",
+  "stars": 0,
+  "desc": "小歆记账WebApp项目(Web服务端)"
+ },
+ {
+  "name": "xxjzWeChat",
+  "url": "https://github.com/liangdabiao/xxjzWeChat",
+  "stars": 0,
+  "desc": "小歆记账微信小程序项目(WeUI框架客户端)"
+ },
+ {
+  "name": "Xzopro-WordPress",
+  "url": "https://github.com/liangdabiao/Xzopro-WordPress",
+  "stars": 0,
+  "desc": "Создание темы WordPress Xzopro"
+ },
+ {
+  "name": "Y-TOC",
+  "url": "https://github.com/liangdabiao/Y-TOC",
+  "stars": 1,
+  "desc": ""
+ },
+ {
+  "name": "yershop",
+  "url": "https://github.com/liangdabiao/yershop",
+  "stars": 0,
+  "desc": "  it‘s a shop system"
+ },
+ {
+  "name": "yii2-adminlte",
+  "url": "https://github.com/liangdabiao/yii2-adminlte",
+  "stars": 0,
+  "desc": "Yii2 Advanced Template with Adminlte theme, rbac role, user management"
+ },
+ {
+  "name": "yii2-aliexpress",
+  "url": "https://github.com/liangdabiao/yii2-aliexpress",
+  "stars": 1,
+  "desc": ""
+ },
+ {
+  "name": "yii2-app-advanced",
+  "url": "https://github.com/liangdabiao/yii2-app-advanced",
+  "stars": 0,
+  "desc": "Yii 2 Advanced Application Template."
+ },
+ {
+  "name": "yii2-easy-admin",
+  "url": "https://github.com/liangdabiao/yii2-easy-admin",
+  "stars": 0,
+  "desc": "Build a full-featured administrative interface in 10 minutes"
+ },
+ {
+  "name": "yii2-fec",
+  "url": "https://github.com/liangdabiao/yii2-fec",
+  "stars": 0,
+  "desc": "yii2 fec , base  extensions"
+ },
+ {
+  "name": "yii2-restful-rbac-demo",
+  "url": "https://github.com/liangdabiao/yii2-restful-rbac-demo",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "yii2-simple",
+  "url": "https://github.com/liangdabiao/yii2-simple",
+  "stars": 0,
+  "desc": "A yii2 package comes with pre-installed jquery UI, RBAC (mdmsoft/yii2-admin), User profile (dektrium/yii2-user), upload files plugin (mdmsoft/yii2-upload-file) and few more coming to boostup initial development time. "
+ },
+ {
+  "name": "yii2_fecshop",
+  "url": "https://github.com/liangdabiao/yii2_fecshop",
+  "stars": 0,
+  "desc": "yii2 ( PHP ) fecshop core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5"
+ },
+ {
+  "name": "yii2_fecshop_app_advanced",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_app_advanced",
+  "stars": 0,
+  "desc": "Fecshop Soft Advanced Application , You can install Fecshop file  form this by composer"
+ },
+ {
+  "name": "yii2_fecshop_china",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_china",
+  "stars": 0,
+  "desc": "fecshop for china"
+ },
+ {
+  "name": "yii2_fecshop_doc",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_doc",
+  "stars": 0,
+  "desc": "yii2 fecshop doc - shop ecommerce doc"
+ },
+ {
+  "name": "yii2_fecshop_elasticsearch",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_elasticsearch",
+  "stars": 0,
+  "desc": "fecshop elasticsearch 功能部分扩展，用于将分类，产品，搜索页面，底层使用elasticSearch支持"
+ },
+ {
+  "name": "yii2_fecshop_enterprise",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_enterprise",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "yii2_fecshop_queue",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_queue",
+  "stars": 0,
+  "desc": "Fecshop 队列方面的扩展"
+ },
+ {
+  "name": "yii2_fecshop_redis_cart",
+  "url": "https://github.com/liangdabiao/yii2_fecshop_redis_cart",
+  "stars": 0,
+  "desc": "fecshop cart use redis storage"
+ },
+ {
+  "name": "yii2_fec_admin",
+  "url": "https://github.com/liangdabiao/yii2_fec_admin",
+  "stars": 0,
+  "desc": "yii2   dwz    jui    admin"
+ },
+ {
+  "name": "yii_example",
+  "url": "https://github.com/liangdabiao/yii_example",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "Yireo_GoogleTagManager2",
+  "url": "https://github.com/liangdabiao/Yireo_GoogleTagManager2",
+  "stars": 0,
+  "desc": ""
+ },
+ {
+  "name": "YPrompt",
+  "url": "https://github.com/liangdabiao/YPrompt",
+  "stars": 0,
+  "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt"
+ },
+ {
+  "name": "yu-rpc",
+  "url": "https://github.com/liangdabiao/yu-rpc",
+  "stars": 0,
+  "desc": "从 0 到 1，带你开发自己的 RPC 框架"
+ },
+ {
+  "name": "Yuxi-Know",
+  "url": "https://github.com/liangdabiao/Yuxi-Know",
+  "stars": 1,
+  "desc": "基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。"
+ },
+ {
+  "name": "zenfeed",
+  "url": "https://github.com/liangdabiao/zenfeed",
+  "stars": 0,
+  "desc": "Make RSS 📰 great again with AI 🧠✨!!"
+ },
+ {
+  "name": "zero-admin",
+  "url": "https://github.com/liangdabiao/zero-admin",
+  "stars": 0,
+  "desc": "Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务"
+ },
+ {
+  "name": "zero-admin-ui",
+  "url": "https://github.com/liangdabiao/zero-admin-ui",
+  "stars": 0,
+  "desc": "Zero-Admin-UI 是一个基于 React 实现的电商后台管理系统的前端项目"
+ },
+ {
+  "name": "zero-pc-web",
+  "url": "https://github.com/liangdabiao/zero-pc-web",
+  "stars": 0,
+  "desc": "zero-pc-web是一个基于React框架实现的web端电商系统"
+ },
+ {
+  "name": "ziroom_realtime_spider",
+  "url": "https://github.com/liangdabiao/ziroom_realtime_spider",
+  "stars": 0,
+  "desc": "自如实时房源提醒"
+ },
+ {
+  "name": "zui",
+  "url": "https://github.com/liangdabiao/zui",
+  "stars": 0,
+  "desc": "zui是由禅道团队开发的一款ui框架。"
+ }
+]

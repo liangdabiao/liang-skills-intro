@@ -1,5 +1,7 @@
 # 聊天即 CRM，边对话边管客户 —— monica-crm-claude-skill 介绍
 
+代码仓库：https://github.com/liangdabiao/monica-crm-claude-skill
+
 AI 编程工具有记忆，但客户信息往往需要更系统、更严肃的管理。这个技能让你在 Claude Code / OpenClaw 里边聊天边做 CRM，把客户信息有条理地沉淀下来。
 
 ![配图：聊天即 CRM，边对话边管客户](assets/monica-crm-claude-skill/01.png)

@@ -1,5 +1,7 @@
 # 想抓抖音、小红书、TikTok 的数据？它帮你查接口、调接口 —— tikhub-api-helper 介绍
 
+代码仓库：https://github.com/liangdabiao/claudesdk-tikhub-chat/tree/main/.claude/skills/tikhub-api-helper
+
 你做运营、做研究，或者就是好奇：某个博主有多少粉丝、某条视频下面大家在聊什么、最近某个话题在 TikTok 上火成啥样。你听说这些数据都有官方接口能拿，但面对几十个平台、几百个接口名，根本不知道从哪个下手、参数怎么填。
 
 **tikhub-api-helper 就是来解决这件事的。**

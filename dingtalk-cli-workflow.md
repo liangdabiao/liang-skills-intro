@@ -1,5 +1,7 @@
 # 钉钉版 AI 效率系统：10 大工作流 —— dingtalk-cli-workflow 介绍
 
+代码仓库：https://github.com/liangdabiao/dingtalk-cli-workflow
+
 基于 Claude Code / OpenClaw 技能加钉钉 CLI（dws）搭建的个人 AI 效率基础设施，把飞书版的 10 大工作流完整迁移到钉钉生态。
 
 ![配图：钉钉版 AI 效率系统：10 大工作流](assets/dingtalk-cli-workflow/01.png)

@@ -1,5 +1,7 @@
 # 一本书式的完整智能客服方案 —— skill-kefu 介绍
 
+代码仓库：https://github.com/liangdabiao/SKILL-kefu
+
 基于 LangChain / LangGraph 的完整智能客服解决方案，整合了原教程 11 个章节的全部核心功能：对话记忆、RAG 知识库、情绪识别、意图分类、工单系统、监控评价、计划执行、多 Agent、MCP 技能系统等，目标是让 skill 能变成公开服务。
 
 ![配图：一本书式的完整智能客服方案](assets/skill-kefu/01.png)

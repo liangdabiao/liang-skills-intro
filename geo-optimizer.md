@@ -1,5 +1,7 @@
 # 想让 AI 搜索（ChatGPT、豆包等）推荐你的品牌？它帮你按"AI 口味"改内容 —— geo-optimizer 介绍
 
+代码仓库：https://github.com/liangdabiao/GEO-Content-Optimizer-Skill/tree/main/skills/geo-optimizer
+
 现在大家问问题，越来越习惯直接问 ChatGPT、Perplexity、豆包、Gemini 这些 AI 助手，而不只是百度谷歌了。一个问题问下去，AI 会综合网上的内容给答案——可如果你的品牌、你的产品，在 AI 的答案里根本没被提到，或者提到了却说错，那等于在一种新的"搜索入口"上彻底缺席。
 
 **geo-optimizer 就是来解决这件事的。**

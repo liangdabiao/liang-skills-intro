@@ -1,5 +1,7 @@
 # 这个类目值不值得进？用五维模型让 AI 帮你算清楚 —— category-selection 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/category-selection
+
 选品最难的不是"找产品"，是"选类目"。一个类目看起来热闹，可能早已红海；看着冷清，也许藏着蓝海。靠感觉进，往往进去就亏。category-selection 就是干这个的：它用一套五维评分模型，对一个亚马逊品类做深度市场调研，直接告诉你"进还是不进、怎么进"。
 
 ![配图：类目五维评分看板](assets/category-selection/01.png)

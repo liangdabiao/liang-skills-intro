@@ -1,5 +1,7 @@
 # 有个生意点子？先让 AI 上网验证靠不靠谱 —— business-idea-validator 介绍
 
+代码仓库：https://github.com/liangdabiao/Business_Idea_Validator
+
 这是一个带友好界面的商业创意验证器：输入你的想法，系统自动抓取网上的真实讨论，识别用户痛点、兴奋点和竞争对手，最后给出一份评分验证报告。
 
 ![配图：有个生意点子](assets/business-idea-validator/01.png)

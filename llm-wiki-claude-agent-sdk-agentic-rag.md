@@ -1,5 +1,7 @@
 # AI 知识编译器 + Claude Agent SDK 组合拳 —— llm-wiki-claude-agent-sdk-agentic-rag 介绍
 
+代码仓库：https://github.com/liangdabiao/llm-wiki-claude-agent-sdk-agentic-rag
+
 这个项目展示了 llm-wiki 怎样通过 Claude Agent SDK 变成强大的 agentic RAG：先让 AI 把所有资料读一遍、整理成彼此关联的百科全书，以后提问直接翻这本「百科」就行。
 
 ![配图：AI 知识编译器 + Claude Agent SDK 组合](assets/llm-wiki-claude-agent-sdk-agentic-rag/01.png)

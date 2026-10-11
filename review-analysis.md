@@ -1,5 +1,7 @@
 # 买家到底在骂什么？让 AI 从评论里挖出产品痛点 —— review-analysis 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/review-analysis
+
 一条差评背后，可能藏着十个没说出口的退货理由。靠人肉翻评论，几百条看不完，看完也总结不出规律。review-analysis 就是干这个的：它自动抓取亚马逊商品评论，识别产品痛点、分析退货原因，顺手生成改进建议和客服回复模板。
 
 ![配图：评论痛点聚类分析](assets/review-analysis/01.png)

@@ -1,5 +1,7 @@
 # 2000+ 关键词不会理？让 AI 帮你分类成能打的词库 —— keyword-research 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/keyword-research
+
 做亚马逊广告，最头疼的是词太多、太乱：哪些该打、哪些该否、哪些是大词哪些是长尾，全靠人肉分，几天都分不完。keyword-research 就是来解决这个的：它基于 Sorftime 数据采集 2000+ 关键词，再用 LLM 智能按 8 个维度分类，直接产出词库、CSV 和可视化看板。
 
 ![配图：关键词八维分类词库](assets/keyword-research/01.png)

@@ -1,5 +1,7 @@
 # 写复杂业务 AI，先用 DeepAgents 打地基 —— do-deepagents-skill 介绍
 
+代码仓库：https://github.com/liangdabiao/do-deepagents-skill
+
 单一提示词撑不住复杂任务：多步推理、多工具组合、长会话、记忆偏好都是难点。这个技能指导 AI 基于 LangChain DeepAgents 框架正确地写代码，做出像 Claude Code、Deep Research 那样具备深度思考能力的智能体。
 
 ![配图：写复杂业务 AI，先用 DeepAgents 打地基](assets/do-deepagents-skill/01.png)

@@ -1,5 +1,7 @@
 # 想写出能打的亚马逊 Listing？让 AI 按新算法帮你打造 —— amazon-listing-builder 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/amazon-listing-builder
+
 做亚马逊，"堆关键词"的老办法正在失效。现在系统看的是语义、买家看的是答案、AI 助手看的是匹配度——你标题埋大词、五点写功能，转化反而上不去。amazon-listing-builder 就是来解决这个的：它按 Cosmo 语义算法和 Alexa/Rufus 对话式购物的新逻辑，用"先分析、再生成、最后校验"的工程化流程，把你的 Listing 从"关键词堆砌"升级成"语义覆盖 + 需求证据 + 答案型内容"。
 
 ![配图：AI 打造高转化 Listing](assets/amazon-listing-builder/01.png)

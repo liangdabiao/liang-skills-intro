@@ -1,5 +1,7 @@
 # 一键生成拼豆图纸的 AI 网站（326 star） —— perler-beads-ai 介绍
 
+代码仓库：https://github.com/liangdabiao/perler-beads-ai
+
 基于开源项目 Zippland/perler-beads 深度改造，加上了 AI 图片优化功能。上传图片，AI 先帮你把主体处理清楚，再一键生成可以直接照着拼的拼豆图纸，还配套了小程序。
 
 ![配图：一键生成拼豆图纸的 AI 网站（326 star）](assets/perler-beads-ai/01.png)

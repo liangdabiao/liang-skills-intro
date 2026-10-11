@@ -1,5 +1,7 @@
 # 产品照一键变循环动图 —— product-motion-gif 介绍
 
+代码仓库：https://github.com/liangdabiao/product-motion-gif
+
 利用 GPT-Image 2.5 一次性生成多格帧图，再合成自动循环的产品动图 GIF，一次调用搞定，专门给不会设计软件、但需要动图素材的人用。
 
 ![配图：产品照一键变循环动图](assets/product-motion-gif/01.png)

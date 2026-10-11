@@ -1,5 +1,7 @@
 # 10 分钟出一份用户需求洞察报告 —— ai-investor 介绍
 
+代码仓库：https://github.com/liangdabiao/ai-investor
+
 基于 OpenAI Agents SDK 的 AI 用户需求洞察分析师，采用三段式用户洞察框架。输入你的产品或服务，AI 用 10 分钟完成传统方法需要数周的用户洞察分析。
 
 ![配图：10 分钟出一份用户需求洞察报告](assets/ai-investor/01.png)

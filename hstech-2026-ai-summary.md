@@ -1,5 +1,7 @@
 # 恒生科技成分股 2026 AI 全景分析 —— hstech-2026-ai-summary 介绍
 
+代码仓库：https://github.com/liangdabiao/HSTECH_2026_AI_SUMMARY
+
 利用 Claude-Code-Stock-Deep-Research-Agent 项目，对恒生科技成分股做的 2026 年全面分析报告，方便大家理性了解相关公司。
 
 ![配图：恒生科技成分股 2026 AI 全景分析](assets/hstech-2026-ai-summary/01.png)

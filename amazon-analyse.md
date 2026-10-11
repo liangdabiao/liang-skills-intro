@@ -1,5 +1,7 @@
 # 想摸清亚马逊竞品底细？用 AI 一键出竞品情报报告 —— amazon-analyse 介绍
 
+代码仓库：https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill/tree/main/SKILLS/skills/amazon-analyse
+
 做亚马逊，最怕"闭着眼睛跟对手打"——你不知道对手标题怎么埋词、评论里买家到底在骂什么、价格趋势往哪走。以前要天天盯榜单、翻评论、人工总结，费时又费脑。amazon-analyse 就是干这件事的：你丢一个 ASIN（商品编号）进去，它从价格、评分、关键词布局到评论情感，自动拉数据、做穿透分析，给你一份带结论的竞品情报报告。
 
 ![配图：给ASIN出竞品报告](assets/amazon-analyse/01.png)

@@ -1,5 +1,7 @@
 # 一键生成英语对话教学短视频 —— ai-generated-english-podcast-videos 介绍
 
+代码仓库：https://github.com/liangdabiao/AI-generated-English-podcast-videos
+
 自动生成双人英语对话、配上语音讲解和教学单词图片，合成一条可以下载的英文教育短视频，用来学英语、发抖音都很方便。
 
 ![配图：一键生成英语对话教学短视频](assets/ai-generated-english-podcast-videos/01.png)

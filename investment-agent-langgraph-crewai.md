@@ -1,5 +1,7 @@
 # CrewAI 多智能体 A 股投资分析 —— investment-agent-langgraph-crewai 介绍
 
+代码仓库：https://github.com/liangdabiao/investment_Agent_langgraph_crewai
+
 基于 CrewAI 框架的 A 股智能投资分析系统，多个智能体分工协作进行投资决策分析。
 
 ![配图：CrewAI 多智能体 A 股投资分析](assets/investment-agent-langgraph-crewai/01.png)

@@ -1,5 +1,7 @@
 # Skill 是程序，MCP 是库，LLM 是语言 —— simple-agentic-stack 介绍
 
+代码仓库：https://github.com/liangdabiao/Simple-Agentic-Stack
+
 一个基于 MCP 和 Skill 驱动的 AI Agent 编排系统：LLM 按自然语言写成的 Skill，一步步调用 MCP Server 提供的工具，完成复杂的多数据源联动任务。
 
 ![配图：Skill 是程序，MCP 是库，LLM 是语言](assets/simple-agentic-stack/01.png)

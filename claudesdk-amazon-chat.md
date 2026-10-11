@@ -1,5 +1,7 @@
 # 亚马逊竞品 Listing 穿透分析工具 —— claudesdk-amazon-chat 介绍
 
+代码仓库：https://github.com/liangdabiao/claudesdk-amazon-chat
+
 针对亚马逊竞品 Listing 做全维度深度分析：文案逻辑、评论情感、关键词布局、市场动态，最后生成专业竞品情报报告并自动存档。
 
 ![配图：亚马逊竞品 Listing 穿透分析工具](assets/claudesdk-amazon-chat/01.png)

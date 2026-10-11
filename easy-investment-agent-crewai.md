@@ -1,5 +1,7 @@
 # 让 4 个 AI 角色帮你分析 A 股：AKShare + CrewAI 实战 —— easy-investment-agent-crewai 介绍
 
+代码仓库：https://github.com/liangdabiao/easy_investment_Agent_crewai
+
 想分析一只 A 股，行情、财务、资金流向、市场情绪都得分别查。这个项目用 CrewAI 搭了一个多智能体分析平台，4 个 AI 角色分工合作，最后给你一份综合的投资分析。
 
 ![配图：让 4 个 AI 角色帮你分析 A 股：AKShare + ](assets/easy-investment-agent-crewai/01.png)
