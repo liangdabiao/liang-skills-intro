@@ -1,5 +1,7 @@
 # 那个最早的小红书生意验证器原版 —— XHS_Business_Idea_Validator 介绍
 
+代码仓库：https://github.com/liangdabiao/XHS_Business_Idea_Validator
+
 你有个生意点子，比如"在深圳卖陈皮"，想知道小红书上的人买不买账。前面那篇 xhs-business-validator 其实是从一个更早的"原版"项目改出来的技能版。这个 XHS_Business_Idea_Validator 就是那个原版——一个独立的小红书商业创意验证器。
 
 **XHS_Business_Idea_Validator 就是来解决这件事的。** 你给它一个生意想法，它去小红书里搜相关笔记和评论，分析用户痛点和市场信号，最后给你一份带评分的验证报告，告诉你这个点子值不值得做。

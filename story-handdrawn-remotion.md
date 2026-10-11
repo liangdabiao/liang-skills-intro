@@ -1,5 +1,7 @@
 # 有段故事想变成手绘风视频？它让每句话被"画"三次 —— story-handdrawn-remotion 介绍
 
+代码仓库：https://github.com/liangdabiao/story-handdrawn-remotion
+
 你想把一段日记、一个童话、或者一个温情小故事做成视频，但嫌真人出镜麻烦，又想要那种手绘日记、蜡笔涂色的治愈感。自己画？一集都画不完。
 
 **story-handdrawn-remotion 就是来解决这件事的。**

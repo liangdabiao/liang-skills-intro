@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 三段式用户洞察分析框架
+Structure type: 方法分层
+Core idea: 产品丢进去，三层抽屉弹出真实用户
+Composition: 画面中央上方悬着一个画着小火箭的产品方块；方块下方是三层抽屉式架子，抽屉被依次拉开，每层里坐着一排不同表情的简笔小人和一个小气泡；小黑蹲在最下层抽屉前，手里拿着一把小钥匙正在开锁。
+Suggested elements: 产品方块 / 三层抽屉 / 各层小人 / 气泡 / 小黑开锁
+Chinese handwritten labels: 谁在用 / 为什么用 / 痛在哪
+Color use: Black for main line art and 小黑. Orange for the drawer structure. Red only for the key. Blue only for the speech bubbles.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

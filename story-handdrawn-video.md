@@ -1,5 +1,7 @@
 # 想做会动的手绘蜡笔风短视频？它每段直接生成一段动画 —— story-handdrawn-video 介绍
 
+代码仓库：https://github.com/liangdabiao/story-handdrawn-video
+
 上一个是把静帧一张张擦出来讲，但你想让画面本身就动起来：小猫真的在走、雨真的在下，整段是 Q 版手绘蜡笔风的视频。这种"文生视频"怎么搞？
 
 **story-handdrawn-video 就是来解决这件事的。**

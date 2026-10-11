@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 对话式企业调研与外贸分析
+Structure type: 前后对比
+Core idea: 一堆网页碎片被筛子筛成一份外贸报告
+Composition: 画面上方飘落七八张皱巴巴的小网页卡片；卡片落进一个巨大的漏斗里；漏斗下方只漏出三张干净整齐的卡片，卡片上画着地球、经线和集装箱；漏斗旁边小黑举着一块放大镜，正在检查漏出的卡片边缘。
+Suggested elements: 飘落网页碎片 / 巨大漏斗 / 漏出三张整齐卡片 / 地球经线 / 小黑举镜
+Chinese handwritten labels: 企业调研 / 外贸 / 竞品
+Color use: Black for main line art and 小黑. Orange for the funnel body. Red only for the ship container mark. Blue only for the globe meridians.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

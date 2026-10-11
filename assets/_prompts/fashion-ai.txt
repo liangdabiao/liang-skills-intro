@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: AI 模特替代真人拍摄服装
+Structure type: 前后对比
+Core idea: 一件平铺的衣服自己站起来变成穿着的模特
+Composition: 画面左侧一件平铺的 T 恤躺在桌上；中间一条橙色上升箭头；右侧 T 恤已经立起来穿在一个极简简笔模特身上，模特摆着姿势；模特旁边立着一块穿衣镜；小黑站在镜子后面，双手扶着镜子边缘往外推。
+Suggested elements: 左侧平铺衣服 / 橙色上升箭头 / 右侧穿衣模特 / 穿衣镜 / 小黑推镜
+Chinese handwritten labels: 平铺图进 / 模特图出 / 免拍摄
+Color use: Black for main line art and 小黑. Orange for the rising arrow. Red only for the garment trim. Blue only for the mirror reflection line.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

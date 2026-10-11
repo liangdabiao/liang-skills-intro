@@ -1,5 +1,7 @@
 # 让 AI 读完一本几百页的 PDF，还能告诉你答案在第几页？—— glm-5.3-flash-vision-rag 介绍
 
+代码仓库：https://github.com/liangdabiao/glm-5.3-flash-vision-rag
+
 你手上有一份 120 页的技术手册或扫描版合同，想问它一个具体问题。整本塞给 AI？token 爆炸、慢得要命；用传统文字 RAG？碰到图表、表格、公式、扫描件就瞎了，页码还经常报错。你真正想要的是：问一句话，拿到答案，顺便看到那几页的原图自己核对。
 
 **glm-5.3-flash-vision-rag 就是来解决这件事的。**

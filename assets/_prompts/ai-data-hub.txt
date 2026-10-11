@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: AI 项目的一体化数据底座
+Structure type: 系统局部
+Core idea: 零散数据从四个入口汇入一个中枢
+Composition: 画面左侧散落着数据库圆柱、文档堆、蓝色点阵和云朵形状四组小图标；它们各自拖出一条细线，汇入画面中央一个画着四格开关面板的方盒子；小黑站在盒子顶上，双手用力按住一个红色总闸。
+Suggested elements: 左侧四组数据源 / 中枢方盒子 / 小黑按总闸 / 汇入的细线
+Chinese handwritten labels: 摄取 / 加工 / 探索 / 检索
+Color use: Black for main line art and 小黑. Orange for the converging data lines. Red only for the master switch. Blue only for the vector dot matrix.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

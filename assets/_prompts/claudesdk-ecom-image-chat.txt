@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 一句话生成电商图
+Structure type: 前后对比
+Core idea: 一句中文描述进去，一张成品图出来
+Composition: 画面左侧小黑举着一张对折的纸条，纸条上只有几道短横线；纸条被塞进一个画着相机的方盒里；方盒右侧的出口正吐出一张竖版图卡，图卡里是一个简笔商品瓶；图卡下面已经排好三张不同尺寸的小图卡；小黑在出口处伸手接着。
+Suggested elements: 左侧对折纸条 / 相机方盒 / 竖版成品图卡 / 三种尺寸小图 / 小黑接图
+Chinese handwritten labels: 一句话 / 25模板 / 出图
+Color use: Black for main line art and 小黑. Orange for the camera box. Red only for the hero image card border. Blue only for the size labels.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,5 +1,7 @@
 # 给一个网址，它告诉你这页内容怎么改才容易被 AI 推荐 —— geo-content-optimizer 介绍
 
+代码仓库：https://github.com/liangdabiao/GEO-Content-Optimizer-Skill
+
 你写好了官网某一页，心里没底：用户用 AI 助手问相关问题时，这页会不会被引用？它跟 Google 的"AI 概览"里那段总结比，缺了啥、多说了啥？光靠自己读，很难看出差距在哪。
 
 **geo-content-optimizer 就是来解决这件事的。**

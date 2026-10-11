@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 自动生成双人英语对话播客视频
+Structure type: 前后对比
+Core idea: 一段文字进去，两个说话的人和一个单词卡片出来
+Composition: 画面左侧一张纸上写满横线一样的英文草稿；中间一台矮胖的小机器正在运转，机器顶部伸出两根天线；右侧两个简笔小圆脑袋相对而立，中间飘着一个画着苹果的卡片，机器输出一条长长的音带。
+Suggested elements: 左侧英文草稿 / 双天线小机器 / 两个相对小人 / 苹果单词卡 / 输出的音带
+Chinese handwritten labels: 写稿 / 合成 / 双人对谈
+Color use: Black for main line art and 小黑. Orange for the output audio tape. Red only for the speaking mouth mark. Blue only for the apple card.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

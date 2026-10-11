@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: A股四个 AI 角色协同投资分析
+Structure type: 系统局部
+Core idea: 四个戴不同帽子的角色围着一张 K 线图
+Composition: 画面中央铺着一张画满蜡烛柱的桌面；桌面四周站着四个长相一样但帽子不同的简笔人（一个戴厨师帽看行情盘、一个戴眼镜翻财报、一个拿听诊器探资金流、一个举望远镜看情绪）；桌子中间小黑趴着，正把四根线拧成一股绳。
+Suggested elements: 中央K线桌面 / 四个戴帽角色 / 各自工具 / 小黑拧线
+Chinese handwritten labels: 行情 / 财务 / 资金 / 情绪
+Color use: Black for main line art and 小黑. Orange for the merging rope. Red only for one falling candle. Blue only for the telescope lens.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

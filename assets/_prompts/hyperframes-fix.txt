@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 文章一键转横竖版中文配音短视频
+Structure type: 前后对比
+Core idea: 一篇长文章被剪成会说话的短视频
+Composition: 画面左侧一篇很长的手写文章卷轴；中间一台矮胖机器正在把卷轴裁成小段；右侧两台不同朝向的屏幕（横屏和竖屏）并排立着，正在播放同一段内容；机器上方挂着一个画有嘴唇的喇叭；小黑站在机器旁，一手按住文章卷轴一手比了个暂停手势。
+Suggested elements: 左侧长文章卷轴 / 裁切机器 / 横竖两块屏 / 喇叭 / 小黑按卷轴
+Chinese handwritten labels: 一键转视频 / 中文配音 / 横竖双版
+Color use: Black for main line art and 小黑. Orange for the cutting machine. Red only for the record dot on the speaker. Blue only for the portrait screen.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

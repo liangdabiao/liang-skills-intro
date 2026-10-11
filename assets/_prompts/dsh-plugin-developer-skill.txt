@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: dsh 插件开发全流程指导
+Structure type: 过程展开
+Core idea: 一个插件从写代码到装上机器的四格流水线
+Composition: 画面地面横着铺四个工位格子，格子里依次画着：一个写着代码的小本子、一个齿轮、一个闪电、一个插头；四个格子被一条橙色传送带串起来；最右端格子已经亮起并插进了墙上的插座；小黑蹲在第二个格子上，手里的扳手正在拧齿轮。
+Suggested elements: 四格流水线 / 代码本齿轮闪电插头 / 传送带 / 墙上插座 / 小黑拧齿轮
+Chinese handwritten labels: 开发 / 构建 / 安装 / 测试
+Color use: Black for main line art and 小黑. Orange for the conveyor. Red only for the lightning bolt. Blue only for the final plugged-in cell.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,5 +1,7 @@
 # 想让 AI 画出「讲到哪画到哪」的白板讲解视频？—— whiteboard-explainer 介绍
 
+代码仓库：https://github.com/liangdabiao/whiteboard-explainer
+
 把一篇讲稿变成白板手绘动画视频：图形被一笔笔描出来、文字逐笔写出，**旁白讲到哪，画面就画到哪**——不是 PPT 翻页，是真·手绘过程。这就是 whiteboard-explainer 干的事。
 
 ![配图：白板讲解动画逐笔绘制](assets/whiteboard-explainer/01.png)

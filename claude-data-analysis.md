@@ -1,5 +1,7 @@
 # 拿到一堆订单数据不知道从哪下手？—— claude-data-analysis 介绍
 
+代码仓库：https://github.com/liangdabiao/claude-data-analysis
+
 老板丢来一坨 CSV：三个月订单、用户信息、评论打分，让你"分析一下"。Excel 拉半天透视表，写了一堆 VLOOKUP，最后憋出三张图，老板问"所以结论呢"？claude-data-analysis 就是解决这个的：它是互联网数据分析技能集，7 大专业模块加一套通用六阶段流程，把数据从"质量检查"一路带到"结论报告"。
 
 ![配图：数据分析七模块流水线](assets/claude-data-analysis/01.png)

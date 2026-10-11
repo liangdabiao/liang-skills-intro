@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: AI 自己读 SDK 文档然后搭出应用
+Structure type: 过程展开
+Core idea: 一叠文档被读进去，一台小应用被搭出来
+Composition: 画面左侧一摞厚厚的手绘说明书，书页上密布短线；说明书上方悬着一个画着眼睛的小台灯正在照读；右侧一台积木式的小应用正被一块块搭起来，顶部已经立起一面画着聊天气泡的小旗；小黑站在积木旁，一手托砖一手比划尺寸。
+Suggested elements: 左侧说明书堆 / 悬着的台灯 / 右侧积木小应用 / 聊天小旗 / 小黑托砖
+Chinese handwritten labels: 读文档 / 自己搭 / 能跑
+Color use: Black for main line art and 小黑. Orange for the brick structure. Red only for the chat bubble. Blue only for the lamp light cone.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

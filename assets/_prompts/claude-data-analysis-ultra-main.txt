@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 对话式互联网数据分析（拉新留存促活推荐转化）
+Structure type: 系统局部
+Core idea: 问一句话，一台机器吐出一块对应的分析切片
+Composition: 画面左侧小黑举着一个画着问号的气球；气球拖出一条线连向中央一个方形机器；机器右侧的传送带正送出五块形状不同的切片（漏斗形、环形、箭头形、分叉形、上升折线形）；切片上方各飘一个小标签。
+Suggested elements: 小黑举问号 / 中央机器 / 传送带 / 五块不同形状切片 / 小标签
+Chinese handwritten labels: 拉新 / 留存 / 促活 / 转化
+Color use: Black for main line art and 小黑. Orange for the conveyor belt. Red only for the funnel drop-off. Blue only for the ascending line slice.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

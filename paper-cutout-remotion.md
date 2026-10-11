@@ -1,5 +1,7 @@
 # 想做有层次感的剪纸动画，又不会画画？它帮你把故事拆成会动的四层 —— paper-cutout-remotion 介绍
 
+代码仓库：https://github.com/liangdabiao/paper-cutout-remotion
+
 你想做个讲历史、讲品牌故事的小动画，但平面的图太单薄，真去做 3D 又太难。有没有一种办法，让画面有前后纵深、像纸片一层层叠起来那种味道，还不用你亲手画？
 
 **paper-cutout-remotion 就是来解决这件事的。**

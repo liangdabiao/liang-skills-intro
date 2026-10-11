@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 10 个钉钉工作流 Skill 的命令行操作
+Structure type: 系统局部
+Core idea: 一句命令从终端射出，钉钉里的十个模块被依次点亮
+Composition: 画面左下方一个画着尖括号符号的终端小窗口，窗口里冒出一串短横线；一条粗线从终端射出，向上分成十股细线；每股细线末端连着一个小方块图标（铃铛、日历、对勾、文件夹等）；小黑站在终端后面，双手叉腰看着这一片分支。
+Suggested elements: 左下终端窗口 / 十股分叉细线 / 末端小方块图标 / 小黑叉腰
+Chinese handwritten labels: 一句话 / 十模块 / 效率基建
+Color use: Black for main line art and 小黑. Orange for the branching cables. Red only for the notification bell. Blue only for the calendar icon.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

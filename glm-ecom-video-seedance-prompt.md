@@ -1,5 +1,7 @@
 # 同款带货爆款，换个引擎拆会更准吗？—— glm-ecom-video-seedance-prompt 介绍
 
+代码仓库：https://github.com/liangdabiao/ecom-video-seedance-prompt
+
 你刷到一条带货视频卖爆了，想让 AI 照着再来一条。可"拍一个好看的视频"这种提示词只能换回一坨废片，真正能出片的是"主体+动作时序+场景光影+镜头语言+色调情绪"全写齐的分镜级提示词——而把一条视频拆成这个粒度，靠人肉逐帧看要盯半天。
 
 **glm-ecom-video-seedance-prompt 就是来解决这件事的。**

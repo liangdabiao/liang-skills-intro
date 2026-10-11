@@ -1,5 +1,7 @@
 # 一段视频里的事，想问 AI"第几秒发生的"？它让 AI 把视频看完再回答你—— deepseek-v4-flash-vision-video-rag 介绍
 
+代码仓库：https://github.com/liangdabiao/deepseek-v4-flash-vision-video-rag
+
 你有没有过这种时刻：几个小时的游戏录像想找那次关键团战在第几分几秒；监控视频想确认某个人是什么时候出现的；一部教程视频想定位某个操作步骤；或者就想问"视频里总共出现了几次红色物品"。拖进度条一帧帧找，找到眼花；普通 AI 工具要么只看个封面，要么让你自己截好图再问。你真正想要的是：把视频丢给 AI，它自己看完，然后像看过全片的人那样回答你——还告诉你发生在第几秒。
 
 **deepseek-v4-flash-vision-video-rag 就是来解决这件事的。**

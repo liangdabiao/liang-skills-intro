@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 一张照片变 12 帧定格动画
+Structure type: 方法分层
+Core idea: 一张脸被切成十二格，逐格换表情
+Composition: 画面左侧是一张方形的简笔人脸照片；照片被一条竖直虚线切成两半；中间一排十二个小格子首尾相连像一条胶片，每个格子里是同一张脸但表情各不相同（眨眼、张嘴、皱眉）；小黑站在胶片末端，双手扶着最后一格正在往里按。
+Suggested elements: 左侧原始照片 / 胶片十二格 / 逐格变化表情 / 小黑扶最后一格
+Chinese handwritten labels: 一张图 / 十二帧 / 导GIF
+Color use: Black for main line art and 小黑. Orange for the film strip. Red only for the exaggerated open mouth. Blue only for the cut line.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

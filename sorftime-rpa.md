@@ -1,5 +1,7 @@
 # 想用 Sorftime 挖亚马逊数据，又不想一页页手抄？它一个入口抓 11 类 —— sorftime-rpa 介绍
 
+代码仓库：https://github.com/liangdabiao/sorftime-rpa-skills
+
 你用 Sorftime（sorftime.com）做亚马逊卖家分析，它家榜单很多：畅销榜、产品选品、关键词、品牌、卖家，还有各种"反查"工具。手动在网页上点、复制、粘贴，光一个类目就能耗掉一下午。sorftime-rpa 把原来 11 个分散的技能合并成了一个入口，让你一句话抓数据、一句话出报告，覆盖选品和"查竞品/品牌/市场/关键词"两大块。
 
 **sorftime-rpa 就是来解决这件事的。**

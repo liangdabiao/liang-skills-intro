@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 对话式亚马逊竞品情报分析
+Structure type: 概念隐喻
+Core idea: 一句问话变成一份带图表的情报册
+Composition: 画面中央小黑坐在一张小桌子后面，桌上摆着一台打字机和一叠纸；打字机吐出的纸带向上卷成一个筒；纸筒被一个巨大的放大镜照着，镜子里浮出几根柱状图和一条折线；小黑手上还举着一支笔准备补写。
+Suggested elements: 小黑与打字机 / 吐出的纸带 / 巨大放大镜 / 镜中图表 / 手里的笔
+Chinese handwritten labels: 问一句 / 出情报 / 带图表
+Color use: Black for main line art and 小黑. Orange for the paper tape. Red only for the bar chart highest bar. Blue only for the line chart.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: DeepAgents 深度智能体框架
+Structure type: 系统局部
+Core idea: 一个大身体里装着会规划会记事的小零件
+Composition: 画面中央小黑被画成一个巨大的透明方框容器，容器内部装着几个不同形状的零件：一个画着地图的小卷轴、一个带锁的小本子、一个画着锤子的扳手；容器顶部插着一面小旗写着规划；小黑本人站在容器外面抬头看自己的内脏，手里拿着一把小放大镜。
+Suggested elements: 巨大透明容器 / 内部卷轴本子扳手零件 / 顶部小旗 / 小黑看内部
+Chinese handwritten labels: 多步推理 / 记忆 / 规划
+Color use: Black for main line art and 小黑. Orange for the scroll map. Red only for the wrench. Blue only for the locked notebook.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: dsh 插件内一键生成全套电商图
+Structure type: 前后对比
+Core idea: 一张产品照被复印成主图详情页社媒直播四件套
+Composition: 画面左侧小黑双手举起一张小产品照片；中央一台画着魔法阵的复印机正在嗡嗡运转；右侧扇形展开四张成品大图卡（白底主图、长图详情、方形社媒、竖版直播），像扑克牌一样排开；最右一张卡上画着一个合规对勾。
+Suggested elements: 左侧产品照 / 魔法复印机 / 扇形四张成品图 / 合规对勾
+Chinese handwritten labels: 主图 / 详情页 / 社媒 / 直播
+Color use: Black for main line art and 小黑. Orange for the machine magic circle. Red only for the compliance checkmark. Blue only for the size tags.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

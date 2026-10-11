@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 8 阶段股票尽调、28 个智能体并行研究
+Structure type: 方法分层
+Core idea: 一张股票被一大群小人同时翻来覆去地查
+Composition: 画面中央立着一张画着上升箭头的股票柱；柱子的四周密密麻麻站着二十几个极简小剪影，每个剪影手里举着放大镜、尺子或本子，剪影之间用细线两两相连；小黑站在最前方一只大放大镜后面，镜子里正照出那根柱子。
+Suggested elements: 中央股票柱 / 密集小剪影群 / 各自的放大镜 / 连线 / 小黑大镜
+Chinese handwritten labels: 8阶段 / 28个Agent / 多空平衡
+Color use: Black for main line art and 小黑. Orange for the connecting lines. Red only for the bull bear balance scale. Blue only for the arrow.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,5 +1,7 @@
 # 想做个生意但怕没人买单？让 Reddit 上的真人帮你投票 —— reddit-business-idea-validator 介绍
 
+代码仓库：https://github.com/liangdabiao/Reddit_Business_Idea_Validator
+
 你想做个产品，比如"给独居老人做智能药盒"，但心里没底：美国人真有这需求吗？大家都在抱怨啥？现在有没有人已经在做了？你当然可以去 Reddit 翻，但几百万帖子里找信号，等于大海捞针，还容易只看得到自己想看的。
 
 **reddit-business-idea-validator 就是来解决这件事的。** 你给它一个想法，它自动去 Reddit 抓相关帖子和评论，让多个 AI 一起分析，最后还你一份带 0–100 评分的报告，直说这个方向值不值得做。

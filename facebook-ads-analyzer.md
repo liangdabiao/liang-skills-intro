@@ -1,5 +1,7 @@
 # 投了 Facebook 广告却看不懂数据？它帮你一眼分清好坏 —— facebook-ads-analyzer 介绍
 
+代码仓库：https://github.com/liangdabiao/facebook-ads-analyzer
+
 你花真金白银在 Facebook 上投广告，月底从后台导出一张几百行的 CSV 数据表，密密麻麻全是展示量、花费、点击这些数字。哪个广告真正带来订单、哪个广告纯粹在烧钱，光靠肉眼根本看不过来。facebook-ads-analyzer 就是干这个的：你把导出的数据文件交给它，它帮你算出点击率、转化率这些关键指标，给每条广告打分评级，直接告诉你哪些该加预算、哪些该停掉。
 
 **facebook-ads-analyzer 就是来解决这件事的。**

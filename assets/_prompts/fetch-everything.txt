@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 网页抓取与文档提取，强化中文平台支持
+Structure type: 过程展开
+Core idea: 一只机械手从六个网站里抓回六卷纸带
+Composition: 画面上方悬着六个大小不同的网站窗口简笔画；一只画着关节的机械手从中间伸出来，手爪同时抓着三卷纸带；纸带向下落到一个桌面上的整理槽里，槽里已经堆好了带小标签的卷轴；小黑站在桌边抱着一卷新的纸带。
+Suggested elements: 上方六个网站窗口 / 机械手抓取 / 三卷纸带 / 整理槽 / 小黑抱纸带
+Chinese handwritten labels: 抓网页 / 提文档 / 中文站
+Color use: Black for main line art and 小黑. Orange for the paper tape. Red only for the robot claw tip. Blue only for the site window titles.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

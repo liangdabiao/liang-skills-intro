@@ -1,5 +1,7 @@
 # 想挖亚马逊选品数据、查竞品，又嫌手动点太累？它一个入口全搞定 —— sellersprite-rpa 介绍
 
+代码仓库：https://github.com/liangdabiao/sellersprite-rpa-skills
+
 你在用卖家精灵（sellersprite.com）做亚马逊选品和分析，网站功能很全，但跨站点、跨模块手动点一遍要花半个多小时，还容易看花眼。sellersprite-rpa 把卖家精灵 5 个核心数据分析模块打包成一个入口：选产品、关键词选品、选市场、ABA 搜索频率、查竞品，让你一句话就能抓数据，再一句话出多站点对比报告，半个钟的活儿变成几十秒。
 
 **sellersprite-rpa 就是来解决这件事的。**

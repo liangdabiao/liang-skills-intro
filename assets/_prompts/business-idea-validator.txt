@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 创业想法自动验证评分
+Structure type: 方法分层
+Core idea: 一个想法被丢进三个筛子，滤出可行性分数
+Composition: 画面左上悬着一个画着灯泡的想法小方块；想法下方立着三层斜置的筛网，筛网上散落着关键词纸屑；第一层筛子漏下红色纸屑（痛点），第二层漏下橙色纸屑（市场），第三层只剩三颗黑色小珠子落进一个分数碗里；小黑站在碗边接住珠子。
+Suggested elements: 灯泡想法 / 三层筛网 / 漏下的纸屑 / 分数碗 / 小黑接珠子
+Chinese handwritten labels: 痛点 / 竞争 / 可行性
+Color use: Black for main line art and 小黑. Orange for the sieve frames. Red only for the pain-point slips. Blue only for the score bowl.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

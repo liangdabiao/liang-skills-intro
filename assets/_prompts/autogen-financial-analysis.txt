@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 多智能体协作的智能财务分析
+Structure type: 前后对比
+Core idea: 一堆行情数字被几个角色轮流过秤，最后出一张风险曲线
+Composition: 画面左侧散落一桌子曲线的行情小纸片；中间三个长相一样但戴着不同帽子的简笔小人排成一列，一个拿放大镜一个拿秤一个拿笔；右侧墙上挂着一张画着波浪曲线的白纸；小黑站在白纸前，用红色笔画出一条下降线。
+Suggested elements: 左侧行情纸片 / 三个戴帽小人 / 放大镜秤和笔 / 右侧曲线白纸 / 小黑画线
+Chinese handwritten labels: VaR / 压力测试 / 蒙特卡洛
+Color use: Black for main line art and 小黑. Orange for the chart curve. Red only for the descending risk line. Blue only for the paper slips.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

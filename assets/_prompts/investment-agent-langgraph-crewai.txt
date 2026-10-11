@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: LangGraph 与 CrewAI 多智能体投资决策
+Structure type: 方法分层
+Core idea: 一条流程图上站着分工明确的角色
+Composition: 画面中央是一个画着方框与箭头的流程图骨架；骨架上有三个站位，第一个站位画着一张地图（搜集），第二个站位画着天平（分析），第三个站位画着印章（决策）；三个站位被一条橙色线串起；小黑站在终点站位，正把一张结论卡按进一个红色的印章里。
+Suggested elements: 流程图骨架 / 三个分工站位 / 橙色串联线 / 小黑盖结论印章
+Chinese handwritten labels: 搜集 / 分析 / 决策
+Color use: Black for main line art and 小黑. Orange for the flow line. Red only for the decision stamp. Blue only for the map pin.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

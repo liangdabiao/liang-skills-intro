@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 多维度股票批量分析与实时监控预警
+Structure type: 前后对比
+Core idea: 一排股票被扫描仪扫过，异常的那只被红圈圈出来
+Composition: 画面中下方并排立着五根高矮不一的蜡烛柱；一根长长的扫描横梁从上方缓缓扫过蜡烛柱群；横梁由一根立柱支撑，立柱旁小黑双手握着控制杆；最右边一根蜡烛柱被画上一个大红圈，圈旁飘着一个小铃铛。
+Suggested elements: 五根蜡烛柱 / 扫描横梁 / 立柱与控制杆 / 小黑握杆 / 红圈与铃铛
+Chinese handwritten labels: 批量扫 / 实时监控 / 智能预警
+Color use: Black for main line art and 小黑. Orange for the scan beam. Red only for the alert circle and bell. Blue only for one candle wick.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

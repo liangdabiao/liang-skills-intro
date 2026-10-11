@@ -1,5 +1,7 @@
 # 电商主图详情页，一套 Prompt 全搞定？—— ecom-details-image 介绍
 
+代码仓库：https://github.com/liangdabiao/ecom-details-image
+
 做电商最烦的素材环节：主图要白底图、详情页要场景图、社媒要推广图、直播要背景图，一个产品几十张图，找设计师排期两周，改稿改到崩溃。ecom-details-image 把这件事变成一句话：输入产品图和需求描述，自动生成全套电商视觉素材——不配 API 时给你可执行的 Prompt，配了 API 直接出图。
 
 ![配图：一张产品图变全套电商素材](assets/ecom-details-image/01.png)

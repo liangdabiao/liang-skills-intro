@@ -1,5 +1,7 @@
 # 想把小说做成多集 AI 短剧？—— seedance2-storyboard 介绍
 
+代码仓库：https://github.com/liangdabiao/Seedance2-Storyboard-Generator
+
 看到别人用 AI 把《林教头风雪山神庙》做成十集水墨短剧，自己也想试试，结果卡在第一步：剧本怎么拆集？角色提示词怎么写才能每集长得一样？分镜提示词是什么格式？seedance2-storyboard 把这整套流程做成了技能：小说、文章、故事大纲丢进去，产出从剧本到分镜的全套制作文件。
 
 ![配图：小说变多集分镜脚本流水线](assets/seedance2-storyboard/01.png)

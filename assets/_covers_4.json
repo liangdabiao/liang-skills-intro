@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "simple-agentic-stack",
+    "theme": "Skill 加 MCP 的双层编排",
+    "structure": "系统局部",
+    "idea": "上层调技能，下层调工具，两层叠起来",
+    "composition": "画面中央是一座两层积木塔；下层是一排画着扳手和插头的工具积木，每块积木都拖出一条短线连到塔外；上层是一排画着帽子的技能积木，每块也拖出一条线；两层之间被一条竖直的橙色通道贯通；小黑站在塔顶，双手扶着塔顶一块正在被放上去的积木。",
+    "elements": "两层积木塔 / 下层工具积木 / 上层技能积木 / 橙色竖直通道 / 小黑放积木",
+    "labels": "Skill / MCP / 双层编排",
+    "color": "Black for main line art and 小黑. Orange for the vertical channel. Red only for one tool brick. Blue only for one skill brick."
+  },
+  {
+    "slug": "simple-ai-toolset",
+    "theme": "FastAPI 后端加搜索、解析、RPA 的工具箱",
+    "structure": "系统局部",
+    "idea": "一个后端接口把所有工具串在一根轴上",
+    "composition": "画面中央一个画着插口的方盒（FastAPI）；一根横轴穿过方盒；横轴上依次挂着几件工具（放大镜、纸屑吸尘器、剪刀、爬行的小虫、小眼睛）；轴的两端各有一个手柄；小黑站在方盒后面双手转动左边的圆形手柄，工具们跟着一个个转起来。",
+    "elements": "中央方盒与插口 / 贯穿横轴 / 各式工具挂件 / 两侧手柄 / 小黑转手柄",
+    "labels": "搜索 / 解析 / RPA / Agent",
+    "color": "Black for main line art and 小黑. Orange for the horizontal shaft. Red only for the scissors. Blue only for the small eyes."
+  },
+  {
+    "slug": "simple-claude-deep-research-agent",
+    "theme": "研究主导代理 + 子代理 + 引用代理",
+    "structure": "系统局部",
+    "idea": "一个大手派活，小手并行，最后贴上引用",
+    "composition": "画面上方中央站着一个稍大的简笔人，正举着一块写着计划的小板；他的三只手臂分别伸出三条线，末端是三个一模一样的简笔小人各自趴在一台电脑前；三个小人的电脑上飘出三张网页卡片；所有卡片最后被一根橡皮筋捆成一叠，橡皮筋上挂着一枚小引号标签；小黑站在最前面，双手抱着那叠卡片。",
+    "elements": "上方主导代理与计划板 / 三条分派线 / 三个子代理与电脑 / 三张网页卡 / 橡皮筋与引号标签",
+    "labels": "规划 / 并行调研 / 自动引用",
+    "color": "Black for main line art and 小黑. Orange for the dispatch lines. Red only for the quote label. Blue only for the web cards."
+  },
+  {
+    "slug": "skill-kefu",
+    "theme": "带记忆和情绪识别的智能客服",
+    "structure": "系统局部",
+    "idea": "情绪被先读出来，再决定答什么",
+    "composition": "画面左侧一个顾客气泡，气泡里画着一张 Angry 的脸、一张无语的脸和一张笑脸三条小情绪条；气泡的线连向中央一个贴着听诊器的分类漏斗；漏斗出口分出两条路：一条通往画着书本的知识库方块，一条通往画着铃铛的工单机；小黑站在两条路中间的岔口，一手举着小旗指示方向。",
+    "elements": "左侧顾客气泡与三条情绪条 / 中央听诊器漏斗 / 知识库方块 / 工单机 / 小黑举旗",
+    "labels": "读情绪 / 查知识库 / 转工单",
+    "color": "Black for main line art and 小黑. Orange for the routing lines. Red only for the angry mood bar. Blue only for the knowledge shelf."
+  },
+  {
+    "slug": "skill-ten-prompt-generator",
+    "theme": "10 个场景化提示词专家自动路由",
+    "structure": "前后对比",
+    "idea": "一句请求被分给十位专家，出一张结构化提示词",
+    "composition": "画面左侧小黑举着一张画有引号的请求卡；请求卡被投进中央一个旋转的圆形转盘；转盘上等距摆着十个小工位，每个工位里坐着一个极简小人；转盘转到某一个工位时，那个小人正把一张写满横线的结构化卡片推出来；卡片上能看到分栏和编号；小黑在转盘外等着接卡。",
+    "elements": "左侧请求卡 / 中央旋转转盘 / 十个工位小人 / 结构化提示词卡片 / 小黑等卡",
+    "labels": "十位专家 / 自动路由 / 结构化输出",
+    "color": "Black for main line art and 小黑. Orange for the rotating turntable. Red only for the section headers on the card. Blue only for the numbered list."
+  },
+  {
+    "slug": "smy-seedance-storyboard",
+    "theme": "上海美术电影风格短剧分镜制作",
+    "structure": "前后对比",
+    "idea": "一个故事被刷上水墨动画的皮肤",
+    "composition": "画面左侧一页朴素的黑白故事草稿；中间一台机器正往草稿上滚一层淡墨色，纸面上浮出水墨晕染和几笔毛笔线条；右侧草稿已经变成一组上美影风格的画面卡片，卡片角落画着圆圈和祥云；机器旁一个颜料盘上放着黑红两色颜料；小黑站在颜料盘后面，一手拿毛笔一手举起刚画好的一格画面欣赏。",
+    "elements": "左侧黑白草稿 / 上墨的机器 / 水墨晕染 / 右侧风格化画面卡 / 颜料盘与毛笔",
+    "labels": "复古手绘 / 上美影风 / 出图出视频",
+    "color": "Black for main line art and 小黑. Orange for the ink wash spread. Red only for the red paint dish. Blue only for one cloud motif."
+  },
+  {
+    "slug": "social-research-agent",
+    "theme": "TikHub 社媒数据加 Web 搜索的双路调研",
+    "structure": "前后对比",
+    "idea": "两条路的数据汇成一份舆情报告",
+    "composition": "画面上方两条平行的路从左右两侧汇入中央一个合流口；左路路上跑着一辆画着心形的小车（社媒），右路路上跑着一辆画着放大镜的小车（网页搜索）；合流口下方流出一份装订好的报告册，封面画着一个声波纹；两辆小车在合流口前并排停下；小黑站在报告册上面，双手按住封面不让它合上。",
+    "elements": "左右两条路 / 心形小车与放大镜小车 / 合流口 / 报告册与声波纹 / 小黑按封面",
+    "labels": "社媒 / 网页 / 出报告",
+    "color": "Black for main line art and 小黑. Orange for the two roads. Red only for the heart mark. Blue only for the sound wave rings."
+  },
+  {
+    "slug": "video-clone-lite",
+    "theme": "分析参考视频结构并复刻同款",
+    "structure": "前后对比",
+    "idea": "拆开一个视频，把里面的商品换成自己的",
+    "composition": "画面左侧一条手绘胶片，胶片上分了三格，每格里画着不同的镜头（远景、旋转、慢动作）；胶片正被一把小剪刀剪开；被剪下的镜头碎片中间夹着一个空心的商品占位框；右边几块碎片正在被重新拼进一个新胶片，新胶片上的空心框被换成了一个实心商品；小黑蹲在胶片旁，一手拿剪刀一手把碎片递过去。",
+    "elements": "左侧三格参考胶片 / 小剪刀 / 空心占位框 / 右侧新胶片 / 小黑递碎片",
+    "labels": "拆结构 / 换商品 / 同款视频",
+    "color": "Black for main line art and 小黑. Orange for the film strips. Red only for the scissors. Blue only for the placeholder frame."
+  },
+  {
+    "slug": "wecomcli-crm",
+    "theme": "企业微信消息驱动的 AI CRM",
+    "structure": "系统局部",
+    "idea": "一条工作消息被自动拆成客户、日程和待办",
+    "composition": "画面左侧一个画着聊天气泡的方框（企业微信）；一条消息气泡从方框里飘出来，被中央一个分拣漏斗切成三股；三股分别流向三个小抽屉（客户档案、日程表、待办条）；三个抽屉上方各盖了一个小图章；小黑站在漏斗后面，双手接住三股分流，神情淡定。",
+    "elements": "左侧聊天方框 / 分拣漏斗 / 三股分流 / 三个抽屉 / 小图章 / 小黑接流",
+    "labels": "消息进 / 客户日程待办 / 自动建档",
+    "color": "Black for main line art and 小黑. Orange for the sorting funnel. Red only for one stamp mark. Blue only for the chat bubble."
+  },
+  {
+    "slug": "wordpress-kefu-ai-agent",
+    "theme": "两个文件就能部署的自适应智能客服",
+    "structure": "前后对比",
+    "idea": "一个巨大的问号被两个薄薄的文件挡回去",
+    "composition": "画面中央一个巨大的问号方块；问号前站着两道薄薄的竖板，像两片门板；门板上方压着两个很小的文件卡片，卡片上只画着两行短横线；门板右侧小黑侧身站着，一手推门一手从门缝里递出一个写着答案的小盒子；地面只有很浅的两道足迹。",
+    "elements": "巨大问号方块 / 两片薄门板 / 两个小文件卡 / 小黑推门递答案盒",
+    "labels": "两个文件 / 自己掌控 / 不依赖第三方",
+    "color": "Black for main line art and 小黑. Orange for the answer box. Red only for the question mark. Blue only for one file card."
+  }
+]

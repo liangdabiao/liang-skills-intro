@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 恒生科技成分股多智能体尽调全景报告
+Structure type: 前后对比
+Core idea: 一长串股票代码被梳成一张涨跌全景图
+Composition: 画面左侧是一列很长的手写股票代码纸条，从上到下几乎写满半幅画；纸条的末端被卷成一个筒，纸筒立起来变成一张巨大的白纸；白纸上画着高低起伏的山形图和一条水平分界线；小黑站在分界线下方仰头，指着一条向下的红线。
+Suggested elements: 左侧长代码纸条 / 卷成筒 / 巨大山形全景图 / 水平分界线 / 小黑指红线
+Chinese handwritten labels: 成分股 / 多空两边 / 2026全景
+Color use: Black for main line art and 小黑. Orange for the panorama curve. Red only for the bearish line below the divider. Blue only for the code column.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

@@ -1,0 +1,192 @@
+[
+  {
+    "slug": "ai-data-hub",
+    "theme": "AI 项目的一体化数据底座",
+    "structure": "系统局部",
+    "idea": "零散数据从四个入口汇入一个中枢",
+    "composition": "画面左侧散落着数据库圆柱、文档堆、蓝色点阵和云朵形状四组小图标；它们各自拖出一条细线，汇入画面中央一个画着四格开关面板的方盒子；小黑站在盒子顶上，双手用力按住一个红色总闸。",
+    "elements": "左侧四组数据源 / 中枢方盒子 / 小黑按总闸 / 汇入的细线",
+    "labels": "摄取 / 加工 / 探索 / 检索",
+    "color": "Black for main line art and 小黑. Orange for the converging data lines. Red only for the master switch. Blue only for the vector dot matrix."
+  },
+  {
+    "slug": "ai-generated-english-podcast-videos",
+    "theme": "自动生成双人英语对话播客视频",
+    "structure": "前后对比",
+    "idea": "一段文字进去，两个说话的人和一个单词卡片出来",
+    "composition": "画面左侧一张纸上写满横线一样的英文草稿；中间一台矮胖的小机器正在运转，机器顶部伸出两根天线；右侧两个简笔小圆脑袋相对而立，中间飘着一个画着苹果的卡片，机器输出一条长长的音带。",
+    "elements": "左侧英文草稿 / 双天线小机器 / 两个相对小人 / 苹果单词卡 / 输出的音带",
+    "labels": "写稿 / 合成 / 双人对谈",
+    "color": "Black for main line art and 小黑. Orange for the output audio tape. Red only for the speaking mouth mark. Blue only for the apple card."
+  },
+  {
+    "slug": "ai-investor",
+    "theme": "三段式用户洞察分析框架",
+    "structure": "方法分层",
+    "idea": "产品丢进去，三层抽屉弹出真实用户",
+    "composition": "画面中央上方悬着一个画着小火箭的产品方块；方块下方是三层抽屉式架子，抽屉被依次拉开，每层里坐着一排不同表情的简笔小人和一个小气泡；小黑蹲在最下层抽屉前，手里拿着一把小钥匙正在开锁。",
+    "elements": "产品方块 / 三层抽屉 / 各层小人 / 气泡 / 小黑开锁",
+    "labels": "谁在用 / 为什么用 / 痛在哪",
+    "color": "Black for main line art and 小黑. Orange for the drawer structure. Red only for the key. Blue only for the speech bubbles."
+  },
+  {
+    "slug": "ai-make-face-meme",
+    "theme": "一张照片变 12 帧定格动画",
+    "structure": "方法分层",
+    "idea": "一张脸被切成十二格，逐格换表情",
+    "composition": "画面左侧是一张方形的简笔人脸照片；照片被一条竖直虚线切成两半；中间一排十二个小格子首尾相连像一条胶片，每个格子里是同一张脸但表情各不相同（眨眼、张嘴、皱眉）；小黑站在胶片末端，双手扶着最后一格正在往里按。",
+    "elements": "左侧原始照片 / 胶片十二格 / 逐格变化表情 / 小黑扶最后一格",
+    "labels": "一张图 / 十二帧 / 导GIF",
+    "color": "Black for main line art and 小黑. Orange for the film strip. Red only for the exaggerated open mouth. Blue only for the cut line."
+  },
+  {
+    "slug": "amazon-sorftime-research-mcp-skill",
+    "theme": "亚马逊 Listing 全维度穿透分析",
+    "structure": "系统局部",
+    "idea": "一个商品被几台分析仪同时拆开看",
+    "composition": "画面中央放着一个画着购物袋的小商品方块；四周环绕四台不同形状的分析仪探头（一个放大镜、一个热量计、一个喇叭、一个坐标靶）；每台探头都拖出一条细线连向商品方块；小黑站在商品后面，双手举起一块写着数据的板子。",
+    "elements": "中央商品袋 / 四台分析仪 / 环绕连线 / 小黑举数据板",
+    "labels": "文案 / 关键词 / 差评 / 流量",
+    "color": "Black for main line art and 小黑. Orange for the probe cables. Red only for the heat gauge needle. Blue only for the target rings."
+  },
+  {
+    "slug": "autogen-financial-analysis",
+    "theme": "多智能体协作的智能财务分析",
+    "structure": "前后对比",
+    "idea": "一堆行情数字被几个角色轮流过秤，最后出一张风险曲线",
+    "composition": "画面左侧散落一桌子曲线的行情小纸片；中间三个长相一样但戴着不同帽子的简笔小人排成一列，一个拿放大镜一个拿秤一个拿笔；右侧墙上挂着一张画着波浪曲线的白纸；小黑站在白纸前，用红色笔画出一条下降线。",
+    "elements": "左侧行情纸片 / 三个戴帽小人 / 放大镜秤和笔 / 右侧曲线白纸 / 小黑画线",
+    "labels": "VaR / 压力测试 / 蒙特卡洛",
+    "color": "Black for main line art and 小黑. Orange for the chart curve. Red only for the descending risk line. Blue only for the paper slips."
+  },
+  {
+    "slug": "business-idea-validator",
+    "theme": "创业想法自动验证评分",
+    "structure": "方法分层",
+    "idea": "一个想法被丢进三个筛子，滤出可行性分数",
+    "composition": "画面左上悬着一个画着灯泡的想法小方块；想法下方立着三层斜置的筛网，筛网上散落着关键词纸屑；第一层筛子漏下红色纸屑（痛点），第二层漏下橙色纸屑（市场），第三层只剩三颗黑色小珠子落进一个分数碗里；小黑站在碗边接住珠子。",
+    "elements": "灯泡想法 / 三层筛网 / 漏下的纸屑 / 分数碗 / 小黑接珠子",
+    "labels": "痛点 / 竞争 / 可行性",
+    "color": "Black for main line art and 小黑. Orange for the sieve frames. Red only for the pain-point slips. Blue only for the score bowl."
+  },
+  {
+    "slug": "claude-code-deep-research-main",
+    "theme": "从零实现 Deep Research 的完整教程",
+    "structure": "过程展开",
+    "idea": "一叠步骤卡片铺成一条路，小黑从头走到尾",
+    "composition": "画面地面是一条从左下蜿蜒到右上的虚线小路；路上等距摆着六七张编号步骤卡片；最左端立着一块写着起始的路牌；最右端是一面小旗；小黑正走在路中间第三张卡片上，一手扶着卡片，一手拿着笔在卡片上打勾。",
+    "elements": "虚线小路 / 编号步骤卡片 / 起始路牌 / 终点小旗 / 小黑打勾",
+    "labels": "第1步 / 第3步 / 到这就对了",
+    "color": "Black for main line art and 小黑. Orange for the road. Red only for the checkmarks. Blue only for the card numbers."
+  },
+  {
+    "slug": "claude-code-stock-deep-research-agent",
+    "theme": "8 阶段股票尽调、28 个智能体并行研究",
+    "structure": "方法分层",
+    "idea": "一张股票被一大群小人同时翻来覆去地查",
+    "composition": "画面中央立着一张画着上升箭头的股票柱；柱子的四周密密麻麻站着二十几个极简小剪影，每个剪影手里举着放大镜、尺子或本子，剪影之间用细线两两相连；小黑站在最前方一只大放大镜后面，镜子里正照出那根柱子。",
+    "elements": "中央股票柱 / 密集小剪影群 / 各自的放大镜 / 连线 / 小黑大镜",
+    "labels": "8阶段 / 28个Agent / 多空平衡",
+    "color": "Black for main line art and 小黑. Orange for the connecting lines. Red only for the bull bear balance scale. Blue only for the arrow."
+  },
+  {
+    "slug": "claude-data-analysis-ultra-main",
+    "theme": "对话式互联网数据分析（拉新留存促活推荐转化）",
+    "structure": "系统局部",
+    "idea": "问一句话，一台机器吐出一块对应的分析切片",
+    "composition": "画面左侧小黑举着一个画着问号的气球；气球拖出一条线连向中央一个方形机器；机器右侧的传送带正送出五块形状不同的切片（漏斗形、环形、箭头形、分叉形、上升折线形）；切片上方各飘一个小标签。",
+    "elements": "小黑举问号 / 中央机器 / 传送带 / 五块不同形状切片 / 小标签",
+    "labels": "拉新 / 留存 / 促活 / 转化",
+    "color": "Black for main line art and 小黑. Orange for the conveyor belt. Red only for the funnel drop-off. Blue only for the ascending line slice."
+  },
+  {
+    "slug": "claudesdk-amazon-chat",
+    "theme": "对话式亚马逊竞品情报分析",
+    "structure": "概念隐喻",
+    "idea": "一句问话变成一份带图表的情报册",
+    "composition": "画面中央小黑坐在一张小桌子后面，桌上摆着一台打字机和一叠纸；打字机吐出的纸带向上卷成一个筒；纸筒被一个巨大的放大镜照着，镜子里浮出几根柱状图和一条折线；小黑手上还举着一支笔准备补写。",
+    "elements": "小黑与打字机 / 吐出的纸带 / 巨大放大镜 / 镜中图表 / 手里的笔",
+    "labels": "问一句 / 出情报 / 带图表",
+    "color": "Black for main line art and 小黑. Orange for the paper tape. Red only for the bar chart highest bar. Blue only for the line chart."
+  },
+  {
+    "slug": "claudesdk-amazon-skills-chat",
+    "theme": "54 个亚马逊技能一站集成",
+    "structure": "系统局部",
+    "idea": "五十四个小抽屉被一个旋钮统一调度",
+    "composition": "画面中央立着一面高大的抽屉墙，抽屉排列成不规则的蜂窝格，每个抽屉上贴着一个小图标；墙的右侧伸出一根巨大的橙色摇柄；小黑站在摇柄上双手用力转动；抽屉墙上方飘出几张被抽出的卡片，卡片上画着小火箭和小标签。",
+    "elements": "蜂窝抽屉墙 / 巨大摇柄 / 小黑转柄 / 抽出的卡片",
+    "labels": "54技能 / 一句指令 / 全链路",
+    "color": "Black for main line art and 小黑. Orange for the crank handle. Red only for the rocket icon. Blue only for one highlighted drawer."
+  },
+  {
+    "slug": "claudesdk-ecom-image-chat",
+    "theme": "一句话生成电商图",
+    "structure": "前后对比",
+    "idea": "一句中文描述进去，一张成品图出来",
+    "composition": "画面左侧小黑举着一张对折的纸条，纸条上只有几道短横线；纸条被塞进一个画着相机的方盒里；方盒右侧的出口正吐出一张竖版图卡，图卡里是一个简笔商品瓶；图卡下面已经排好三张不同尺寸的小图卡；小黑在出口处伸手接着。",
+    "elements": "左侧对折纸条 / 相机方盒 / 竖版成品图卡 / 三种尺寸小图 / 小黑接图",
+    "labels": "一句话 / 25模板 / 出图",
+    "color": "Black for main line art and 小黑. Orange for the camera box. Red only for the hero image card border. Blue only for the size labels."
+  },
+  {
+    "slug": "claudesdk-exa-chat",
+    "theme": "对话式企业调研与外贸分析",
+    "structure": "前后对比",
+    "idea": "一堆网页碎片被筛子筛成一份外贸报告",
+    "composition": "画面上方飘落七八张皱巴巴的小网页卡片；卡片落进一个巨大的漏斗里；漏斗下方只漏出三张干净整齐的卡片，卡片上画着地球、经线和集装箱；漏斗旁边小黑举着一块放大镜，正在检查漏出的卡片边缘。",
+    "elements": "飘落网页碎片 / 巨大漏斗 / 漏出三张整齐卡片 / 地球经线 / 小黑举镜",
+    "labels": "企业调研 / 外贸 / 竞品",
+    "color": "Black for main line art and 小黑. Orange for the funnel body. Red only for the ship container mark. Blue only for the globe meridians."
+  },
+  {
+    "slug": "claudesdk-financial-chart-chat",
+    "theme": "说句话就自动查 A 股数据画图表",
+    "structure": "系统局部",
+    "idea": "一句话变成六种不同的财务图表",
+    "composition": "画面左下小黑指着一个画有引号的小对话框；一条线从对话框连向中央一个画着柱子和折线的方箱；方箱上方扇形展开六张小图卡，分别画着柱状、折线、双柱对比、毛利率台阶、饼图和横条；小黑正把第六张小图卡插进扇形里。",
+    "elements": "左下对话框 / 中央图表方箱 / 扇形展开六张小图 / 小黑插卡",
+    "labels": "营收利润 / 毛利率 / 趋势 / 对比",
+    "color": "Black for main line art and 小黑. Orange for the connecting cable. Red only for one descending segment. Blue only for the pie chart slice."
+  },
+  {
+    "slug": "claudesdk-market-insight-chat",
+    "theme": "三段式市场洞察对话框架",
+    "structure": "方法分层",
+    "idea": "一个产品被放进三面哈哈镜，每面照出不同人群",
+    "composition": "画面中央放着一个画着小火箭的产品方块；产品周围立着三面高低不一的长方形镜子，每面镜子里照出不同的人群剪影（戴眼镜的、抱孩子的、举手机的）；三面镜子的镜腿连成一条线接到一个底座上；小黑站在底座旁，双手分别扶着两面镜子调整角度。",
+    "elements": "中央产品 / 三面镜子 / 镜中不同人群 / 镜腿底座 / 小黑调角度",
+    "labels": "画像 / 动因 / 机会",
+    "color": "Black for main line art and 小黑. Orange for the mirror frames. Red only for the raised-hand crowd silhouette. Blue only for the base plate."
+  },
+  {
+    "slug": "claudesdk-seedance-chat",
+    "theme": "对话生成 Seedance 2.0 视频分镜",
+    "structure": "前后对比",
+    "idea": "一句故事变成一排可以照着画的镜头格",
+    "composition": "画面左侧一卷展开的故事胶片，胶片上是乱线一样的文字；胶片向右穿过一台贴着标签的小机器；机器右侧吐出一排分镜格子卡片，每格里画着简笔小人和一个小箭头；胶片的最末端小黑双手接住最后一张分镜卡，卡上画着一个结尾符号。",
+    "elements": "左侧故事胶片 / 中间带标签小机器 / 排出的分镜格 / 小黑接最后一张",
+    "labels": "故事进 / 分镜出 / 六场",
+    "color": "Black for main line art and 小黑. Orange for the film roll. Red only for the final ending mark. Blue only for the machine label."
+  },
+  {
+    "slug": "claudesdk-skill",
+    "theme": "AI 自己读 SDK 文档然后搭出应用",
+    "structure": "过程展开",
+    "idea": "一叠文档被读进去，一台小应用被搭出来",
+    "composition": "画面左侧一摞厚厚的手绘说明书，书页上密布短线；说明书上方悬着一个画着眼睛的小台灯正在照读；右侧一台积木式的小应用正被一块块搭起来，顶部已经立起一面画着聊天气泡的小旗；小黑站在积木旁，一手托砖一手比划尺寸。",
+    "elements": "左侧说明书堆 / 悬着的台灯 / 右侧积木小应用 / 聊天小旗 / 小黑托砖",
+    "labels": "读文档 / 自己搭 / 能跑",
+    "color": "Black for main line art and 小黑. Orange for the brick structure. Red only for the chat bubble. Blue only for the lamp light cone."
+  },
+  {
+    "slug": "crewai-stock-analysis-system",
+    "theme": "多维度股票批量分析与实时监控预警",
+    "structure": "前后对比",
+    "idea": "一排股票被扫描仪扫过，异常的那只被红圈圈出来",
+    "composition": "画面中下方并排立着五根高矮不一的蜡烛柱；一根长长的扫描横梁从上方缓缓扫过蜡烛柱群；横梁由一根立柱支撑，立柱旁小黑双手握着控制杆；最右边一根蜡烛柱被画上一个大红圈，圈旁飘着一个小铃铛。",
+    "elements": "五根蜡烛柱 / 扫描横梁 / 立柱与控制杆 / 小黑握杆 / 红圈与铃铛",
+    "labels": "批量扫 / 实时监控 / 智能预警",
+    "color": "Black for main line art and 小黑. Orange for the scan beam. Red only for the alert circle and bell. Blue only for one candle wick."
+  }
+]

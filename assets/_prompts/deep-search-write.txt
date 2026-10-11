@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 写作 Agent + 知识库 Agent 双角色协作
+Structure type: 前后对比
+Core idea: 左边找资料，右边写字，中间一台复印机来回传纸
+Composition: 画面左侧小黑趴在一堆资料堆上翻找，手里举着放大镜；画面右侧另一个小黑坐在桌前写作，桌上摊着一张写满横线的稿纸；两小黑之间一台矮胖复印机正同时吐出两叠纸；地面散落几张被揉皱的废稿。
+Suggested elements: 左侧找资料的小黑 / 中央复印机 / 右侧写作的小黑 / 稿纸 / 地上废稿
+Chinese handwritten labels: 找资料 / 自动配图 / 出成稿
+Color use: Black for main line art and 小黑. Orange for the paper stacks. Red only for the crumpled drafts. Blue only for the magnifier lens.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

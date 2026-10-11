@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 对话生成 Seedance 2.0 视频分镜
+Structure type: 前后对比
+Core idea: 一句故事变成一排可以照着画的镜头格
+Composition: 画面左侧一卷展开的故事胶片，胶片上是乱线一样的文字；胶片向右穿过一台贴着标签的小机器；机器右侧吐出一排分镜格子卡片，每格里画着简笔小人和一个小箭头；胶片的最末端小黑双手接住最后一张分镜卡，卡上画着一个结尾符号。
+Suggested elements: 左侧故事胶片 / 中间带标签小机器 / 排出的分镜格 / 小黑接最后一张
+Chinese handwritten labels: 故事进 / 分镜出 / 六场
+Color use: Black for main line art and 小黑. Orange for the film roll. Red only for the final ending mark. Blue only for the machine label.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.

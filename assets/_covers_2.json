@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "deep-search-write",
+    "theme": "写作 Agent + 知识库 Agent 双角色协作",
+    "structure": "前后对比",
+    "idea": "左边找资料，右边写字，中间一台复印机来回传纸",
+    "composition": "画面左侧小黑趴在一堆资料堆上翻找，手里举着放大镜；画面右侧另一个小黑坐在桌前写作，桌上摊着一张写满横线的稿纸；两小黑之间一台矮胖复印机正同时吐出两叠纸；地面散落几张被揉皱的废稿。",
+    "elements": "左侧找资料的小黑 / 中央复印机 / 右侧写作的小黑 / 稿纸 / 地上废稿",
+    "labels": "找资料 / 自动配图 / 出成稿",
+    "color": "Black for main line art and 小黑. Orange for the paper stacks. Red only for the crumpled drafts. Blue only for the magnifier lens."
+  },
+  {
+    "slug": "dingtalk-cli-workflow",
+    "theme": "10 个钉钉工作流 Skill 的命令行操作",
+    "structure": "系统局部",
+    "idea": "一句命令从终端射出，钉钉里的十个模块被依次点亮",
+    "composition": "画面左下方一个画着尖括号符号的终端小窗口，窗口里冒出一串短横线；一条粗线从终端射出，向上分成十股细线；每股细线末端连着一个小方块图标（铃铛、日历、对勾、文件夹等）；小黑站在终端后面，双手叉腰看着这一片分支。",
+    "elements": "左下终端窗口 / 十股分叉细线 / 末端小方块图标 / 小黑叉腰",
+    "labels": "一句话 / 十模块 / 效率基建",
+    "color": "Black for main line art and 小黑. Orange for the branching cables. Red only for the notification bell. Blue only for the calendar icon."
+  },
+  {
+    "slug": "do-deepagents-skill",
+    "theme": "DeepAgents 深度智能体框架",
+    "structure": "系统局部",
+    "idea": "一个大身体里装着会规划会记事的小零件",
+    "composition": "画面中央小黑被画成一个巨大的透明方框容器，容器内部装着几个不同形状的零件：一个画着地图的小卷轴、一个带锁的小本子、一个画着锤子的扳手；容器顶部插着一面小旗写着规划；小黑本人站在容器外面抬头看自己的内脏，手里拿着一把小放大镜。",
+    "elements": "巨大透明容器 / 内部卷轴本子扳手零件 / 顶部小旗 / 小黑看内部",
+    "labels": "多步推理 / 记忆 / 规划",
+    "color": "Black for main line art and 小黑. Orange for the scroll map. Red only for the wrench. Blue only for the locked notebook."
+  },
+  {
+    "slug": "dsh-plugin-developer-skill",
+    "theme": "dsh 插件开发全流程指导",
+    "structure": "过程展开",
+    "idea": "一个插件从写代码到装上机器的四格流水线",
+    "composition": "画面地面横着铺四个工位格子，格子里依次画着：一个写着代码的小本子、一个齿轮、一个闪电、一个插头；四个格子被一条橙色传送带串起来；最右端格子已经亮起并插进了墙上的插座；小黑蹲在第二个格子上，手里的扳手正在拧齿轮。",
+    "elements": "四格流水线 / 代码本齿轮闪电插头 / 传送带 / 墙上插座 / 小黑拧齿轮",
+    "labels": "开发 / 构建 / 安装 / 测试",
+    "color": "Black for main line art and 小黑. Orange for the conveyor. Red only for the lightning bolt. Blue only for the final plugged-in cell."
+  },
+  {
+    "slug": "easy-amazon-voc",
+    "theme": "亚马逊评论 CSV 的用户之声分析",
+    "structure": "前后对比",
+    "idea": "一箱评论倒进漏斗，出来的是一个人群画像",
+    "composition": "画面左侧一个打开的纸箱里溢出大量画着对话框的评论卡片；卡片被倒进中央一个巨大的听诊器形状的漏斗里；漏斗下方站着三个简笔小人群剪影，小黑拿着笔在本子上记录；旁边飘着几个关键词纸条。",
+    "elements": "左侧评论纸箱 / 听诊器漏斗 / 下方人群剪影 / 小黑记录 / 关键词纸条",
+    "labels": "评论进 / 用户画像出 / 新CSV",
+    "color": "Black for main line art and 小黑. Orange for the funnel. Red only for the record mark on the notebook. Blue only for the keyword slips."
+  },
+  {
+    "slug": "easy-investment-agent-crewai",
+    "theme": "A股四个 AI 角色协同投资分析",
+    "structure": "系统局部",
+    "idea": "四个戴不同帽子的角色围着一张 K 线图",
+    "composition": "画面中央铺着一张画满蜡烛柱的桌面；桌面四周站着四个长相一样但帽子不同的简笔人（一个戴厨师帽看行情盘、一个戴眼镜翻财报、一个拿听诊器探资金流、一个举望远镜看情绪）；桌子中间小黑趴着，正把四根线拧成一股绳。",
+    "elements": "中央K线桌面 / 四个戴帽角色 / 各自工具 / 小黑拧线",
+    "labels": "行情 / 财务 / 资金 / 情绪",
+    "color": "Black for main line art and 小黑. Orange for the merging rope. Red only for one falling candle. Blue only for the telescope lens."
+  },
+  {
+    "slug": "ecom-details-image-plugin",
+    "theme": "dsh 插件内一键生成全套电商图",
+    "structure": "前后对比",
+    "idea": "一张产品照被复印成主图详情页社媒直播四件套",
+    "composition": "画面左侧小黑双手举起一张小产品照片；中央一台画着魔法阵的复印机正在嗡嗡运转；右侧扇形展开四张成品大图卡（白底主图、长图详情、方形社媒、竖版直播），像扑克牌一样排开；最右一张卡上画着一个合规对勾。",
+    "elements": "左侧产品照 / 魔法复印机 / 扇形四张成品图 / 合规对勾",
+    "labels": "主图 / 详情页 / 社媒 / 直播",
+    "color": "Black for main line art and 小黑. Orange for the machine magic circle. Red only for the compliance checkmark. Blue only for the size tags."
+  },
+  {
+    "slug": "ecom-details-image-ui",
+    "theme": "中文一句话生成电商图的网页应用",
+    "structure": "前后对比",
+    "idea": "输入框里打中文，右边实时出图",
+    "composition": "画面被一个大大的浏览器窗口框占满；窗口左侧是一个圆角输入框，里面有几道短横线代表中文，旁边有一个橙色按钮；按钮右侧的空白画布上正渐渐显影出一张竖版商品图卡；图卡下方小标签写着几个小字；小黑坐在窗口边沿，一手托腮一手在输入框上方指点。",
+    "elements": "浏览器窗口 / 左侧输入框与按钮 / 右侧显影中的图卡 / 小标签 / 小黑指点",
+    "labels": "上传参考图 / 换场景 / 一句话出图",
+    "color": "Black for main line art and 小黑. Orange for the button. Red only for the generated hero image highlight. Blue only for the canvas border."
+  },
+  {
+    "slug": "fashion-ai",
+    "theme": "AI 模特替代真人拍摄服装",
+    "structure": "前后对比",
+    "idea": "一件平铺的衣服自己站起来变成穿着的模特",
+    "composition": "画面左侧一件平铺的 T 恤躺在桌上；中间一条橙色上升箭头；右侧 T 恤已经立起来穿在一个极简简笔模特身上，模特摆着姿势；模特旁边立着一块穿衣镜；小黑站在镜子后面，双手扶着镜子边缘往外推。",
+    "elements": "左侧平铺衣服 / 橙色上升箭头 / 右侧穿衣模特 / 穿衣镜 / 小黑推镜",
+    "labels": "平铺图进 / 模特图出 / 免拍摄",
+    "color": "Black for main line art and 小黑. Orange for the rising arrow. Red only for the garment trim. Blue only for the mirror reflection line."
+  },
+  {
+    "slug": "fetch-everything",
+    "theme": "网页抓取与文档提取，强化中文平台支持",
+    "structure": "过程展开",
+    "idea": "一只机械手从六个网站里抓回六卷纸带",
+    "composition": "画面上方悬着六个大小不同的网站窗口简笔画；一只画着关节的机械手从中间伸出来，手爪同时抓着三卷纸带；纸带向下落到一个桌面上的整理槽里，槽里已经堆好了带小标签的卷轴；小黑站在桌边抱着一卷新的纸带。",
+    "elements": "上方六个网站窗口 / 机械手抓取 / 三卷纸带 / 整理槽 / 小黑抱纸带",
+    "labels": "抓网页 / 提文档 / 中文站",
+    "color": "Black for main line art and 小黑. Orange for the paper tape. Red only for the robot claw tip. Blue only for the site window titles."
+  },
+  {
+    "slug": "geogebra-webchat",
+    "theme": "自然语言对话生成 GeoGebra 图形",
+    "structure": "过程展开",
+    "idea": "一句描述被翻译成一条条绘图指令，画布上长出图形",
+    "composition": "画面左侧小黑举着一个画有引号的小对话框；一条线把对话框连向中央一个方形的画布框；画布上正画着一个三角形和一条圆弧，几何辅助线用虚线延伸；画布下方一行指令正在被逐条执行，每执行一条就画出一小段；小黑站在画布角落拿着笔指着那个三角形。",
+    "elements": "左侧对话框 / 中央画布框 / 三角形与圆弧 / 下方逐条指令 / 小黑指图形",
+    "labels": "一句话 / 自动作图 / 即开即用",
+    "color": "Black for main line art and 小黑. Orange for the connecting cable. Red only for one auxiliary construction line. Blue only for the coordinate axes."
+  },
+  {
+    "slug": "godogen",
+    "theme": "一句话生成完整 Godot 4 游戏项目",
+    "structure": "前后对比",
+    "idea": "一个想法长成一整个游戏加一张自检截图",
+    "composition": "画面左侧小黑双手举着一张画着星星的小卡片；卡片被塞进一台画着齿轮的方盒里；方盒右侧吐出一个巨大的积木房子，房子里立着几个小房间，门口站着极简火柴人；房子上方悬着一张画了游戏画面的相片框，相片一角有一个小放大镜正在自检；小黑在相片框下面仰头看。",
+    "elements": "左侧星星卡片 / 齿轮方盒 / 积木房子与小房间 / 相片框自检 / 小黑仰头",
+    "labels": "一句话 / 出整个项目 / 截图自检",
+    "color": "Black for main line art and 小黑. Orange for the gear machine. Red only for the stars. Blue only for the camera frame border."
+  },
+  {
+    "slug": "hstech-2026-ai-summary",
+    "theme": "恒生科技成分股多智能体尽调全景报告",
+    "structure": "前后对比",
+    "idea": "一长串股票代码被梳成一张涨跌全景图",
+    "composition": "画面左侧是一列很长的手写股票代码纸条，从上到下几乎写满半幅画；纸条的末端被卷成一个筒，纸筒立起来变成一张巨大的白纸；白纸上画着高低起伏的山形图和一条水平分界线；小黑站在分界线下方仰头，指着一条向下的红线。",
+    "elements": "左侧长代码纸条 / 卷成筒 / 巨大山形全景图 / 水平分界线 / 小黑指红线",
+    "labels": "成分股 / 多空两边 / 2026全景",
+    "color": "Black for main line art and 小黑. Orange for the panorama curve. Red only for the bearish line below the divider. Blue only for the code column."
+  },
+  {
+    "slug": "hyperframes-fix",
+    "theme": "文章一键转横竖版中文配音短视频",
+    "structure": "前后对比",
+    "idea": "一篇长文章被剪成会说话的短视频",
+    "composition": "画面左侧一篇很长的手写文章卷轴；中间一台矮胖机器正在把卷轴裁成小段；右侧两台不同朝向的屏幕（横屏和竖屏）并排立着，正在播放同一段内容；机器上方挂着一个画有嘴唇的喇叭；小黑站在机器旁，一手按住文章卷轴一手比了个暂停手势。",
+    "elements": "左侧长文章卷轴 / 裁切机器 / 横竖两块屏 / 喇叭 / 小黑按卷轴",
+    "labels": "一键转视频 / 中文配音 / 横竖双版",
+    "color": "Black for main line art and 小黑. Orange for the cutting machine. Red only for the record dot on the speaker. Blue only for the portrait screen."
+  },
+  {
+    "slug": "investment-agent-langgraph-crewai",
+    "theme": "LangGraph 与 CrewAI 多智能体投资决策",
+    "structure": "方法分层",
+    "idea": "一条流程图上站着分工明确的角色",
+    "composition": "画面中央是一个画着方框与箭头的流程图骨架；骨架上有三个站位，第一个站位画着一张地图（搜集），第二个站位画着天平（分析），第三个站位画着印章（决策）；三个站位被一条橙色线串起；小黑站在终点站位，正把一张结论卡按进一个红色的印章里。",
+    "elements": "流程图骨架 / 三个分工站位 / 橙色串联线 / 小黑盖结论印章",
+    "labels": "搜集 / 分析 / 决策",
+    "color": "Black for main line art and 小黑. Orange for the flow line. Red only for the decision stamp. Blue only for the map pin."
+  }
+]

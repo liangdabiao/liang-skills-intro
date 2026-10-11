@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "langgraph-multi-agent-rag-customer-support",
+    "theme": "多智能体 + RAG 的对话式预订客服",
+    "structure": "系统局部",
+    "idea": "一个问题被分给三个角色，再从知识库里捞答案",
+    "composition": "画面左侧一个简笔旅客举着问号；问题被一条线分到中央三个长相一样但戴不同帽子的简笔人（一个翻手册、一个查电脑、一个打字）；这三个角色身后连着一个画着书架的知识库方块；答案从右侧输出一张写着行程单的卡片；小黑站在旅客旁边，替他把行李搬上卡车的台阶。",
+    "elements": "左侧旅客举问号 / 三个戴帽角色 / 身后书架知识库 / 输出行程单 / 小黑搬行李",
+    "labels": "机票 / 酒店 / 租车",
+    "color": "Black for main line art and 小黑. Orange for the routing cable. Red only for the answer card. Blue only for the knowledge shelf books."
+  },
+  {
+    "slug": "langgraph-runtime-skill-agent",
+    "theme": "本地 Skill 自动包装成 HTTP/SSE 接口",
+    "structure": "前后对比",
+    "idea": "一个本地脚本被套上接口外壳推上网络",
+    "composition": "画面左侧一个打开的小抽屉，里面躺着一卷写着代码的脚本纸带；纸带被塞进一个画着插口的方盒里；方盒顶部插着一根天线，正在发出两道弧形信号波；信号波右侧连着一台电脑，电脑屏幕上跳动着一行行字符；小黑站在方盒后面，双手扶着天线让它插得更稳。",
+    "elements": "左侧脚本抽屉 / 套上插口的方盒 / 天线与信号波 / 右侧电脑 / 小黑扶天线",
+    "labels": "本地Skill / 变接口 / 流式返回",
+    "color": "Black for main line art and 小黑. Orange for the signal waves. Red only for the plug pins. Blue only for the code roll."
+  },
+  {
+    "slug": "lark-crm-feishu-cli",
+    "theme": "多维表格变对话式 CRM",
+    "structure": "前后对比",
+    "idea": "一堆表格格子变成能说话的客户档案",
+    "composition": "画面左侧是一张画满方格的多维表格简笔画，格子里塞着小人头像；右侧同一个人物被画成一个立体档案夹，夹子上挂着一个小铃铛；两者之间一个橙色箭头指过去；小黑站在档案夹前，一手拿着笔在夹子上写字，另一手挠了挠头。",
+    "elements": "左侧多维表格 / 右侧立体档案夹 / 橙色转换箭头 / 小黑写字挠头",
+    "labels": "说一句 / 自动增删改查",
+    "color": "Black for main line art and 小黑. Orange for the conversion arrow. Red only for the bell. Blue only for the table grid."
+  },
+  {
+    "slug": "lark-workflow-feishu-cli",
+    "theme": "20 个飞书工作流 Skill 的一站式基建",
+    "structure": "系统局部",
+    "idea": "一个控制台连着二十个飞书模块",
+    "composition": "画面中央下方一个矮胖的控制台，上面画着一个屏幕和几个按钮；控制台两侧伸出二十条长短不一的细线，每条线末端连着一个小图标（文档、表格、消息、日历、审批等）；图标有高有低排成弧形；小黑站在控制台后面，正用一个巨大的总摇柄同时扳动所有连线。",
+    "elements": "中央控制台 / 二十条细线 / 弧形排列的小图标 / 小黑扳总摇柄",
+    "labels": "20个Skill / 一句话 / 全模块",
+    "color": "Black for main line art and 小黑. Orange for the cable bundle. Red only for one message icon. Blue only for the console screen."
+  },
+  {
+    "slug": "lego-cinematic-remix",
+    "theme": "一句话生成乐高风积木动画",
+    "structure": "过程展开",
+    "idea": "一句话变成积木场景、积木人和镜头",
+    "composition": "画面左侧小黑举着一个画有引号的小牌子；牌子旁一堆散落的积木块正被一只看不见的手吸起；积木块在画面中央空中自动拼成一个房子场景和一个圆头积木人；场景上方悬浮一个巨大的镜头框正在取景；小黑在积木人旁边扶着它摆姿势。",
+    "elements": "左侧引号牌 / 空中飞行的积木块 / 拼成的房子场景 / 圆头积木人 / 悬浮镜头",
+    "labels": "积木场景 / 角色 / 镜头",
+    "color": "Black for main line art and 小黑. Orange for the flying bricks. Red only for one small brick stud. Blue only for the camera frame."
+  },
+  {
+    "slug": "liangdabiao-github-io",
+    "theme": "多门 Agent 框架系统课程",
+    "structure": "系统局部",
+    "idea": "一排课程台阶通向顶上的实战勋章",
+    "composition": "画面是一条向右上升的楼梯，台阶上依次画着不同的简笔符号（一个小方块、一只蜗牛、一张网、一个齿轮）；楼梯顶端立着一枚大勋章；每级台阶前立一块小黑石板，石板上写着一道短横线；小黑站在楼梯中段，一手扶栏杆一手回头看下面。",
+    "elements": "上升楼梯 / 不同课程符号 / 顶端勋章 / 各级小黑石板 / 小黑回头",
+    "labels": "从概念 / 到实战 / 免费阅读",
+    "color": "Black for main line art and 小黑. Orange for the staircase. Red only for the medal ribbon. Blue only for the card symbols."
+  },
+  {
+    "slug": "llm-agent-resume",
+    "theme": "简历向量化检索与岗位匹配评分",
+    "structure": "过程展开",
+    "idea": "一叠简历倒进机器，按岗位说明书排出名次",
+    "composition": "画面左侧一叠厚厚的简历纸倒进一个装满蓝色小点的小漏斗；漏斗下方吐出一张张排队的简历卡片，每张卡上方浮着一个不同高低的评分柱；漏斗右侧立着一张画着岗位要求的纸；小黑站在队伍最前面，一手举着第一名卡片回头看。",
+    "elements": "左侧简历纸堆 / 蓝色点阵漏斗 / 排队的简历卡 / 评分柱 / 右侧岗位纸",
+    "labels": "解析 / 检索 / 排序",
+    "color": "Black for main line art and 小黑. Orange for the funnel edge. Red only for the top-ranked score bar. Blue only for the embedding dots."
+  },
+  {
+    "slug": "llm-wiki-claude-agent-sdk-agentic-rag",
+    "theme": "资料库自动变成能问答的结构化百科",
+    "structure": "前后对比",
+    "idea": "一堆散乱资料长成互相链接的百科，再被问出一个答案",
+    "composition": "画面左侧一堆高低不一的资料册杂乱堆叠；中间的机器把册子吐成一排相互连着细线的节点圆圈，像一张网；右侧一个巨大的问号悬在网的上方，问号旁边浮出一张发光的答案卡；小黑站在网下，一手托腮一手接住答案卡。",
+    "elements": "左侧杂乱资料堆 / 中间节点网络 / 巨大问号 / 发光答案卡 / 小黑接答案",
+    "labels": "摄入 / 结构化 / 精准取答",
+    "color": "Black for main line art and 小黑. Orange for the node network links. Red only for the glowing answer card. Blue only for the question mark."
+  },
+  {
+    "slug": "llm-wiki",
+    "theme": "多来源素材自动构建 wiki 知识库网站",
+    "structure": "系统局部",
+    "idea": "五条来源管道灌进一台机器，吐出一座知识小楼",
+    "composition": "画面左侧五根粗细不同的管道从画面外伸进来，管口分别标着不同的小图标；五根管道汇入中央一台带漏斗口的机器；机器右侧正在一砖一砖盖起一座三层小楼，楼层之间有楼梯相连；楼顶立着一面写着 wiki 的小旗；小黑站在砖堆旁往楼上递砖。",
+    "elements": "五根来源管道 / 中央机器 / 正在盖起的三层小楼 / 楼顶小旗 / 小黑递砖",
+    "labels": "多来源 / 自动成站 / 可发布",
+    "color": "Black for main line art and 小黑. Orange for the pipes. Red only for the wiki flag. Blue only for one brick."
+  },
+  {
+    "slug": "monica-crm-claude-skill",
+    "theme": "对话里直接管理客户记录",
+    "structure": "前后对比",
+    "idea": "聊着天就把客户档案填好了",
+    "composition": "画面左侧一个对话框，气泡里飘出几道短横线；对话气泡下方伸出一只很长的手，把信息一条条塞进右侧一个立着的档案柜；档案柜的抽屉半开着，里面是几份卷角的小档案；小黑坐在对话框后面，笔搁在耳边，一脸无所谓。",
+    "elements": "左侧对话框 / 伸出的长手 / 右侧档案柜与抽屉 / 小档案 / 小黑听写",
+    "labels": "聊着 / 自动建档 / 不用记命令",
+    "color": "Black for main line art and 小黑. Orange for the reaching arm. Red only for one file tab. Blue only for the chat bubble."
+  },
+  {
+    "slug": "multimodal-rag",
+    "theme": "PDF 页面直接视觉编码的多模态 RAG",
+    "structure": "前后对比",
+    "idea": "整页 PDF 不拆字，直接被拍平成一排向量",
+    "composition": "画面左侧一页画着表格、曲线图和一段手写批注的纸；纸被一束光照过，光束把纸整片压扁成一条长长的橙色带子；带子上密密麻麻刻着短竖线（向量）；带子流向右侧一个装着蓝色点阵的大罐子；小黑站在光束旁，双手扶着纸不让它被风吹跑。",
+    "elements": "左侧含表格批注的纸 / 光束 / 橙色向量带 / 短竖线 / 右侧点阵罐",
+    "labels": "不拆字 / 视觉编码 / 保排版",
+    "color": "Black for main line art and 小黑. Orange for the vector tape. Red only for the handwritten annotation. Blue only for the dot tank."
+  },
+  {
+    "slug": "perler-beads-ai",
+    "theme": "图片一键转拼豆图纸",
+    "structure": "过程展开",
+    "idea": "一张照片被拆成一格格小圆豆",
+    "composition": "画面左侧一张彩色的简笔照片；照片被一台机器打散成一片飘浮的小圆豆阵；小圆豆下方是一张印着方格的图纸，豆子正一颗颗落进格子里；图纸右边已经拼好一只小小的简笔动物轮廓；小黑跪在图纸边，一手用镊子夹豆一手扶着图纸。",
+    "elements": "左侧照片 / 圆豆阵 / 方格图纸 / 镊子 / 小黑摆豆",
+    "labels": "一键转图纸 / 主体更清晰",
+    "color": "Black for main line art and 小黑. Orange for the bead rain. Red only for one bead in the finished shape. Blue only for the grid paper lines."
+  },
+  {
+    "slug": "perler-beads-applet",
+    "theme": "手机端拼豆像素画编辑与作品管理",
+    "structure": "系统局部",
+    "idea": "手机屏幕里摆豆子，作品被存进一个书架",
+    "composition": "画面中央一个竖着的手绘手机轮廓，屏幕里是一片方格画布，画布上摆了几颗豆子和一个成形的小图案；手机右侧伸出几条细线连着三个小方块（一个相机、一个垃圾桶、一个书架）；书架上已经立着两三个完成的小作品相框；小黑坐在手机边上，双脚搭在手机底座上晃。",
+    "elements": "中央手机轮廓 / 方格画布与豆子 / 三个小方块 / 作品相框 / 小黑晃脚",
+    "labels": "随时创作 / 导入导出",
+    "color": "Black for main line art and 小黑. Orange for the screen grid glow. Red only for the delete icon. Blue only for the camera icon."
+  },
+  {
+    "slug": "product-motion-gif",
+    "theme": "单张产品照生成循环 GIF",
+    "structure": "前后对比",
+    "idea": "一张静止的产品图被切成几帧，转起来",
+    "composition": "画面左侧一张静止的产品照片（一个简笔杯子）；照片被一个巨大的转盘切成前后重叠的四五个稍有不同的姿态；转盘下方拖出一条循环的循环箭头，箭头首尾相接；小黑站在转盘旁边，双手扶着转盘边缘正在用力转。",
+    "elements": "左侧静止产品照 / 巨大转盘 / 前后重叠的多帧 / 循环箭头 / 小黑转盘",
+    "labels": "一张图 / 自动多帧 / 循环GIF",
+    "color": "Black for main line art and 小黑. Orange for the turntable. Red only for the motion smear arc. Blue only for one rotated frame."
+  },
+  {
+    "slug": "resume-matcher-agent-cn",
+    "theme": "模拟招聘方的简历初筛",
+    "structure": "前后对比",
+    "idea": "简历和岗位贴在一起，被一道筛子判去留",
+    "composition": "画面中央一块竖立的筛网；筛网左侧是一份简历纸，右侧是一张岗位说明纸；两纸分别被一双大手按住往筛网上压；筛网下方落下一份通过的简历（上面盖了一个对勾），另一份被弹到左边地上；小黑站在筛网后面偷看，两手背在身后。",
+    "elements": "中央筛网 / 左侧简历 / 右侧岗位纸 / 落下的通过简历 / 弹开的未通过简历",
+    "labels": "关键词匹配 / 初筛结论 / 提高过审率",
+    "color": "Black for main line art and 小黑. Orange for the sieve frame. Red only for the checkmark. Blue only for the keyword marks on the resume."
+  },
+  {
+    "slug": "seekmoney-ai",
+    "theme": "多平台采集、语义聚类去重、需求优先级评分",
+    "structure": "方法分层",
+    "idea": "六个平台的吵杂声音被滤成一个清楚的需求",
+    "composition": "画面上方六个大小不同的平台图标各挂着一张画了对话框的卡片，卡片乱晃；中间一个巨大的聚类漏斗正把这些卡片吸入，重复的卡片在漏斗里成对合并成一个；漏斗下方只落下一个亮着的高分卡片，卡片上画着一个靶心；小黑站在漏斗边，一手托着下巴看着漏斗，另一手在靶心上打了个勾。",
+    "elements": "上方六个平台图标 / 乱晃对话框 / 聚类漏斗 / 合并动作 / 下方高分靶心卡",
+    "labels": "六平台 / 去重 / 优先级评分",
+    "color": "Black for main line art and 小黑. Orange for the funnel. Red only for the bullseye center. Blue only for the platform icons."
+  }
+]

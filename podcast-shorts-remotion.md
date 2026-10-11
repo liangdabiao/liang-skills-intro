@@ -1,5 +1,7 @@
 # 有一段播客音频，想快速变成竖屏短视频？它帮你秒出字幕版 —— podcast-shorts-remotion 介绍
 
+代码仓库：https://github.com/liangdabiao/podcast-shorts-remotion
+
 你录了一期播客，或者攒了一段口播，觉得内容不错想发短视频平台，但一想到要加字幕、配章节、调颜色、渲染导出，就懒得动了。其实这活儿可以非常快。
 
 **podcast-shorts-remotion 就是来解决这件事的。**

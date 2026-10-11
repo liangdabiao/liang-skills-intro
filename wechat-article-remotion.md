@@ -1,5 +1,7 @@
 # 有一篇公众号文章想变成视频？丢个链接就行 —— wechat-article-remotion 介绍
 
+代码仓库：https://github.com/liangdabiao/wechat-article-remotion
+
 你写了一篇（或看了一篇）不错的公众号文章，想把它变成能发的视频，但不想重新写脚本、重新排版、重新找图。最好能把原文图原样用上，别被裁掉。
 
 **wechat-article-remotion 就是来解决这件事的。**

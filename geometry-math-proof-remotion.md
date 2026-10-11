@@ -1,5 +1,7 @@
 # 把数学证明做成动画视频，让公式自己"长"出来 —— geometry-math-proof-remotion 介绍
 
+代码仓库：https://github.com/liangdabiao/geometry-math-proof-remotion
+
 你想过把勾股定理、欧拉公式这类证明讲给别人听吗？光靠文字和静态图，听着听着人就走神了；真去学动画软件又门槛太高。很多人卡在"想做但做不出来"这一步。
 
 **geometry-math-proof-remotion 就是来解决这件事的。**

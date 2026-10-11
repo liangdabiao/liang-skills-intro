@@ -1,5 +1,7 @@
 # 流量掉了查不出原因？让 AI 用 Sif 数据给你做根因诊断 —— sif-amazon-research 介绍
 
+代码仓库：https://github.com/liangdabiao/sif-amazon-research
+
 流量突然掉、广告烧钱没转化——大多数人只会瞎调，因为看不懂背后的真实数据。sif-amazon-research 就是干这个的：它基于 Sif 的真实市场、流量、关键词、销量和广告数据，帮你做市场验证、竞品拆解、流量诊断、关键词策略、广告复盘和增长优化，而且每一步都要求"拿证据说话"。
 
 ![配图：Sif 流量诊断看板](assets/sif-amazon-research/01.png)

@@ -1,0 +1,11 @@
+Generate one standalone 16:9 horizontal Chinese article illustration.
+Visual DNA: Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, shadows, paper texture, complex background, commercial vector style, PPT infographic, cute mascot, children's illustration, realistic UI.
+Recurring IP character required: 小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Serious, deadpan, slightly bizarre, not cute.
+Theme: 说句话就自动查 A 股数据画图表
+Structure type: 系统局部
+Core idea: 一句话变成六种不同的财务图表
+Composition: 画面左下小黑指着一个画有引号的小对话框；一条线从对话框连向中央一个画着柱子和折线的方箱；方箱上方扇形展开六张小图卡，分别画着柱状、折线、双柱对比、毛利率台阶、饼图和横条；小黑正把第六张小图卡插进扇形里。
+Suggested elements: 左下对话框 / 中央图表方箱 / 扇形展开六张小图 / 小黑插卡
+Chinese handwritten labels: 营收利润 / 毛利率 / 趋势 / 对比
+Color use: Black for main line art and 小黑. Orange for the connecting cable. Red only for one descending segment. Blue only for the pie chart slice.
+Constraints: One image explains only one core structure. Main subject 40%-60%. Preserve at least 35% blank white space. At most 5-8 short Chinese labels. No title in top-left corner. Not a formal diagram. Invent a fresh visual metaphor. Clear but not instructional, interesting but not childish, strange but clean.
