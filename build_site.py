@@ -211,6 +211,12 @@ def md_to_body(slug: str) -> str:
     # 1. 去掉 H1（网页里由 <h1> 单独渲染）
     raw = re.sub(r"^# .*$\n?", "", raw, count=1, flags=re.M)
 
+    # 仓库行渲染成可点击链接；markdown 默认不会自动链接裸 URL
+    raw = re.sub(
+        r"^代码仓库：(https?://\S+)\s*$",
+        r'<p><strong>代码仓库：</strong><a href="\1" target="_blank" rel="noopener">\1</a></p>',
+        raw, count=1, flags=re.M)
+
     # 2. 切掉闲鱼接单文案整段
     if CUT_MARKER in raw:
         raw = raw.split(CUT_MARKER)[0].rstrip()

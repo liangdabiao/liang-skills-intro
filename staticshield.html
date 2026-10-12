@@ -11,6 +11,7 @@
   <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 工具与杂项类</nav>
   <header class="post-head"><h1>想给网页加个密码锁、只有知道密码的人能看？它把 HTML 加密成自解密页面 —— staticshield 介绍</h1></header>
   <div class="content">
+<p><strong>代码仓库：</strong><a href="https://github.com/liangdabiao/staticshield-skill" target="_blank" rel="noopener">https://github.com/liangdabiao/staticshield-skill</a></p>
 <p>你做了个网页——也许是份内部资料、一封电子请柬、一个只在小圈子里传的页面——你不想谁都能随便打开，但又没有服务器、不会搭登录系统。普通的"网页加密"要么要后端，要么形同虚设。</p>
 <p><strong>staticshield 就是来解决这件事的。</strong></p>
 <p>它把一个 HTML 网页加密成一个"自带解锁页"的文件：别人打开它，看到一个输入密码的框，输对密码才能在浏览器里当场解密、看到原内容；密码错就啥也看不到。你给它一个网页和密码，它还你一个能直接放到任意托管（比如网盘、CDN，甚至本地双击打开）上、靠密码保护的安全页面。</p>

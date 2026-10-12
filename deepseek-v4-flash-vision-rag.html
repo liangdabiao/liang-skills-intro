@@ -11,6 +11,7 @@
   <nav class="crumbs"><a href="index.html">&larr; 全部文章</a> &middot; 研究与智能体框架类</nav>
   <header class="post-head"><h1>有一份几百页的 PDF，想随口提问？它让 AI 一页页"看"完再回答你—— deepseek-v4-flash-vision-rag 介绍</h1></header>
   <div class="content">
+<p><strong>代码仓库：</strong><a href="https://github.com/liangdabiao/deepseek-v4-flash-vision-rag" target="_blank" rel="noopener">https://github.com/liangdabiao/deepseek-v4-flash-vision-rag</a></p>
 <p>你手上是不是也有这样的 PDF：几百页的产品手册、合同、财报、论文、说明书。想找某个参数在哪一页，用阅读器的搜索框搜半天，搜出来的要么不是你要的，要么扫描版根本搜不出来；图表里的数字、表格里的条款，普通搜索更是完全无能为力。你真正想要的是：像问一个读过整份文件的人那样，随口一问，对方告诉你答案在第几页，还把那一页原图翻给你看。</p>
 <p><strong>deepseek-v4-flash-vision-rag 就是来解决这件事的。</strong></p>
 <p>它用 DeepSeek 的视觉大模型，把 PDF 的每一页当成一张图片去"看"——不是提取文字，是真的看页面。所以排版结构、图表、表格、代码块、扫描件的印章和手写体，它都能看懂。你提问之后，它回答时会带着 <code>[第N页]</code> 这样的页码引用，并把命中的那一页原图直接展示给你，答案对不对，你一眼就能核对。</p>
